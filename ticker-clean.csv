@@ -1,0 +1,1447 @@
+Ticker,Date,Company Name,Sector,Price,Size,1,2,3,Turnover,Gain,Year
+PBF,Dec 13,PBF Energy Inc,Energy,26.0,20,CITI,MS,,0.8759999999999999,0.01,2012
+YY,Nov 21,YY Inc,Technology,10.5,7,CITI,DB,MS,0.586,0.077,2012
+ATOS,Nov 8,Atossa Genetics Inc,Health-Care,5.0,800,DWSN,,,0.001,0.726,2012
+RH,Nov 2,Restoration Hardware Holdings Inc,Consumer-Services,24.0,5,BAML,GS,,1.324,0.29600000000000004,2012
+MPLX,Oct 26,MPLX LP,Energy,22.0,17,BAML,MS,UBS,0.578,0.23600000000000002,2012
+WDAY,Oct 12,Workday Inc,Technology,28.0,22,GS,MS,,0.797,0.7390000000000001,2012
+FANG,Oct 12,Diamondback Energy Inc,Energy,17.5,12,CS,,,0.517,0.0,2012
+ICPT,Oct 11,Intercept Pharmaceuticals Inc,Health-Care,15.0,5,BAML,,,0.163,0.293,2012
+SSTK,Oct 11,Shutterstock Inc,Technology,17.0,4,DB,JEFF,MS,1.305,0.27399999999999997,2012
+AMBA,Oct 10,Ambarella Inc,Technology,6.0,6,DB,MS,,0.594,0.01,2012
+BERY,Oct 4,Berry Global Group Inc,Consumer-Non-Durables,16.0,29,BRCL,BAML,CITI,0.601,-0.05,2012
+RGLS,Oct 4,Regulus Therapeutics Inc,Health-Care,4.0,11,BMO,COWN,,0.012,11.6,2012
+LXFR,Oct 3,Luxfer Holdings PLC,Basic-Industries,10.0,8,CS,JEFF,,0.43700000000000006,0.1,2012
+QLYS,Sep 28,Qualys Inc,Technology,12.0,7,CS,JPM,,1.287,0.18,2012
+NBHC,Sep 20,National Bank Holdings Corporation,Finance,19.3,7,GS,KBW,,0.495,0.018000000000000002,2012
+SRC,Sep 20,Spirit Realty Capital Inc,Consumer-Services,15.0,29,MS,,,1.089,-0.529,2012
+PFMT,Aug 10,Performant Financial Corporation,Consumer-Services,9.0,9,GS,MS,,0.6729999999999999,0.17800000000000002,2012
+MANU,Aug 10,Manchester United Ltd,Consumer-Services,14.0,16,CS,JPM,JEFF,1.911,0.0,2012
+GMED,Aug 3,Globus Medical Inc,Health-Care,12.0,8,BAML,GS,PPRJ,0.46799999999999997,0.125,2012
+NGVC,Jul 25,Natural Grocers by Vitamin Cottage Inc,Consumer-Services,15.0,7,PPRJ,SNTR,,0.88,0.191,2012
+PANW,Jul 20,Palo Alto Networks Inc,Technology,42.0,6,CITI,GS,MS,1.1320000000000001,0.265,2012
+FIVE,Jul 19,Five Below Inc,Consumer Services,17.0,9,BRCL,GS,JEFF,1.088,0.5589999999999999,2012
+FSBW,Jul 10,FS Bancorp Inc,Finance,10.0,2,KBW,,,0.374,0.001,2012
+NOW,Jun 29,ServiceNow Inc,Technology,18.0,11,CITI,DB,MS,0.938,0.36700000000000005,2012
+FB,May 18,Meta Inc,Technology,38.0,421,GS,JPM,MS,1.375,0.006,2012
+WMC,May 10,Western Asset Mortgage Capital Corporation,Consumer-Services,20.0,8,CITI,DB,JPM,0.924,-0.062,2012
+CG,May 3,The Carlyle Group L P,Finance,22.0,30,CITI,CS,JPM,0.436,0.002,2012
+SUPN,May 1,Supernus Pharmaceuticals Inc,Health-Care,5.0,10,CITI,PPRJ,,0.068,0.07400000000000001,2012
+ACRE,Apr 26,Ares Commercial Real Estate Corporation,Consumer-Services,18.5,7,BAML,CITI,JPM,0.41100000000000003,-0.027000000000000003,2012
+CLIR,Apr 25,ClearSign Combustion Corporation,Capital-Goods,4.0,3,MDBC,,,0.166,0.05,2012
+SPLK,Apr 19,Splunk Inc,Technology,17.0,13,BAML,CS,JPM,1.046,1.087,2012
+FET,Apr 12,Forum Energy Technologies Inc,Energy,20.0,18,JPM,,,0.624,0.08800000000000001,2012
+MRC,Apr 12,MRC Global Inc,Capital-Goods,21.0,22,BRCL,GS,,0.447,0.002,2012
+ENPH,Mar 30,Enphase Energy Inc,Technology,6.0,8,BAML,DB,MS,0.563,0.223,2012
+MACK,Mar 29,Merrimack Pharmaceuticals Inc,Health-Care,7.0,14,JPM,,,0.026000000000000002,7.629,2012
+RM,Mar 28,Regional Management Corp,Finance,15.0,4,JEFF,STPH,,0.561,0.09699999999999999,2012
+VIPS,Mar 23,Vipshop Holdings Limited,Consumer-Services,6.5,11,DB,GS,,4.697,-0.915,2012
+CSTE,Mar 22,Caesarstone Ltd,Capital-Goods,11.0,6,BRCL,CS,JPM,0.736,0.01,2012
+ALSN,Mar 15,Allison Transmission Holdings Inc,Capital-Goods,23.0,26,BAML,CITI,JPM,0.531,0.017,2012
+MTSI,Mar 15,MACOM Technology Solutions Holdings Inc,Technology,19.0,6,BRCL,JPM,JEFF,0.7,0.08199999999999999,2012
+SIR,Mar 7,Select Income REIT,Consumer-Services,21.5,8,BAML,MS,WLFG,0.33899999999999997,0.006999999999999999,2012
+YELP,Mar 2,Yelp Inc,Consumer-Services,15.0,7,CITI,GS,,2.441,0.639,2012
+PRLB,Feb 24,Proto Labs Inc,Capital-Goods,16.0,4,JEFF,PPRJ,,0.94,0.813,2012
+BCOV,Feb 17,Brightcove Inc,Technology,11.0,5,MS,Stifel,,0.87,0.3,2012
+HMST,Feb 10,HomeStreet Inc,Finance,44.0,1,FBR,,,1.304,-0.727,2012
+CCXI,Feb 8,ChemoCentryx Inc,Health-Care,10.0,4,CITI,JPM,,0.225,0.1,2012
+CZR,Feb 8,Caesars Entertainment Corporation,Consumer-Services,9.0,1,CITI,CS,,6.42,0.71,2012
+CPAC,Feb 8,Cementos Pacasmayo S A A,Capital-Goods,11.5,20,JPM,,,0.23800000000000002,-0.037000000000000005,2012
+EPAM,Feb 8,EPAM Systems Inc,Technology,12.0,6,BRCL,CITI,,0.556,0.16699999999999998,2012
+MTDR,Feb 2,Matador Resources Company,Energy,12.0,13,CITI,RBC,,0.34299999999999997,-0.021,2012
+VSTM,Jan 27,Verastem Inc,Health-Care,10.0,5,,UBS,,0.136,0.109,2012
+GWRE,Jan 25,Guidewire Software Inc,Technology,13.0,8,CITI,DB,JPM,0.794,0.317,2012
+AMC,Dec 18,AMC Entertainment Holdings Inc,Consumer-Services,18.0,18,BAML,BAML,,0.815,0.05,2013
+HLT,Dec 12,Hilton Worldwide Holdings Inc,Consumer-Services,20.0,117,BAML,DB,GS,0.201,2.225,2013
+ARMK,Dec 12,Aramark,Consumer-Services,20.0,36,CS,GS,JPM,0.474,0.135,2013
+ATHM,Dec 12,Autohome Inc,Technology,17.0,7,DB,GS,,1.251,0.769,2013
+XNCR,Dec 3,Xencor Inc,Health-Care,5.5,12,CS,LRNK,,0.147,0.516,2013
+IPWR,Nov 22,Ideal Power Inc,Energy,5.0,3,MDBC,,,0.08,0.07,2013
+VNCE,Nov 22,Vince Holding Corp,Consumer-Services,20.0,10,GS,RWB,,0.11900000000000001,13.33,2013
+NVGS,Nov 21,Navigator Holdings Ltd,Transportation,19.0,12,JEFF,MS,,0.722,0.053,2013
+EVGN,Nov 21,Evogene Ltd,Basic-Industries,14.8,5,CS,DB,,0.26899999999999996,0.168,2013
+TNDM,Nov 14,Tandem Diabetes Care Inc,Health-Care,15.0,8,BAML,PPRJ,,0.05,11.84,2013
+DLNG,Nov 13,Dynagas LNG Partners LP,Consumer-Services,18.0,12,CS,,,0.564,0.0,2013
+CHGG,Nov 13,Chegg Inc,Consumer-Services,12.5,15,BAML,JPM,,1.15,-0.226,2013
+NMIH,Nov 8,NMI Holdings Inc,Finance,13.0,2,FBR,,,0.738,0.077,2013
+LGIH,Nov 7,LGI Homes Inc,Capital-Goods,11.0,9,DB,JPM,JMPS,0.28600000000000003,0.17300000000000001,2013
+TWTR,Nov 7,Twitter Inc,Technology,26.0,70,GS,JPM,MS,1.681,0.727,2013
+WIX,Nov 6,Wix com Ltd,Technology,16.5,7,BAML,JPM,RBC,1.442,-0.012,2013
+KPTI,Nov 6,Karyopharm Therapeutics Inc,Health-Care,16.0,6,BAML,LRNK,MS,0.875,0.003,2013
+ESNT,Oct 31,Essent Group Ltd,Finance,17.0,19,BRCL,GS,JPM,0.813,0.235,2013
+MMI,Oct 31,Marcus & Millichap Inc,Finance,12.0,6,CITI,GS,,0.42200000000000004,0.11800000000000001,2013
+VCYT,Oct 30,Veracyte Inc,Health-Care,13.0,5,LRNK,MS,,0.919,0.019,2013
+BRX,Oct 30,Brixmor Property Group Inc,Consumer-Services,20.0,41,BAML,CITI,JPM,0.586,0.02,2013
+CRTO,Oct 30,Criteo S A,Technology,31.0,8,DB,JPM,JEFF,1.1440000000000001,0.142,2013
+COMM,Oct 25,CommScope Holding Company Inc,Technology,15.0,38,BAML,DB,JPM,0.569,-0.001,2013
+SRLP,Oct 25,Sprague Resources LP,Energy,18.0,8,BRCL,BAML,JPM,0.696,-0.013999999999999999,2013
+AERI,Oct 25,Aerie Pharmaceuticals Inc,Health-Care,10.0,6,RBC,Stifel,,0.39899999999999997,0.061,2013
+VJET,Oct 18,voxeljet AG,Capital-Goods,13.0,6,CITI,PPRJ,,1.8940000000000001,1.215,2013
+VEEV,Oct 16,Veeva Systems Inc,Technology,20.0,13,DB,MS,,1.07,0.858,2013
+MGNX,Oct 10,MacroGenics Inc,Health-Care,16.0,5,BAML,LRNK,,1.072,0.562,2013
+AR,Oct 10,Antero Resources Corporation,Energy,44.0,35,BRCL,CITI,JPM,0.8190000000000001,0.182,2013
+PBPB,Oct 4,Potbelly Corporation,Consumer-Services,14.0,7,BAML,GS,,2.265,1.198,2013
+CHMI,Oct 4,Cherry Hill Mortgage Investment Corporation,Consumer-Services,20.0,6,BRCL,CITI,MS,0.851,-0.075,2013
+BURL,Oct 2,Burlington Stores Inc,Consumer-Services,17.0,13,BAML,JPM,MS,1.125,0.47100000000000003,2013
+RMAX,Oct 2,RE MAX Holdings Inc,Finance,22.0,10,BAML,JPM,MS,1.3840000000000001,0.22699999999999998,2013
+FATE,Oct 1,Fate Therapeutics Inc,Health-Care,6.0,6,BMO,COWN,,0.312,0.10300000000000001,2013
+RNG,Sep 27,Ringcentral Inc,Technology,13.0,7,BAML,GS,JPM,1.084,0.4,2013
+PINC,Sep 26,Premier Inc,Consumer-Services,27.0,28,BAML,JPM,WLFG,0.6759999999999999,0.135,2013
+AAOI,Sep 26,Applied Optoelectronics Inc,Technology,10.0,3,PPRJ,RAYJ,,0.264,-0.004,2013
+EVOK,Sep 25,Evoke Pharma Inc,Health-Care,12.0,2,AGIS,,,0.35600000000000004,-0.022000000000000002,2013
+BNFT,Sep 18,Benefitfocus Inc,Technology,26.5,4,DB,GS,JEFF,1.255,1.021,2013
+GLG,Aug 13,TD Holdings Inc.,Finance,6.5,1,AXOM,BNHM,,0.23800000000000002,-0.017,2013
+MIXT,Aug 9,MiX Telematics Limited,Technology,16.0,6,RAYJ,WB,,0.605,0.133,2013
+FOXF,Aug 8,Fox Factory Holding Corp,Consumer-Non-Durables,15.0,8,PPRJ,RWB,WB,0.743,0.24100000000000002,2013
+MBII,Aug 2,Marrone Bio Innovations Inc,Basic-Industries,12.0,4,JEFF,PPRJ,,0.207,0.146,2013
+SFM,Aug 1,Sprouts Farmers Market Inc,Consumer-Services,18.0,18,CS,GS,,0.7979999999999999,1.228,2013
+AMH,Aug 1,American Homes 4 Rent,Consumer-Services,16.0,44,BAML,FBR,GS,0.478,-0.025,2013
+ASC,Aug 1,Ardmore Shipping Corporation,Transportation,14.0,10,,JEFF,MS,0.336,-0.036000000000000004,2013
+ONTX,Jul 25,Onconova Therapeutics Inc,Health-Care,15.0,5,CITI,LRNK,,0.006999999999999999,0.987,2013
+AGIO,Jul 24,Agios Pharmaceuticals Inc,Health-Care,18.0,5,GS,JPM,,1.053,0.738,2013
+REXR,Jul 19,Rexford Industrial Realty Inc,Consumer-Services,14.0,16,BAML,FBR,JPM,0.6659999999999999,0.003,2013
+CWEN,Jul 17,Clearway Energy Inc,Public-Utilities,22.0,19,BAML,CITI,GS,0.027000000000000003,0.114,2013
+NDLS,Jun 28,Noodles & Company,Consumer-Services,18.0,5,BAML,MS,UBS,1.442,1.042,2013
+SAMG,Jun 27,Silvercrest Asset Management Group Inc,Finance,11.0,4,RAYJ,SNDL,,0.198,0.075,2013
+CDW,Jun 27,CDW Corporation,Consumer-Services,17.0,23,BRCL,GS,JPM,0.35600000000000004,0.081,2013
+ESPR,Jun 26,Esperion Therapeutics Inc,Health-Care,14.0,5,CITI,CS,,0.617,0.036000000000000004,2013
+NSTG,Jun 26,NanoString Technologies Inc,Health-Care,10.0,5,JPM,MS,,0.5670000000000001,-0.19399999999999998,2013
+GOGO,Jun 21,Gogo Inc,Consumer-Services,17.0,11,JPM,MS,UBS,0.777,-0.059000000000000004,2013
+PTCT,Jun 20,PTC Therapeutics Inc,Health-Care,15.0,8,CS,JPM,,0.40299999999999997,0.099,2013
+THST,Jun 20,Truett Hurst Inc,Consumer-Non-Durables,6.0,2,,,,0.087,-0.053,2013
+BLUE,Jun 19,bluebird bio Inc,Health-Care,17.0,5,BAML,JPM,,0.893,0.583,2013
+COTY,Jun 13,Coty Inc,Consumer-Non-Durables,17.5,57,BAML,JPM,MS,0.81,-0.008,2013
+EPZM,May 31,Epizyme Inc,Health-Care,15.0,5,CITI,COWN,LRNK,0.639,0.5329999999999999,2013
+KMDA,May 31,Kamada Ltd,Health-Care,9.3,5,JEFF,MS,,0.57,0.092,2013
+CSTM,May 23,Constellium N V,Basic-Industries,15.0,22,,DB,GS,0.406,-0.031,2013
+PFSI,May 9,PennyMac Financial Services Inc,Finance,18.0,11,BAML,CITI,CS,0.586,0.061,2013
+AHH,May 8,Armada Hoffler Properties Inc,Finance,11.5,16,RAYJ,RWB,Stifel,0.28,0.006999999999999999,2013
+QIWI,May 3,QIWI plc,Miscellaneous,17.0,12,CS,JPM,,0.7809999999999999,0.005,2013
+VOYA,May 2,Voya Financial Inc,Finance,19.5,65,CITI,GS,MS,0.505,0.069,2013
+EARN,May 1,Ellington Residential Mortgage REIT,Consumer-Services,20.0,6,CS,DB,,0.87,-0.039,2013
+SEAS,Apr 19,SeaWorld Entertainment Inc,Consumer-Services,27.0,26,GS,JPM,,0.8340000000000001,0.24100000000000002,2013
+HASI,Apr 18,Hannon Armstrong Sustainable Infrastructure Capital Inc,Consumer-Services,12.5,13,BAML,UBS,WLFG,0.392,-0.08800000000000001,2013
+EVTC,Apr 12,Evertec Inc,Technology,20.0,25,GS,JPM,,0.8,0.022000000000000002,2013
+CMRX,Apr 11,Chimerix Inc,Health-Care,14.0,7,COWN,MS,,0.615,0.342,2013
+KNOP,Apr 10,KNOT Offshore Partners LP,Consumer-Services,21.0,7,BRCL,BAML,CITI,0.737,0.038,2013
+TMHC,Apr 10,Taylor Morrison Home Corporation,Capital-Goods,22.0,28,CITI,CS,,0.846,0.047,2013
+IBTX,Apr 3,Independent Bank Group Inc,Finance,26.0,3,,KBW,SNDL,0.031,0.10800000000000001,2013
+ENTA,Mar 21,Enanta Pharmaceuticals Inc,Health-Care,4.0,14,CS,JPM,,0.126,3.295,2013
+MODN,Mar 20,Model N Inc,Technology,15.5,6,DB,JPM,,1.4780000000000002,0.289,2013
+APAM,Mar 7,Artisan Partners Asset Management Inc,Finance,30.0,11,CITI,GS,,0.7290000000000001,0.294,2013
+IPDN,Mar 5,Professional Diversity Network Inc,Technology,8.0,2,AGIS,RDMN,,0.047,6.67,2013
+ORC,Feb 14,Orchid Island Capital Inc,Consumer-Services,15.0,2,LDNT,OPPN,,0.10400000000000001,-0.013000000000000001,2013
+CNOB,Feb 12,ConnectOne Bancorp Inc,Finance,28.0,1,Stifel,,,0.004,-0.547,2013
+ZTS,Feb 1,Zoetis Inc,Health-Care,26.0,86,BAML,JPM,MS,0.7759999999999999,0.193,2013
+TPH,Jan 31,TRI Pointe Group Inc,Capital Goods,17.0,13,CITI,DB,FBR,0.929,0.121,2013
+LAND,Jan 29,Gladstone Land Corporation,Consumer-Services,15.0,3,JMS,JMPS,,0.267,0.0,2013
+BFAM,Jan 25,Bright Horizons Family Solutions Inc,Miscellaneous,22.0,10,BRCL,GS,JPM,0.9129999999999999,0.287,2013
+JRVR,Dec 12,James River Group Holdings Ltd.,Finance,21.0,11,BMO,FBR,KBW,0.311,0.012,2014
+WK,Dec 12,Workiva Inc.,Technology,14.0,7,CS,MS,,0.6990000000000001,-0.018000000000000002,2014
+NEWR,Dec 12,New Relic Inc.,Technology,23.0,5,JPM,MS,,1.6680000000000001,0.478,2014
+LC,Dec 11,LendingClub Corporation,Miscellaneous,15.0,57,GS,MS,,0.8059999999999999,0.562,2014
+MOMO,Dec 11,Momo Inc.,Technology,13.5,16,CRNS,,JPM,1.24,0.261,2014
+EYES,Nov 19,Second Sight Medical Products Inc.,Health-Care,9.0,3,MDBC,,,1.395,1.219,2014
+PGRE,Nov 19,Paramount Group Inc.,Consumer-Services,17.5,131,BAML,MS,WLFG,0.43700000000000006,0.039,2014
+STOR,Nov 18,STORE Capital Corporation,Consumer-Services,18.5,27,CS,GS,MS,0.373,0.054000000000000006,2014
+FGEN,Nov 14,FibroGen Inc,Health-Care,18.0,8,CITI,GS,LRNK,0.795,0.222,2014
+AXTA,Nov 12,Axalta Coating Systems Ltd.,Basic-Industries,19.5,50,CITI,DB,GS,0.49700000000000005,0.064,2014
+JYNT,Nov 11,The Joint Corp.,Miscellaneous,6.5,3,FLTI,ROTH,,0.20800000000000002,0.012,2014
+FRPT,Nov 7,Freshpet Inc.,Consumer-Non-Durables,15.0,10,CS,GS,,0.953,0.27399999999999997,2014
+TBK,Nov 7,Triumph Bancorp Inc.,Finance,12.0,6,EVCR,SNDL,WLFG,0.262,0.063,2014
+UPLD,Nov 6,Upland Software Inc.,Technology,12.0,3,RAYJ,WB,,0.6809999999999999,-0.188,2014
+CHRS,Nov 6,Coherus BioSciences Inc.,Health-Care,13.5,6,CS,JPM,,0.545,-0.066,2014
+NVRO,Nov 6,Nevro Corp.,Health-Care,18.0,7,JPM,MS,,0.8059999999999999,0.39899999999999997,2014
+AM,Nov 5,Antero Midstream Partners LP,Public-Utilities,25.0,40,BRCL,CITI,WLFG,0.773,0.121,2014
+XENE,Nov 5,Xenon Pharmaceuticals Inc.,Health-Care,9.0,4,JEFF,WLFG,,0.201,0.16699999999999998,2014
+BOOT,Oct 30,Boot Barn Holdings Inc.,Consumer-Services,16.0,5,JPM,JEFF,PPRJ,1.3769999999999998,0.091,2014
+SHLX,Oct 29,Shell Midstream Partners L.P.,Energy,23.0,40,BRCL,CITI,,0.836,0.254,2014
+SIEN,Oct 29,Sientra Inc.,Health-Care,15.0,5,PPRJ,Stifel,,0.752,0.11699999999999999,2014
+DBVT,Oct 22,DBV Technologies S.A.,Health-Care,21.6,4,CITI,LRNK,,0.29,0.057999999999999996,2014
+ATRA,Oct 16,Atara Biotherapeutics Inc.,Health-Care,11.0,5,CITI,GS,,0.01,0.318,2014
+FWP,Oct 15,Forward Pharma A/S,Health-Care,21.0,10,JEFF,LRNK,RBC,0.387,-0.16699999999999998,2014
+PLAY,Oct 10,Dave & Buster`s Entertainment Inc.,Consumer-Services,16.0,5,JEFF,PPRJ,,1.198,0.077,2014
+USDP,Oct 9,USD Partners LP,Transportation,17.0,9,BRCL,BAML,CITI,0.579,-0.059000000000000004,2014
+HUBS,Oct 9,HubSpot Inc.,Technology,25.0,5,JPM,MS,UBS,1.652,0.204,2014
+VBTX,Oct 9,Veritex Holdings Inc.,Finance,13.0,2,SNDL,STPH,,0.389,0.073,2014
+DERM,Oct 3,Journey Medical Corporation,Health-Care,16.0,7,CITI,LRNK,,0.721,-0.027999999999999997,2014
+W,Oct 2,Wayfair Inc.,Consumer-Services,29.0,11,BAML,CITI,GS,1.455,0.301,2014
+AAC,Oct 2,AAC Holdings Inc.,Health-Care,15.0,5,RAYJ,WLFG,WB,0.56,0.233,2014
+ATTO,Oct 2,Atento S.A.,Public-Utilities,15.0,10,BITA,CS,MS,0.7,-0.136,2014
+CALA,Oct 2,Calithera Biosciences Inc.,Health-Care,10.0,8,CITI,LRNK,,0.579,-0.059000000000000004,2014
+VBLT,Oct 1,Vascular Biogenics Ltd.,Health-Care,6.0,6,DB,,,0.18600000000000003,-0.025,2014
+CYBR,Sep 24,CyberArk Software Ltd.,Technology,16.0,0.9K,BRCL,DB,JPM,24.244,0.871,2014
+CFG,Sep 24,Citizens Financial Group Inc.,Finance,21.5,140,GS,MS,,0.43200000000000005,0.073,2014
+ICL,Sep 24,Israel Chemicals Shs,Basic-Industries,7.0,60,BRCL,MS,,0.434,0.023,2014
+AVAL,Sep 23,Grupo Aval Acciones y Valores S.A.,Finance,13.5,81,GS,JPM,,0.298,0.006,2014
+BABA,Sep 19,Alibaba Group Holding Limited,Miscellaneous,68.0,320,CITI,CS,DB,0.8490000000000001,0.381,2014
+PRQR,Sep 18,ProQR Therapeutics N.V.,Health-Care,13.0,7,DB,LRNK,,0.9009999999999999,0.133,2014
+CIVI,Sep 17,Civitas Solutions Inc.,Health-Care,17.0,11,BRCL,BAML,JEFF,0.5660000000000001,-0.023,2014
+AFMD,Sep 12,Affimed N.V.,Health-Care,7.0,8,BMO,JEFF,LRNK,0.446,-0.18600000000000003,2014
+RWLK,Sep 12,ReWalk Robotics Ltd,Health-Care,12.0,3,BRCL,JEFF,,4.247,1.133,2014
+OTIC,Aug 13,Otonomy Inc.,Health-Care,16.0,6,BAML,JPM,,0.993,0.07200000000000001,2014
+ICD,Aug 8,Independence Contract Drilling Inc.,Energy,11.0,10,BRCL,MS,RBC,0.41200000000000003,0.005,2014
+RYI,Aug 8,Ryerson Holding Corporation,Basic-Industries,11.0,11,BMO,BAML,DB,0.606,-0.064,2014
+TTOO,Aug 7,T2 Biosystems Inc.,Health-Care,11.0,5,GS,MS,,0.561,0.302,2014
+HMLP,Aug 7,Hoegh LNG Partners LP,Consumer-Services,20.0,9,BAML,CITI,MS,0.634,0.113,2014
+CTLT,Jul 31,Catalent Inc.,Health-Care,20.5,42,JPM,MS,,0.33399999999999996,-0.025,2014
+HQY,Jul 31,HealthEquity Inc.,Miscellaneous,14.0,9,JPM,WLFG,,0.795,0.257,2014
+MRNS,Jul 31,Marinus Pharmaceuticals Inc.,Health-Care,8.0,5,JMPS,Stifel,,0.111,0.0,2014
+SYF,Jul 31,Synchrony Financial,Finance,23.0,125,GS,JPM,MS,0.452,0.0,2014
+WLKP,Jul 30,Westlake Chemical Partners LP,Basic-Industries,24.0,11,BRCL,UBS,,1.026,0.28300000000000003,2014
+LOCO,Jul 25,El Pollo Loco Holdings Inc.,Consumer-Services,15.0,7,JEFF,MS,RWB,3.295,0.602,2014
+OCUL,Jul 25,Ocular Therapeutix Inc.,Health-Care,13.0,5,COWN,MS,RBC,0.376,0.012,2014
+OEC,Jul 25,Orion Engineered Carbons S.A,Basic-Industries,18.0,19,GS,MS,,0.409,-0.013999999999999999,2014
+WMS,Jul 25,Advanced Drainage Systems Inc.,Capital-Goods,16.0,14,BRCL,DB,,0.355,0.009000000000000001,2014
+TSQ,Jul 24,Townsquare Media Inc.,Consumer-Services,11.0,8,BAML,JEFF,RBC,0.6659999999999999,-0.068,2014
+MTBC,Jul 23,"CareCloud, Inc",Technology,5.0,4,AGIS,CHRD,SMRS,0.46399999999999997,-0.14400000000000002,2014
+GLOB,Jul 18,Globant S.A.,Technology,10.0,5,CITI,CS,JPM,0.7090000000000001,0.125,2014
+SAGE,Jul 18,Sage Therapeutics Inc.,Health-Care,18.0,5,GS,JPM,,1.1640000000000001,0.672,2014
+TRUP,Jul 18,Trupanion Inc.,Health-Care,10.0,7,BRCL,RBC,Stifel,0.594,0.14,2014
+CDNA,Jul 17,CareDx Inc.,Health-Care,10.0,4,LRNK,PPRJ,,0.39899999999999997,-0.095,2014
+IRMD,Jul 16,iRadimed Corporation,Health-Care,6.3,2,ROTH,,,0.447,0.584,2014
+ISTR,Jul 1,Investar Holding Corporation,Finance,14.0,2,SNDL,STRN,,0.27699999999999997,0.013999999999999999,2014
+NERV,Jul 1,Minerva Neurosciences Inc,Health-Care,6.0,5,JEFF,,,0.537,0.008,2014
+NEP,Jun 27,NextEra Energy Partners LP,Public-Utilities,25.0,16,BAML,GS,MS,0.726,0.28,2014
+GPRO,Jun 26,GoPro Inc.,Miscellaneous,24.0,17,BRCL,CITI,JPM,2.573,0.306,2014
+AMPH,Jun 25,Amphastar Pharmaceuticals Inc.,Health-Care,7.0,8,BMO,JEFF,PPRJ,0.52,0.25,2014
+MTLS,Jun 25,Materialise NV,Technology,12.0,8,CS,PPRJ,,0.759,-0.037000000000000005,2014
+XNET,Jun 24,Xunlei Limited,Technology,12.0,7,CITI,JPM,,1.456,0.242,2014
+ARDX,Jun 19,Ardelyx Inc.,Health-Care,14.0,4,CITI,LRNK,,0.369,0.008,2014
+VNOM,Jun 18,Viper Energy Partners LP,Energy,26.0,5,BRCL,CS,WLFG,0.196,0.244,2014
+CCS,Jun 18,Century Communities Inc.,Capital-Goods,23.0,4,DB,FBR,JPM,0.94,-0.076,2014
+ASPN,Jun 13,Aspen Aerogels Inc.,Consumer-Services,11.0,7,BRCL,CITI,JPM,0.445,-0.023,2014
+TSE,Jun 12,Trinseo S.A.,Basic-Industries,19.0,10,CITI,DB,GS,0.545,0.066,2014
+RDUS,Jun 6,Radius Health Inc.,Health-Care,8.0,6,COWN,JEFF,,0.272,0.001,2014
+ANET,Jun 6,Arista Networks Inc.,Technology,43.0,5,CITI,MS,,1.382,0.27899999999999997,2014
+AGRX,May 23,Agile Therapeutics Inc.,Health-Care,6.0,9,RBC,WB,,0.36700000000000005,-0.077,2014
+HRTG,May 23,Heritage Insurance Holdings Inc.,Finance,11.0,6,CITI,SNDL,,0.368,0.045,2014
+SDPI,May 23,Superior Drilling Products Inc.,Energy,4.0,6,ROTH,,,0.16699999999999998,0.12300000000000001,2014
+JD,May 22,JD.com Inc.,Consumer-Services,19.0,93,BAML,UBS,,0.9009999999999999,0.1,2014
+TGEN,May 20,Tecogen Inc.,Capital-Goods,4.8,647,SCRS,,,0.031,0.341,2014
+TRUE,May 16,TrueCar Inc.,Technology,9.0,7,GS,JPM,RBC,0.8440000000000001,0.11800000000000001,2014
+BWFG,May 15,Bankwell Financial Group Inc.,Finance,18.0,2,KBW,SNDL,,0.18,0.0,2014
+ZEN,May 15,Zendesk Inc.,Technology,9.0,11,CS,GS,MS,0.758,0.49200000000000005,2014
+SFBS,May 14,ServisFirst Bancshares Inc.,Finance,91.0,625,SNDL,,,4.477,-0.8440000000000001,2014
+TOUR,May 9,Tuniu Corporation,Consumer Services,9.0,8,CRNS,CS,MS,0.778,0.11900000000000001,2014
+PBFX,May 9,PBF Logistics LP,Energy,23.0,13,BRCL,UBS,,0.701,0.203,2014
+CMCM,May 8,Cheetah Mobile Inc.,Technology,14.0,12,CS,JPM,MS,0.6409999999999999,0.006999999999999999,2014
+LPG,May 8,Dorian LPG Ltd.,Transportation,19.0,7,JPM,UBS,,0.526,-0.019,2014
+GLOP,May 7,GasLog Partners LP,Consumer-Services,21.0,8,CITI,CS,WLFG,0.5589999999999999,0.243,2014
+SCYX,May 2,SCYNEXIS Inc.,Health-Care,10.0,6,CNCD,RBC,,0.138,-0.1,2014
+FRSH,May 2,Papa Murphy`s Holdings Inc.,Consumer-Services,11.0,5,JEFF,RWB,WLFG,0.762,0.005,2014
+ALDX,May 2,Aldeyra Therapeutics Inc.,Health-Care,8.0,1,AGIS,,,0.385,-0.1,2014
+ARES,May 2,Ares Management Corporation,Finance,19.0,11,BAML,JPM,,0.677,-0.021,2014
+SABR,Apr 17,Sabre Corporation,Technology,16.0,39,BAML,DB,GS,0.469,0.031,2014
+SPWH,Apr 17,Sportsman`s Warehouse Holdings Inc.,Consumer-Services,9.5,12,CS,GS,,0.445,0.026000000000000002,2014
+LEJU,Apr 17,Leju Holdings Limited,Finance,10.0,10,CS,JPM,MQRE,0.898,0.18600000000000003,2014
+MC,Apr 16,Moelis & Company,Finance,25.0,6,GS,MS,,0.6829999999999999,0.046,2014
+PAYC,Apr 15,Paycom Software Inc.,Technology,15.0,6,BRCL,JPM,,0.532,0.023,2014
+CIO,Apr 15,City Office REIT Inc.,Consumer-Services,12.5,5,JMS,OPPN,WUND,0.065,-0.008,2014
+WB,Apr 14,Weibo Corporation,Technology,17.0,16,CS,GS,GS,1.949,0.191,2014
+PAHC,Apr 11,Phibro Animal Health Corporation,Health-Care,15.0,12,BRCL,BAML,MS,0.33399999999999996,0.133,2014
+FPI,Apr 11,Farmland Partners Inc.,Consumer-Services,14.0,3,BMO,JMS,RWB,0.326,-0.073,2014
+ALLY,Apr 10,Ally Financial Inc.,Finance,25.0,95,BRCL,CITI,GS,0.669,-0.040999999999999995,2014
+FIVN,Apr 4,Five9 Inc.,Technology,7.0,10,BRCL,BAML,JPM,0.552,0.091,2014
+TEDU,Apr 3,Tarena International Inc.,Consumer-Services,9.0,15,CS,GS,,0.784,0.006999999999999999,2014
+BRG,Mar 28,Bluerock Residential Growth REIT Inc.,Consumer-Services,14.5,3,WUND,,,0.09,0.003,2014
+HIVE,Mar 28,Aerohive Networks Inc.,Technology,10.0,7,BAML,GS,,1.013,0.0,2014
+TWOU,Mar 28,2U Inc.,Technology,13.0,9,CS,GS,,1.032,0.075,2014
+WATT,Mar 28,Energous Corporation,Technology,6.0,4,MDBC,,,0.47600000000000003,0.763,2014
+TNET,Mar 27,TriNet Group Inc.,Miscellaneous,16.0,15,DB,JPM,MS,0.946,0.19399999999999998,2014
+AGTC,Mar 27,Applied Genetic Technologies Corporation,Health-Care,12.0,4,BRCL,BMO,WBSH,0.376,0.23,2014
+ATEN,Mar 21,A10 Networks Inc.,Technology,15.0,12,BAML,JPM,MS,1.016,0.081,2014
+ARAV,Mar 21,Aravive Inc.,Health-Care,21.0,6,CITI,MS,,0.16899999999999998,7.962999999999999,2014
+QTWO,Mar 20,Q2 Holdings Inc.,Technology,13.0,7,JPM,Stifel,,1.6219999999999999,0.16699999999999998,2014
+AKBA,Mar 20,Akebia Therapeutics Inc.,Health-Care,17.0,5,CS,,,0.795,0.5710000000000001,2014
+MDWD,Mar 20,MediWound Ltd.,Consumer-Durables,14.0,5,BMO,CS,JEFF,1.08,0.23399999999999999,2014
+PCTY,Mar 19,Paylocity Holding Corporation,Technology,17.0,7,BAML,DB,WB,1.339,0.414,2014
+GLMD,Mar 13,Galmed Pharmaceuticals Ltd.,Health-Care,13.5,2,MXIM,,,0.83,0.06,2014
+COUP,Mar 7,Coupa Software Incorporated,Technology,16.0,10,BAML,GS,RBC,1.5959999999999999,1.08,2014
+VRNS,Feb 28,Varonis Systems Inc.,Technology,22.0,4,BRCL,BRCL,MS,1.537,1.0,2014
+INGN,Feb 14,Inogen Inc,Health-Care,16.0,4,JPM,,,0.8190000000000001,-0.053,2014
+CNCE,Feb 13,Concert Pharmaceuticals Inc.,Health-Care,14.0,6,UBS,WLFG,,0.693,0.013000000000000001,2014
+IBP,Feb 13,Installed Building Products Inc.,Basic-Industries,11.0,7,DB,UBS,,0.511,0.16399999999999998,2014
+EGRX,Feb 12,Eagle Pharmaceuticals Inc.,Health-Care,15.0,3,PPRJ,WB,,1.7730000000000001,-0.145,2014
+RVNC,Feb 6,Revance Therapeutics Inc.,Health-Care,16.0,6,COWN,PPRJ,,0.84,0.6779999999999999,2014
+LADR,Feb 6,Ladder Capital Corp,Consumer-Services,17.0,13,BAML,CITI,DB,0.547,-0.001,2014
+QURE,Feb 5,uniQure N.V.,Health-Care,17.0,5,JEFF,LRNK,LRNK,0.868,-0.141,2014
+GNCA,Feb 5,Genocea Biosciences Inc.,Health-Care,12.0,5,CITI,COWN,,0.384,-0.083,2014
+CARA,Jan 31,Cara Therapeutics Inc.,Health-Care,11.0,5,PPRJ,Stifel,,0.40299999999999997,0.174,2014
+RARE,Jan 31,Ultragenyx Pharmaceutical Inc.,Health-Care,21.0,5,JPM,MS,,0.763,1.012,2014
+MBUU,Jan 31,Malibu Boats Inc.,Capital-Goods,14.0,7,BRCL,JEFF,,0.722,0.268,2014
+TRVN,Jan 31,Trevena Inc.,Health-Care,7.0,9,CITI,CS,JPM,0.33899999999999997,-0.071,2014
+GLYC,Jan 10,GlycoMimetics Inc.,Health-Care,8.0,7,JEFF,,,0.573,0.126,2014
+YRD,Dec 18,Yirendai Ltd.,Finance,10.0,7,CRNS,CS,MS,0.716,-0.09,2015
+TEAM,Dec 10,Atlassian Corporation Plc,Technology,21.0,22,GS,MS,,0.682,0.32299999999999995,2015
+DLTH,Nov 20,Duluth Holdings Inc.,Consumer-Services,12.0,6,BMO,RAYJ,WB,0.501,0.138,2015
+AXSM,Nov 19,Axsome Therapeutics Inc.,Health-Care,9.0,5,LDNT,,,0.094,-0.028999999999999998,2015
+MTCH,Nov 19,Match Group Inc.,Technology,12.0,33,ALLN,BAML,JPM,0.807,0.228,2015
+SQ,Nov 19,Square Inc.,Technology,9.0,27,GS,JPM,MS,1.756,0.452,2015
+MESO,Nov 13,Mesoblast Limited,Health-Care,8.0,7,CS,JPM,,0.062,-0.14400000000000002,2015
+INST,Nov 13,Instructure Inc.,Technology,16.0,4,GS,MS,,0.805,0.125,2015
+VYGR,Nov 11,Voyager Therapeutics Inc.,Health-Care,14.0,5,COWN,PPRJ,,0.252,0.268,2015
+WVE,Nov 11,WAVE Life Sciences Ltd.,Health-Care,16.0,6,JEFF,LRNK,,0.214,0.0,2015
+EQBK,Nov 11,Equity Bancshares Inc.,Finance,22.5,1,KBW,STPH,,0.415,0.062,2015
+KURA,Nov 5,Kura Oncology Inc.,Health-Care,8.0,6,CITI,LRNK,,0.126,-0.02,2015
+RACE,Oct 21,Ferrari N.V.,Capital-Goods,52.0,17,BAML,UBS,,1.3090000000000002,0.057999999999999996,2015
+PMTS,Oct 9,CPI Card Group Inc.,Finance,10.0,15,BMO,CIBC,GS,0.098,5.085,2015
+CTMX,Oct 8,CytomX Therapeutics Inc.,Health-Care,12.0,6,BAML,COWN,JEFF,0.15,0.075,2015
+ABTX,Oct 8,Allegiance Bancshares Inc.,Finance,21.0,2,RWB,STPH,,0.47700000000000004,0.10099999999999999,2015
+ACRS,Oct 7,Aclaris Therapeutics Inc.,Health-Care,11.0,5,CITI,JEFF,,0.231,0.005,2015
+PSTG,Oct 7,Pure Storage Inc.,Technology,17.0,25,ALLN,BRCL,GS,0.752,-0.057999999999999996,2015
+NVCR,Oct 2,NovoCure Limited,Health-Care,22.0,7,DB,EVCR,JPM,0.428,-0.16899999999999998,2015
+SGRY,Oct 1,Surgery Partners Inc.,Health-Care,19.0,14,BAML,GS,JEFF,0.616,-0.047,2015
+PFGC,Oct 1,Performance Food Group Company,Consumer-Non-Durables,19.0,14,BRCL,CS,,0.39,0.011000000000000001,2015
+NBRV,Sep 18,Nabriva Therapeutics plc,Health-Care,10.3,9,LRNK,RBC,,0.212,0.292,2015
+PEN,Sep 18,Penumbra Inc.,Health-Care,30.0,4,BAML,JPM,,0.861,0.377,2015
+RGNX,Sep 17,REGENXBIO Inc.,Health-Care,22.0,6,BAML,MS,PPRJ,0.5710000000000001,0.384,2015
+BNTC,Aug 18,Benitec Biopharma Limited,Health-Care,9.2,1,BMO,MXIM,,0.314,-0.135,2015
+HLI,Aug 13,Houlihan Lokey Inc,Finance,21.0,10,BAML,GS,,0.449,0.067,2015
+CNFR,Aug 13,Conifer Holdings Inc.,Finance,10.5,3,BMO,RAYJ,,0.171,0.01,2015
+GBT,Aug 12,Global Blood Therapeutics Inc.,Health-Care,20.0,6,GS,MS,,1.159,1.156,2015
+PLNT,Aug 6,Planet Fitness Inc.,Consumer-Services,16.0,13,BAML,CS,JPM,1.198,0.0,2015
+RUN,Aug 5,Sunrun Inc.,Capital-Goods,14.0,17,CS,GS,MS,0.787,-0.231,2015
+ZYNE,Aug 5,Zynerba Pharmaceuticals Inc.,Health-Care,14.0,3,JEFF,PPRJ,,0.512,0.161,2015
+AQMS,Jul 31,Aqua Metals Inc.,Basic Industries,5.0,6,NTNL,,,0.081,0.07,2015
+XELB,Jul 31,Xcel Brands Inc,Miscellaneous,9.0,1,WUND,,,0.055,-0.017,2015
+VTVT,Jul 30,vTv Therapeutics Inc.,Health-Care,15.0,7,PPRJ,Stifel,,0.642,-0.27399999999999997,2015
+LOB,Jul 23,Live Oak Bancshares Inc.,Finance,17.0,4,SNDL,,,0.574,0.122,2015
+OOMA,Jul 17,Ooma Inc.,Technology,13.0,5,BAML,CS,,0.757,-0.158,2015
+RPD,Jul 17,Rapid7 Inc.,Technology,16.0,6,BRCL,MS,,1.6440000000000001,0.58,2015
+OLLI,Jul 16,Ollie`s Bargain Outlet Holdings Inc.,Consumer-Services,16.0,8,BAML,JPM,JEFF,1.411,0.322,2015
+HLG,Jul 7,Hailiang Education Group Inc.,Consumer-Services,7.0,2,ROTH,TAGL,,0.015,0.28600000000000003,2015
+NTRA,Jul 2,Natera Inc.,Health-Care,18.0,10,COWN,MS,PPRJ,1.3659999999999999,0.263,2015
+CFMS,Jul 1,ConforMIS Inc.,Health-Care,15.0,9,DB,JPM,,0.635,0.28300000000000003,2015
+TDOC,Jul 1,Teladoc Health Inc.,Health-Care,19.0,8,DB,JPM,,1.274,0.5,2015
+UFAB,Jul 1,Unique Fabricating Inc.,Capital-Goods,9.5,2,ROTH,TAGL,,0.244,0.42,2015
+ALRM,Jun 26,Alarm.com Holdings Inc.,Technology,14.0,7,BAML,CS,GS,1.298,0.20600000000000002,2015
+APPF,Jun 26,AppFolio Inc.,Technology,12.0,6,CS,MS,,0.569,0.17300000000000001,2015
+GPP,Jun 26,Green Plains Partners LP,Basic-Industries,15.0,10,BRCL,BAML,,0.728,0.0,2015
+MCRB,Jun 26,Seres Therapeutics Inc.,Health-Care,18.0,7,BAML,GS,,1.2209999999999999,1.8559999999999999,2015
+TRU,Jun 25,TransUnion,Finance,22.5,29,BAML,DB,GS,0.877,0.129,2015
+LNTH,Jun 25,Lantheus Holdings Inc.,Health-Care,6.0,10,CITI,CS,JEFF,0.191,0.128,2015
+GKOS,Jun 25,Glaukos Corporation,Health-Care,18.0,6,BAML,GS,JPM,1.2590000000000001,0.7340000000000001,2015
+CYAD,Jun 19,Celyad SA,Health-Care,68.6,1,PPRJ,UBS,,0.612,-0.204,2015
+UNVR,Jun 18,Univar Inc.,Consumer-Durables,22.0,35,BAML,DB,GS,0.514,0.155,2015
+WING,Jun 12,Wingstop Inc.,Consumer-Services,19.0,5,JEFF,MS,RWB,1.879,0.61,2015
+EVH,Jun 5,Evolent Health Inc,Consumer-Services,17.0,11,GS,JPM,,0.94,0.109,2015
+DTEA,Jun 5,DAVIDsTEA Inc.,Consumer-Non-Durables,19.0,5,GS,JPM,,1.5119999999999998,0.42100000000000004,2015
+BZUN,May 21,Baozun Inc.,Consumer-Services,10.0,11,BAML,CS,MS,0.868,0.044000000000000004,2015
+SHOP,May 21,Shopify Inc.,Technology,17.0,7,CS,MS,RBC,1.598,0.511,2015
+RKDA,May 15,Arcadia Biosciences Inc.,Basic-Industries,8.0,8,CS,JPM,PPRJ,0.01,17.25,2015
+GLPG,May 14,Galapagos NV,Health-Care,42.1,6,COWN,CS,MS,0.284,0.201,2015
+JAGX,May 13,Jaguar Health Inc.,Health-Care,7.0,2,AGIS,BMO,GGNH,0.01,13.527000000000001,2015
+BVXV,May 12,BiondVax Pharmaceuticals Ltd.,Health-Care,5.0,1,AGIS,,,0.26,-0.20199999999999999,2015
+COLL,May 7,Collegium Pharmaceutical Inc.,Health-Care,12.0,5,JEFF,PPRJ,,0.242,0.024,2015
+LIFE,May 7,aTyr Pharma Inc.,Health-Care,14.0,5,CITI,JPM,,0.616,0.068,2015
+HTGM,May 6,HTG Molecular Diagnostics Inc.,Capital-Goods,14.0,3,LRNK,,,0.254,-0.016,2015
+ADAP,May 6,Adaptimmune Therapeutics plc,Health-Care,17.0,11,BAML,COWN,LRNK,0.738,-0.059000000000000004,2015
+OPGN,May 5,OpGen Inc.,Health-Care,6.0,2,MXIM,,,0.01,19.208,2015
+BSM,May 1,Black Stone Minerals L.P.,Energy,19.0,22,BRCL,BAML,CITI,0.784,-0.04,2015
+BPMC,Apr 30,Blueprint Medicines Corporation,Health-Care,18.0,8,COWN,GS,,0.879,0.048,2015
+EVA,Apr 29,Enviva Partners LP,Basic-Industries,20.0,10,BRCL,CITI,GS,0.968,0.075,2015
+VKTX,Apr 29,Viking Therapeutics Inc.,Health-Care,8.0,3,LDLW,OPPN,ROTH,0.145,0.12,2015
+PRTY,Apr 16,Party City Holdco Inc.,Consumer-Services,17.0,21,BAML,GS,,0.879,0.218,2015
+VIRT,Apr 16,Virtu Financial Inc.,Finance,19.0,16,GS,JPM,SNDL,0.948,0.16699999999999998,2015
+KMPH,Apr 16,KemPharm Inc.,Health-Care,11.0,5,COWN,RBC,,0.551,0.018000000000000002,2015
+ETSY,Apr 16,Etsy Inc.,Miscellaneous,16.0,16,GS,MS,,1.185,0.875,2015
+XBIT,Apr 15,XBiotech Inc.,Health-Care,19.0,4,HMBR,,,0.256,0.22399999999999998,2015
+CDTX,Apr 15,Cidara Therapeutics Inc.,Health-Care,16.0,4,JEFF,LRNK,,0.94,0.0,2015
+KRNT,Apr 2,Kornit Digital Ltd.,Capital-Goods,10.0,7,BRCL,CITI,,0.43200000000000005,0.4,2015
+GDDY,Apr 1,GoDaddy Inc.,Technology,20.0,23,CITI,JPM,MS,1.0070000000000001,0.308,2015
+SEDG,Mar 26,SolarEdge Technologies Inc.,Technology,18.0,7,DB,GS,,0.935,0.15,2015
+CLLS,Mar 25,Cellectis S.A.,Health-Care,41.5,5,BAML,JEFF,PPRJ,0.7609999999999999,-0.053,2015
+TANH,Mar 24,Tantech Holdings Ltd.,Basic-Industries,4.0,3,NWBR,VWTR,,0.076,1.0,2015
+SUM,Mar 12,Summit Materials Inc.,Basic-Industries,18.0,22,CITI,GS,,0.667,0.11800000000000001,2015
+SMMT,Mar 5,Summit Therapeutics plc,Health-Care,9.9,3,JMPS,OPPN,,0.426,0.028999999999999998,2015
+AJX,Feb 13,Great Ajax Corp.,Consumer-Services,14.3,5,FBR,NMRA,STRN,0.263,-0.018000000000000002,2015
+BLPH,Feb 13,Bellerophon Therapeutics Inc.,Health-Care,12.0,5,COWN,LRNK,,0.306,-0.253,2015
+NVTA,Feb 12,Invitae Corporation,Health-Care,16.0,6,JPM,,,1.057,0.066,2015
+DEA,Feb 6,Easterly Government Properties Inc.,Consumer-Services,15.0,12,CITI,RAYJ,RBC,0.29100000000000004,0.033,2015
+TCON,Jan 30,TRACON Pharmaceuticals Inc.,Health-Care,10.0,3,Stifel,WLFG,,0.355,-0.06,2015
+AVGR,Jan 30,Avinger Inc.,Health-Care,13.0,5,CNCD,COWN,,0.013999999999999999,40.538000000000004,2015
+SHAK,Jan 30,Shake Shack Inc.,Consumer Services,13.0,5,JPM,MS,,3.253,2.531,2015
+ASND,Jan 28,Ascendis Pharma A/S,Health-Care,18.0,6,BAML,LRNK,,0.585,0.046,2015
+BOX,Jan 23,Box Inc.,Technology,14.0,12,CS,JPM,MS,3.405,0.659,2015
+TRVG,Dec 16,trivago N.V.,Technology,11.0,26,JPM,GS,MS,0.738,0.077,2016
+ICHR,Sep 12,Ichor Holdings,Technology,9.0,5,DB,Stifel,,0.389,0.086,2016
+SNES,Aug 12,SenesTech Inc.,Basic-Industries,8.0,1,ROTH,,,0.20199999999999999,0.02,2016
+POLA,Jul 12,Polar Power Inc.,Miscellaneous,7.0,2,ROTH,JOGU,,0.49200000000000005,0.28600000000000003,2016
+IIPR,Jan 12,Innovative Industrial Properties Inc.,Finance,20.0,3,LDNT,CMPS,,0.35,-0.043,2016
+SND,Jul 11,Smart Sand Inc.,Basic-Industries,11.0,11,CS,GS,,0.051,0.006,2016
+GDS,Feb 11,GDS Holdings Limited,Technology,10.0,19,CS,JPM,,0.054000000000000006,-0.026000000000000002,2016
+BL,Oct 28,BlackLine Inc.,Technology,17.0,8,GS,JPM,,0.871,0.39399999999999996,2016
+GOLF,Oct 28,Acushnet Holdings Corp.,Consumer-Non-Durables,17.0,19,JPM,MS,,0.358,0.055999999999999994,2016
+ZTO,Oct 27,ZTO Express (Cayman) Inc.,Transportation,19.5,72,GS,MS,,0.767,-0.15,2016
+MYOV,Oct 27,Myovant Sciences Ltd.,Health-Care,15.0,15,BRCL,CITI,COWN,0.37799999999999995,-0.11599999999999999,2016
+IRTC,Oct 20,iRhythm Technologies Inc.,Health-Care,17.0,6,JPM,MS,WLFG,0.955,0.532,2016
+CRSP,Oct 19,CRISPR Therapeutics AG,Health-Care,14.0,4,BRCL,CITI,PPRJ,0.47100000000000003,0.006,2016
+TUSK,Oct 14,Mammoth Energy Services Inc.,Energy,15.0,7,BRCL,CS,,0.7609999999999999,-0.11599999999999999,2016
+AZRE,Dec 10,Azure Power Global Limited,Public-Utilities,18.0,3,BRCL,CS,,0.9470000000000001,-0.18899999999999997,2016
+CWH,Jul 10,Camping World Holdings Inc.,Consumer-Durables,22.0,11,GS,JPM,,1.0070000000000001,0.023,2016
+MRAM,Jul 10,Everspin Technologies Inc.,Technology,8.0,5,NDHM,Stifel,,0.359,0.025,2016
+NTNX,Sep 30,Nutanix Inc.,Technology,16.0,14,GS,JPM,MS,2.013,1.3130000000000002,2016
+TRHC,Sep 29,Tabula Rasa HealthCare Inc.,Miscellaneous,12.0,4,MS,UBS,WLFG,0.826,0.24,2016
+FLGT,Sep 29,Fulgent Genetics Inc.,Health-Care,9.0,4,CS,PPRJ,,0.574,0.02,2016
+VVV,Sep 23,Valvoline Inc.,Basic-Industries,22.0,30,BAML,CITI,MS,1.177,0.05,2016
+ACIU,Sep 23,AC Immune SA,Health-Care,11.0,6,CS,JEFF,LRNK,0.629,0.424,2016
+CSTR,Sep 22,CapStar Financial Holdings Inc.,Finance,15.0,2,SNDL,,,0.46399999999999997,0.06,2016
+ELF,Sep 22,e.l.f. Beauty Inc.,Consumer-Non-Durables,17.0,8,JPM,MS,,1.63,0.5589999999999999,2016
+NOVN,Sep 21,Novan Inc.,Health-Care,11.0,4,PPRJ,,,0.457,0.645,2016
+TTD,Sep 21,The Trade Desk Inc.,Technology,18.0,4,CITI,JEFF,RBC,1.344,0.672,2016
+EVBG,Sep 16,Everbridge Inc.,Technology,12.0,7,BAML,CS,,1.0859999999999999,0.271,2016
+FBK,Sep 16,FB Financial Corporation,Finance,19.0,5,JPM,KBW,UBS,0.7659999999999999,0.092,2016
+NTB,Sep 16,Bank of N.T. Butterfield & Son Limited (The),Finance,23.5,10,GS,,,0.465,0.053,2016
+AIRG,Dec 8,Airgain Inc.,Technology,8.0,1,NLND,WUND,,0.5660000000000001,0.0,2016
+MEDP,Nov 8,Medpace Holdings Inc.,Health-Care,23.0,7,CS,JEFF,,0.068,0.21899999999999997,2016
+PTGX,Nov 8,Protagonist Therapeutics Inc.,Health-Care,12.0,7,BRCL,BMO,,0.218,-0.025,2016
+ATOM,May 8,Atomera Incorporated,Technology,7.5,3,NTNL,,,0.044000000000000004,0.077,2016
+FHB,Apr 8,First Hawaiian Inc.,Finance,21.1,23,BAML,GS,,0.507,0.149,2016
+TCMD,Jul 28,Tactile Systems Technology Inc.,Health-Care,10.0,4,CNCD,PPRJ,WB,0.392,0.10800000000000001,2016
+KNSL,Jul 28,Kinsale Capital Group Inc.,Finance,16.0,6,JPM,WB,,0.745,0.147,2016
+TPIC,Jul 22,TPI Composites Inc.,Energy,11.0,6,JPM,MS,,0.512,0.233,2016
+PI,Jul 21,Impinj Inc.,Capital-Goods,14.0,4,PPRJ,RBC,,0.9890000000000001,0.284,2016
+SYRS,Jun 30,Syros Pharmaceuticals Inc.,Health-Care,12.5,4,COWN,PPRJ,,0.22,0.452,2016
+GMRE,Jun 29,Global Medical REIT Inc.,Consumer-Services,10.0,13,OPPN,WUND,,0.11900000000000001,0.001,2016
+TWLO,Jun 23,Twilio Inc.,Technology,15.0,10,GS,JPM,,2.123,0.919,2016
+SELB,Jun 22,Selecta Biosciences Inc.,Health-Care,14.0,5,Stifel,UBS,,0.21899999999999997,0.0,2016
+VIVE,Jun 14,Viveve Medical Inc.,Health-Care,5.0,2,CHLM,LDNT,,0.128,-0.01,2016
+COE,Oct 6,China Online Education Group,Consumer-Services,19.0,2,CS,MS,,0.6559999999999999,-0.001,2016
+ATKR,Oct 6,Atkore International Group Inc.,Miscellaneous,16.0,12,CS,DB,JPM,0.507,0.0,2016
+SRTS,Mar 6,Sensus Healthcare Inc.,Health-Care,5.5,2,NTKR,NLND,JOGU,0.0,-1.0,2016
+CLSD,Feb 6,Clearside Biomedical Inc.,Health-Care,7.0,7,COWN,RBC,Stifel,0.275,0.036000000000000004,2016
+MBRX,Feb 6,Moleculin Biotech Inc.,Health-Care,6.0,1,BONK,NONE,,0.304,0.33299999999999996,2016
+NH,Feb 6,NantHealth Inc.,Technology,14.0,6,COWN,JEFF,,0.536,0.32799999999999996,2016
+GMS,May 26,GMS Inc.,Consumer-Services,21.0,7,BRCL,CS,,0.8140000000000001,0.043,2016
+RETA,May 26,Reata Pharmaceuticals Inc.,Health-Care,11.0,5,CITI,COWN,,0.37200000000000005,0.188,2016
+USFD,May 26,US Foods Holding Corp.,Consumer-Non-Durables,23.0,4,GS,JPM,MS,6.486000000000001,0.083,2016
+MSBI,May 24,Midland States Bancorp Inc.,Finance,22.0,3,KBW,SNDL,,0.488,-0.005,2016
+MRUS,May 19,Merus N.V.,Health-Care,10.0,5,CITI,JEFF,GGNH,0.187,0.004,2016
+SUPV,May 19,Grupo Supervielle S.A.,Finance,11.0,25,BAML,MS,,0.278,0.045,2016
+PLSE,May 18,Pulse Biosciences Inc,Health-Care,4.0,5,MDBC,FLTI,,0.125,0.043,2016
+SITE,Dec 5,SiteOne Landscape Supply Inc.,Consumer-Non-Durables,21.0,10,DB,GS,UBS,0.644,0.27,2016
+TPB,Nov 5,Turning Point Brands Inc.,Consumer-Non-Durables,10.0,5,COWN,FBR,,0.37,0.012,2016
+NTLA,Jun 5,Intellia Therapeutics Inc.,Health-Care,18.0,6,CS,JEFF,LRNK,0.8370000000000001,0.228,2016
+GWRS,Apr 28,Global Water Resources Inc.,Public-Utilities,6.3,1,ROTH,,,0.223,0.0,2016
+RRR,Apr 27,Red Rock Resorts Inc.,Consumer-Services,19.5,27,BAML,GS,JPM,0.5,-0.040999999999999995,2016
+SCWX,Apr 22,SecureWorks Corp.,Technology,14.0,8,BAML,GS,JPM,0.998,0.0,2016
+AGLE,Jul 4,Aeglea BioTherapeutics Inc.,Health-Care,10.0,5,BMO,COWN,UBS,0.28600000000000003,-0.023,2016
+DTSS,Jun 4,Datasea Inc.,Technology,0.0,9,VWTR,,,0.0,39.0,2016
+CRVS,Mar 23,Corvus Pharmaceuticals Inc.,Health-Care,15.0,4,COWN,CS,,0.35,-0.05,2016
+SENS,Mar 18,Senseonics Holdings Inc.,Capital-Goods,2.9,15,CNCD,LRNK,,0.073,0.0,2016
+HCM,Mar 17,Hutchison China MediTech Limited,Health-Care,13.5,7,BAML,DB,,0.301,-0.006999999999999999,2016
+SNDX,Mar 3,Syndax Pharmaceuticals Inc.,Health-Care,12.0,4,CITI,MS,,0.436,0.001,2016
+BGNE,Mar 2,BeiGene Ltd.,Health-Care,24.0,6,MS,GS,COWN,0.313,0.18,2016
+EDIT,Mar 2,Editas Medicine Inc.,Health-Care,16.0,5,JPM,MS,,0.705,0.138,2016
+ICLK,Dec 22,iClick Interactive Asia Group Limited,Technology,8.0,3,ROTH,SNWN,,0.326,0.125,2017
+LX,Dec 21,LexinFintech Holdings Ltd.,Finance,9.0,12,GS,BAML,DB,0.18600000000000003,0.18899999999999997,2017
+DOGZ,Dec 20,Dogness (International) Corporation,Consumer-Durables,5.0,11,SPRT,,,0.017,0.2,2017
+CASA,Dec 15,Casa Systems Inc.,Technology,13.0,6,MS,BRCL,,0.5529999999999999,0.10800000000000001,2017
+DNLI,Aug 12,Denali Therapeutics Inc.,Health-Care,18.0,13,GS,MS,JPM,0.281,0.192,2017
+LBC,Dec 8,Luther Burbank Corporation,Finance,10.2,12,KBW,SNDL,,0.418,0.158,2017
+CURO,Dec 7,CURO Group Holdings Corp.,Finance,14.0,6,CS,JEFF,STPH,0.38299999999999995,0.013999999999999999,2017
+QTRX,Dec 7,Quanterix Corporation,Capital-Goods,15.0,4,JPM,LRNK,,0.5489999999999999,0.165,2017
+BOXL,Nov 30,Boxlight Corporation,Miscellaneous,7.0,1M,AGIS,AXOM,MRMN,0.019,0.14,2017
+RETO,Nov 29,ReTo Eco-Solutions Inc.,Capital-Goods,5.0,2.8M,VWTR,,,0.10800000000000001,1.114,2017
+SAIL,Nov 17,SailPoint Technologies Holdings Inc.,Technology,12.0,20M,MS,CITI,JEFF,0.7809999999999999,0.083,2017
+SBT,Nov 17,Sterling Bancorp Inc.,Finance,12.0,15M,SNDL,,,0.34600000000000003,0.013000000000000001,2017
+SCPH,Nov 17,scPharmaceuticals Inc.,Health-Care,14.0,6.4M,JEFF,LRNK,BMO,0.156,0.006999999999999999,2017
+SFIX,Nov 17,Stitch Fix Inc.,Consumer-Services,15.0,8,GS,JPM,,1.2890000000000001,0.01,2017
+ACMR,Nov 3,ACM Research Inc.,Technology,5.6,2,ROTH,,,0.262,0.08,2017
+ALNA,Nov 2,Allena Pharmaceuticals Inc.,Health-Care,14.0,5,CS,JEFF,COWN,0.451,-0.287,2017
+AQUA,Nov 2,Evoqua Water Technologies Corp.,Technology,18.0,27,CS,JPM,RBC,0.513,0.16,2017
+FNKO,Nov 2,Funko Inc.,Consumer-Non-Durables,12.0,10,GS,JPM,BAML,0.9390000000000001,-0.41100000000000003,2017
+SPRO,Nov 2,Spero Therapeutics Inc.,Health-Care,14.0,5,BAML,COWN,Stifel,0.405,-0.179,2017
+ALTR,Nov 1,Altair Engineering Inc.,Technology,13.0,12,JPM,RBC,DB,0.628,0.408,2017
+LOMA,Nov 1,Loma Negra Compania Industrial Argentina Sociedad Anonima,Capital-Goods,19.0,50,BAML,BRDS,CITI,0.376,0.124,2017
+MBIN,Oct 27,Merchants Bancorp,Finance,16.0,6,SNDL,STPH,RAYJ,0.43200000000000005,0.05,2017
+NEXA,Oct 27,Nexa Resources S.A.,Basic-Industries,16.0,31,JPM,BMO,MS,0.19899999999999998,0.087,2017
+EYE,Oct 26,National Vision Holdings Inc.,Health-Care,22.0,15,BAML,GS,CITI,0.442,0.265,2017
+SE,Oct 20,Sea Limited,Consumer-Services,15.0,59,GS,MS,CS,0.637,0.084,2017
+MDB,Oct 19,MongoDB Inc.,Technology,24.0,8,MS,GS,BRCL,1.439,0.336,2017
+RMBL,Oct 19,RumbleOn Inc.,Technology,5.5,2,ROTH,MXIM,,0.23800000000000002,-0.075,2017
+QD,Oct 18,Qudian Inc.,Finance,24.0,37,MS,CS,CITI,0.893,0.21600000000000003,2017
+OPTN,Oct 13,OptiNose Inc.,Health-Care,16.0,7,JEFF,PPRJ,BMO,0.522,0.188,2017
+CARG,Dec 10,CarGurus Inc.,Technology,16.0,9,GS,ALLN,RBC,1.306,0.7240000000000001,2017
+KIDS,Dec 10,OrthoPediatrics Corp.,Health-Care,13.0,4,PPRJ,Stifel,,0.721,0.517,2017
+SWCH,Jun 10,Switch Inc.,Technology,17.0,31,GS,JPM,BMO,1.423,0.226,2017
+RYTM,May 10,Rhythm Pharmaceuticals Inc.,Health-Care,17.0,7,MS,BAML,COWN,0.983,0.765,2017
+DCPH,Sep 28,Deciphera Pharmaceuticals Inc.,Health-Care,17.0,7,JPM,PPRJ,,0.772,0.038,2017
+NCNA,Sep 28,NuCana plc,Health-Care,15.0,6,CITI,JEFF,COWN,0.27899999999999997,0.077,2017
+ROKU,Sep 28,Roku Inc.,Consumer-Services,14.0,15,MS,CITI,,2.501,0.679,2017
+SECO,Sep 22,Secoo Holding Limited,Consumer-Services,13.0,8,JEFF,,,0.8809999999999999,-0.231,2017
+PETZ,Sep 21,TDH Holdings Inc.,Consumer-Non-Durables,4.3,1,VWTR,,,0.183,0.508,2017
+CELC,Sep 20,Celcuity Inc.,Health-Care,9.5,2,CHLM,,,0.503,0.504,2017
+DESP,Sep 20,Despegar.com Corp.,Consumer-Services,26.0,12,MS,CITI,,0.795,0.222,2017
+KRYS,Sep 20,Krystal Biotech Inc.,Health-Care,10.0,4,LDNT,,,0.114,0.064,2017
+ZLAB,Sep 20,Zai Lab Limited,Health-Care,18.0,8,JPM,CITI,LRNK,0.606,0.552,2017
+RNGR,Aug 11,Ranger Energy Services Inc.,Energy,14.5,5,CS,SMNS,WLFG,0.355,-0.019,2017
+VNTR,Aug 3,Venator Materials PLC,Basic-Industries,20.0,22,CITI,GS,BAML,0.504,0.032,2017
+RDFN,Jul 28,Redfin Corporation,Finance,15.0,9,GS,ALLN,BAML,1.032,0.447,2017
+RBB,Jul 26,RBB Bancorp,Finance,23.0,3,SNDL,KBW,STPH,0.536,0.015,2017
+PETQ,Jul 21,PetIQ Inc.,Health-Care,16.0,6,OPPN,RAYJ,SNTR,0.6890000000000001,0.45799999999999996,2017
+CLXT,Jul 20,Calyxt Inc.,Basic-Industries,8.0,7,CITI,CS,JEFF,0.201,0.406,2017
+KALA,Jul 20,Kala Pharmaceuticals Inc.,Health-Care,15.0,6,JPM,BAML,,0.654,0.233,2017
+CODX,Jul 12,Co-Diagnostics Inc.,Health-Care,6.0,1,WLBT,NONE,,0.185,-0.032,2017
+BY,Jun 30,Byline Bancorp Inc.,Finance,19.0,5,BAML,KBW,,0.613,0.055,2017
+ALRN,Jun 29,Aileron Therapeutics Inc.,Health-Care,15.0,3,BAML,JEFF,,0.5710000000000001,-0.28,2017
+APRN,Jun 29,Blue Apron Holdings Inc.,Consumer-Services,10.0,30,GS,MS,CITI,1.369,0.0,2017
+MRSN,Jun 28,Mersana Therapeutics Inc.,Health-Care,15.0,5,JPM,COWN,LRNK,0.54,-0.067,2017
+ATXI,Jun 27,Avenue Therapeutics Inc.,Health-Care,6.0,5,OPPN,,,0.106,0.375,2017
+ESQ,Jun 27,Esquire Financial Holdings Inc.,Finance,14.0,2,SNDL,,,0.298,0.08900000000000001,2017
+ATUS,Jun 22,Altice USA Inc.,Consumer-Services,30.0,63,JPM,MS,CITI,0.49200000000000005,0.09,2017
+SAFE,Jun 22,Safety Income & Growth Inc.,Consumer-Services,20.0,10,BAML,JPM,BRCL,0.313,-0.05,2017
+SGBX,Jun 22,SG Blocks Inc.,Consumer-Services,5.0,1,JOGU,,,1.301,-0.016,2017
+ATNX,Jun 14,Athenex Inc.,Health-Care,11.0,6,CS,DB,JPM,0.325,0.142,2017
+PLYM,Jun 9,Plymouth Industrial REIT Inc.,Consumer-Services,19.0,2,DAVD,BBT,OPPN,0.095,-0.032,2017
+SSTI,Jun 7,ShotSpotter Inc.,Technology,11.0,2,ROTH,NLND,,0.653,0.307,2017
+APPN,May 25,Appian Corporation,Technology,12.0,6,MS,GS,BRCL,0.7859999999999999,0.251,2017
+WOW,May 25,WideOpenWest Inc.,Consumer-Services,17.0,18,UBS,CS,RBC,0.473,-0.028999999999999998,2017
+SGH,May 24,SMART Global Holdings Inc.,Technology,11.0,5,BRCL,DB,JEFF,0.267,0.223,2017
+BEDU,May 18,Bright Scholar Education Holdings Limited,Consumer-Services,10.5,15,MS,DB,,0.365,0.276,2017
+GTHX,May 17,G1 Therapeutics Inc.,Health-Care,15.0,7,JPM,COWN,,0.387,0.0,2017
+SOI,Dec 5,Solaris Oilfield Infrastructure Inc.,Energy,12.0,10,CS,GS,,0.429,-0.037000000000000005,2017
+VERI,Dec 5,Veritone Inc.,Technology,15.0,2,WUND,CHLM,,0.65,-0.129,2017
+FPH,Oct 5,Five Point Holdings LLC,Finance,14.0,21,CITI,JPM,,0.261,0.07400000000000001,2017
+GNTY,Sep 5,Guaranty Bancshares Inc.,Finance,27.0,2,SNDL,STPH,,0.303,0.115,2017
+OVID,May 5,Ovid Therapeutics Inc.,Health-Care,15.0,5,CITI,COWN,,0.318,-0.183,2017
+BHVN,Apr 5,Biohaven Pharmaceutical Holding Company Ltd.,Health-Care,17.0,9,MS,PPRJ,BRCL,0.39799999999999996,0.028999999999999998,2017
+URGN,Apr 5,UroGen Pharma Ltd.,Health-Care,13.0,4,JEFF,COWN,,0.313,0.075,2017
+CVNA,Apr 28,Carvana Co.,Consumer Durables,15.0,15,WLFG,BAML,,0.753,-0.26,2017
+EEX,Apr 28,Emerald Expositions Events Inc.,Miscellaneous,17.0,15,BAML,BRCL,GS,0.426,0.147,2017
+NCSM,Apr 28,NCS Multistage Holdings Inc.,Energy,17.0,9,CS,CITI,WLFG,0.48200000000000004,0.147,2017
+ZYME,Apr 28,Zymeworks Inc.,Health-Care,13.0,4,CITI,WLFG,CNCD,0.212,0.0,2017
+FND,Apr 27,Floor & Decor Holdings Inc.,Consumer-Services,21.0,8,BAML,BRCL,CS,1.071,0.526,2017
+WTTR,Apr 21,Select Energy Services Inc.,Energy,14.0,8,CS,FBR,WLFG,0.42100000000000004,0.001,2017
+CADE,Apr 13,Cadence Bancorporation,Finance,20.0,7,GS,JPM,,0.7190000000000001,0.078,2017
+HCC,Apr 13,Warrior Met Coal Inc.,Energy,19.0,16,CS,CITI,MS,0.679,-0.053,2017
+YEXT,Apr 13,Yext Inc.,Technology,11.0,10,MS,JPM,RBC,1.08,0.21899999999999997,2017
+AZUL,Nov 4,Azul S.A.,Transportation,20.1,28,CITI,,DB,0.35700000000000004,0.07200000000000001,2017
+OKTA,Jul 4,Okta Inc.,Technology,17.0,11,GS,,ALLN,0.722,0.38299999999999995,2017
+ELVT,Jun 4,Elevate Credit Inc.,Finance,6.5,12,UBS,CS,JEFF,0.298,0.19399999999999998,2017
+SNDR,Jun 4,Schneider National Inc.,Transportation,19.0,29,MS,UBS,,0.5820000000000001,0.0,2017
+HESM,May 4,Hess Midstream Partners LP,Energy,23.0,14,GS,MS,CITI,0.66,0.113,2017
+AYX,Mar 24,Alteryx Inc.,Technology,14.0,9,GS,JPM,CITI,0.9620000000000001,0.107,2017
+PUMP,Mar 17,ProPetro Holding Corp.,Energy,14.0,25,GS,BRCL,CS,0.541,0.036000000000000004,2017
+GOOS,Mar 16,Canada Goose Holdings Inc.,Consumer-Non-Durables,12.8,20,CIBC,CS,GS,1.141,0.258,2017
+BYSI,Sep 3,BeyondSpring Inc.,Health-Care,20.0,200,RDMN,,,0.802,-0.16,2017
+JILL,Sep 3,J. Jill Inc.,Consumer-Non-Durables,13.0,11,BAML,MS,JEFF,0.846,-0.027000000000000003,2017
+SNAP,Feb 3,Snap Inc.,Technology,17.0,200,MS,GS,,1.085,0.44,2017
+HLNE,Jan 3,Hamilton Lane Incorporated,Finance,16.0,11,JPM,MS,,0.602,0.126,2017
+CLPR,Oct 2,Clipper Realty Inc.,Consumer-Services,13.5,5,FBR,RAYJ,,0.19699999999999998,0.0,2017
+SACH,Oct 2,Sachem Capital Corp.,Consumer-Services,5.0,2,JOGU,,,0.166,0.008,2017
+KRP,Mar 2,Kimbell Royalty Partners,Energy,18.0,5,RAYJ,RBC,Stifel,0.32799999999999996,0.147,2017
+METC,Mar 2,Ramaco Resources Inc.,Energy,13.5,6,CS,JEFF,BMO,0.6409999999999999,0.004,2017
+INVH,Jan 2,Invitation Homes Inc.,Finance,20.0,77,JPM,BAML,MS,0.4,0.0,2017
+LAUR,Jan 2,Laureate Education Inc.,Consumer-Services,14.0,35,MS,JPM,GS,0.306,-0.054000000000000006,2017
+JELD,Jan 27,JELD-WEN Holding Inc.,Basic-Industries,23.0,25,BRCL,JPM,CITI,0.6409999999999999,0.136,2017
+JNCE,Jan 27,Jounce Therapeutics Inc.,Health-Care,16.0,6,JPM,COWN,,0.66,0.078,2017
+REVG,Jan 27,REV Group Inc.,Capital-Goods,22.0,12,GS,MS,BARD,0.71,0.136,2017
+ANAB,Jan 26,AnaptysBio Inc.,Health-Care,15.0,5,CS,Stifel,,0.664,0.133,2017
+OBSV,Jan 26,ObsEva SA,Health-Care,15.0,6,CS,JEFF,LRNK,0.509,-0.223,2017
+BLCM,Dec 14,Bellicum Pharmaceuticals Inc.,Health-Care,19.0,7,CITI,JEFF,PPRJ,1.294,0.257,2018
+VAPO,Nov 14,Vapotherm Inc.,Health-Care,14.0,4,BAML,WB,,0.309,0.14300000000000002,2018
+ETON,Nov 13,Eton Pharmaceutcials Inc.,Health-Care,6.0,3,NTNL,,,0.127,0.042,2018
+CNF,Nov 7,CNFinance Holdings Limited,Finance,7.5,6,CS,JPM,ROTH,0.149,0.013000000000000001,2018
+AXNX,Oct 31,Axonics Modulation Technologies Inc.,Health-Care,15.0,8,BAML,MS,,0.379,-0.001,2018
+ORTX,Oct 31,Orchard Therapeutics plc,Health-Care,14.0,14,COWN,GS,JPM,0.247,0.0,2018
+TWST,Oct 31,Twist Bioscience Corporation,Health-Care,14.0,5,COWN,JPM,,0.27,0.0,2018
+GMDA,Oct 26,Gamida Cell Ltd.,Health-Care,8.0,6,BMO,RBC,,0.168,0.055,2018
+STNE,Oct 25,StoneCo Ltd.,Technology,24.0,50,CITI,GS,JPM,0.452,0.306,2018
+YETI,Oct 25,YETI Holdings Inc.,Consumer-Non-Durables,18.0,16,BAML,JEFF,MS,0.62,-0.055999999999999994,2018
+ALACU,Oct 24,Alberton Acquisition Corporation,Finance,10.0,10,CHRD,,,0.18,0.0,2018
+LOGC,Oct 19,LogicBio Therapeutics Inc.,Health-Care,10.0,7,BRCL,JEFF,WB,0.126,0.15,2018
+NIU,Oct 19,Niu Technologies,Capital-Goods,9.0,7,CITI,CS,,0.488,-0.039,2018
+SWI,Oct 19,SolarWinds Corporation,Technology,15.0,25,GS,JPM,MS,0.43200000000000005,0.002,2018
+MSC,Oct 18,Studio City International Holdings Limited,Consumer-Services,12.5,28,CS,DB,MS,0.054000000000000006,0.24,2018
+PHAS,Oct 18,PhaseBio Pharmaceuticals Inc.,Health-Care,5.0,9,CITI,COWN,Stifel,0.17800000000000002,0.0,2018
+SIBN,Oct 17,SI-BONE Inc.,Health-Care,15.0,7,BAML,MS,,0.61,0.337,2018
+EQ,Oct 12,Equillium Inc.,Health-Care,14.0,4,JEFF,LRNK,,0.196,0.0,2018
+ALLO,Oct 11,Allogene Therapeutics Inc.,Health-Care,18.0,18,COWN,GS,JPM,0.451,0.389,2018
+LTHM,Oct 11,Livent Corporation,Basic-Industries,17.0,20,BAML,CS,GS,0.5710000000000001,-0.002,2018
+ESTC,Oct 5,Elastic N.V.,Technology,36.0,7,BRCL,GS,JPM,1.025,0.9440000000000001,2018
+EDTXU,Oct 5,EdtechX Holdings Acquisition Corp.,Finance,10.0,5,CHRD,IBNK,,0.149,0.003,2018
+GH,Oct 4,Guardant Health Inc.,Health-Care,19.0,12,BAML,JPM,,0.8270000000000001,0.695,2018
+KOD,Oct 4,Kodiak Sciences Inc,Health-Care,10.0,9,BAML,MS,,0.268,0.016,2018
+UPWK,Oct 3,Upwork Inc.,Technology,15.0,12,CITI,JEFF,RBC,0.672,0.41200000000000003,2018
+GRTS,Sep 28,Gritstone Oncology Inc.,Health-Care,15.0,6,BRCL,COWN,GS,0.218,-0.051,2018
+RMED,Sep 27,Ra Medical Systems Inc.,Health-Care,17.0,3,CNTR,PPRJ,,0.606,0.17600000000000002,2018
+STRO,Sep 27,Sutro Biopharma Inc.,Health-Care,15.0,5,COWN,PPRJ,,0.47700000000000004,0.013000000000000001,2018
+ARVN,Sep 27,Arvinas Inc.,Health-Care,16.0,7,CITI,GS,PPRJ,0.456,0.003,2018
+CBNK,Sep 26,Capital Bancorp Inc.,Finance,12.5,2,KBW,STPH,,0.44299999999999995,0.024,2018
+ETTX,Sep 26,Entasis Therapeutics Holdings Inc.,Health-Care,15.0,5,BMO,CS,,0.48200000000000004,-0.289,2018
+ARCE,Sep 26,Arco Platform Limited,Consumer-Services,17.5,11,BAML,GS,MS,0.662,0.34299999999999997,2018
+VIOT,Sep 25,Viomi Technology Co. Ltd,Consumer-Durables,9.0,11,CHN,MS,,1.0590000000000002,0.009000000000000001,2018
+YMAB,Sep 21,Y-mAbs Therapeutics Inc.,Health-Care,16.0,6,BAML,COWN,,0.414,0.5,2018
+FTCH,Sep 21,Farfetch Limited,Miscellaneous,20.0,44,ALLN,JPM,UBS,0.575,0.423,2018
+EB,Sep 20,Eventbrite Inc.,Technology,23.0,10,ALLN,GS,JPM,1.085,0.5870000000000001,2018
+BSVN,Sep 20,Bank7 Corp.,Finance,19.0,3,KBW,STPH,,0.413,0.005,2018
+ELAN,Sep 20,Elanco Animal Health Incorporated,Health-Care,24.0,62,GS,JPM,MS,0.639,0.5,2018
+XYF,Sep 19,X Financial,Finance,11.5,11,DB,MS,,0.598,0.040999999999999995,2018
+FVCB,Sep 14,FVCBankcorp Inc.,Finance,20.0,1,RAYJ,SNDL,,0.36700000000000005,0.0,2018
+NIO,Sep 12,NIO Inc.,Capital-Goods,6.3,160,GS,JPM,MS,0.418,0.054000000000000006,2018
+YI,Sep 12,111 Inc.,Health-Care,14.0,7,CHN,CITI,JPM,0.182,-0.013999999999999999,2018
+SFET,Aug 17,Safe-T Group Ltd.,Technology,14.4,510,CHRD,,,0.049,-0.233,2018
+ARDS,Aug 14,Aridis Pharmaceuticals Inc.,Health-Care,13.0,2,CNTR,,,0.26,0.0,2018
+MESA,Aug 10,Mesa Air Group Inc.,Transportation,12.0,9,BAML,RAYJ,,0.262,-0.021,2018
+VCNX,Aug 9,Vaccinex Inc.,Health-Care,12.0,3,BTIG,OPPN,,0.20600000000000002,-0.052000000000000005,2018
+PCB,Aug 9,Pacific City Financial Corporation,Finance,20.0,2,KBW,,,0.069,0.0,2018
+ARLO,Aug 3,Arlo Technologies Inc.,Consumer-Non-Durables,16.0,10,BAML,DB,GGNH,0.122,0.247,2018
+CWK,Aug 2,Cushman & Wakefield plc,Finance,17.0,45,GS,JPM,MS,0.33,0.048,2018
+ADIL,Jul 27,Adial Pharmaceuticals Inc,Health-Care,5.0,1,AGIS,JOGU,MXIM,0.195,-0.19,2018
+DAVA,Jul 27,Endava plc,Technology,20.0,6,CITI,CS,DB,0.755,0.26,2018
+WISA,Jul 27,Summit Wireless Technologies Inc.,Technology,5.0,2,AXND,RFL,WLBT,0.051,-0.06,2018
+JG,Jul 26,Aurora Mobile Limited,Technology,8.5,9,CS,DB,GS,0.315,0.035,2018
+LQDA,Jul 26,Liquidia Technologies Inc.,Health-Care,11.0,4,COWN,JEFF,,0.387,0.009000000000000001,2018
+TENB,Jul 26,Tenable Holdings Inc.,Technology,23.0,10,DB,JPM,MS,0.885,0.315,2018
+PDD,Jul 26,Pinduoduo Inc.,Miscellaneous,25.0,85,CHN,CS,GS,0.505,0.068,2018
+FOCS,Jul 26,Focus Financial Partners Inc.,Finance,33.0,16,BAML,GS,KKR,0.237,0.138,2018
+BRY,Jul 26,Berry Petroleum Corporation,Energy,14.0,13,BMO,GS,WLFG,0.38799999999999996,-0.054000000000000006,2018
+AQST,Jul 25,Aquestive Therapeutics Inc.,Health-Care,15.0,4,BMO,RBC,,0.698,0.07,2018
+BE,Jul 25,Bloom Energy Corporation,Energy,15.0,18,JPM,MS,,0.7609999999999999,0.667,2018
+PRVB,Jul 24,Provention Bio Inc.,Health-Care,4.0,16,MDBC,,,0.025,0.203,2018
+REPL,Jul 20,Replimune Group Inc.,Health-Care,15.0,6,BMO,JPM,LRNK,0.466,0.011000000000000001,2018
+ESTA,Jul 19,Establishment Labs Holdings Inc.,Health-Care,15.0,3,COWN,JEFF,,0.522,0.65,2018
+TLRY,Jul 19,Tilray Inc.,Consumer-Durables,17.0,9,COWN,,,1.324,0.317,2018
+MYFW,Jul 19,First Western Financial Inc.,Finance,19.0,1,KBW,STPH,,0.28300000000000003,0.037000000000000005,2018
+ALLK,Jul 19,Allakos Inc.,Health-Care,18.0,7,GS,JEFF,,0.622,0.736,2018
+CRNX,Jul 18,Crinetics Pharmaceuticals Inc.,Health-Care,17.0,6,JPM,LRNK,PPRJ,0.6,0.442,2018
+CCB,Jul 18,Coastal Financial Corporation,Finance,14.5,2,HOVD,KBW,,0.46799999999999997,0.131,2018
+RUBY,Jul 18,Rubius Therapeutics Inc.,Health-Care,23.0,10,JPM,JEFF,MS,0.5479999999999999,0.054000000000000006,2018
+DOMO,Jun 29,Domo Inc.,Technology,21.0,9,ALLN,CS,MS,0.882,0.3,2018
+BJ,Jun 28,BJ`s Wholesale Club Holdings Inc.,Consumer-Services,17.0,37,BAML,GS,JPM,0.565,0.294,2018
+TCDA,Jun 28,Tricida Inc.,Health-Care,19.0,11,COWN,GS,JPM,0.34299999999999997,0.368,2018
+EVER,Jun 28,EverQuote Inc.,Technology,18.0,4,BAML,JPM,,0.034,-0.17600000000000002,2018
+BV,Jun 28,BrightView Holdings Inc.,Consumer-Non-Durables,22.0,21,GS,JPM,UBS,0.348,-0.027000000000000003,2018
+STIM,Jun 28,Neuronetics Inc.,Health-Care,17.0,5,PPRJ,WB,,0.455,0.634,2018
+ENTX,Jun 28,Entera Bio Ltd.,Health-Care,8.0,1,MXIM,OPPN,,0.204,-0.215,2018
+HYRE,Jun 27,HyreCar Inc.,Consumer-Services,5.0,2,NONE,,,0.8059999999999999,0.02,2018
+LOVE,Jun 27,The Lovesac Company,Consumer-Services,16.0,3,ROTH,,,0.595,0.499,2018
+UXIN,Jun 27,Uxin Limited,Miscellaneous,9.0,25,GS,JPM,MS,0.797,0.07400000000000001,2018
+ECOR,Jun 22,electroCore Inc.,Health-Care,15.0,5,EVCR,JMPS,PPRJ,0.35200000000000004,0.32299999999999995,2018
+AUTL,Jun 22,Autolus Therapeutics plc,Health-Care,17.0,8,GS,JEFF,CITI,0.35700000000000004,0.47100000000000003,2018
+IIIV,Jun 21,i3 Verticals Inc.,Miscellaneous,13.0,6,COWN,KEYB,RAYJ,0.772,0.41200000000000003,2018
+AVRO,Jun 21,AVROBIO Inc.,Health-Care,19.0,5,COWN,MS,WLFG,0.53,0.642,2018
+MGTA,Jun 21,Magenta Therapeutics Inc.,Health-Care,15.0,6,COWN,GS,JPM,0.493,-0.032,2018
+KZR,Jun 21,Kezar Life Sciences Inc.,Health-Care,15.0,5,COWN,JEFF,WLFG,0.34299999999999997,0.183,2018
+APTX,Jun 21,Aptinyx Inc.,Health-Care,16.0,6,BMO,COWN,JPM,0.5479999999999999,0.263,2018
+XERS,Jun 21,Xeris Pharmaceuticals Inc.,Health-Care,15.0,5,JEFF,LRNK,RBC,0.363,0.348,2018
+LFACU,Jun 20,LF Capital Acquistion Corp.,Finance,10.0,13,FBR,RAYJ,,0.17600000000000002,0.0,2018
+AVLR,Jun 15,Avalara Inc.,Technology,24.0,7,BAML,GS,JPM,1.05,0.873,2018
+VRCA,Jun 15,Verrica Pharmaceuticals Inc.,Health-Care,15.0,5,BAML,COWN,JEFF,0.233,0.16699999999999998,2018
+USX,Jun 14,U.S. Xpress Enterprises Inc.,Transportation,16.0,18,BAML,MS,,0.35,0.043,2018
+CHRA,Jun 14,Charah Solutions Inc.,Basic-Industries,12.0,7,BAML,MS,,0.387,0.0,2018
+MGTX,Jun 8,MeiraGTx Holdings plc,Health-Care,15.0,5,BRCL,BAML,,0.40299999999999997,0.0,2018
+AMBO,Jun 1,Ambow Education Holding Ltd.,Consumer-Services,4.3,1,BNCH,,,0.20800000000000002,-0.052000000000000005,2018
+ITRM,May 25,Iterum Therapeutics plc,Health-Care,13.0,6,LRNK,RBC,,0.11900000000000001,-0.012,2018
+KNSA,May 24,Kiniksa Pharmaceuticals Ltd.,Health-Care,18.0,8,GS,JPM,,0.239,0.08199999999999999,2018
+SRRK,May 24,Scholar Rock Holding Corporation,Health-Care,14.0,5,BMO,COWN,JEFF,0.348,0.107,2018
+CLPS,May 24,CLPS Incorporation,Technology,5.3,2,CUTN,,,0.517,0.05,2018
+EVOP,May 23,EVO Payments Inc.,Miscellaneous,16.0,14,BAML,CITI,JPM,0.7879999999999999,0.18899999999999997,2018
+HUYA,May 11,HUYA Inc.,Technology,12.0,15,CS,GS,UBS,0.772,0.33799999999999997,2018
+EQH,May 10,AXA Equitable Holdings Inc.,Finance,20.0,137,BRCL,CITI,JPM,0.237,0.017,2018
+EVLO,May 9,Evelo Biosciences Inc.,Health-Care,16.0,5,BMO,COWN,MS,0.38,0.016,2018
+OBNK,May 9,Origin Bancorp Inc.,Finance,34.0,3,RAYJ,STPH,,0.47600000000000003,0.10300000000000001,2018
+ROAD,May 4,Construction Partners Inc.,Basic-Industries,12.0,11,RAYJ,RWB,STPH,0.363,0.008,2018
+ASLN,May 4,ASLAN Pharmaceuticals Limited,Health-Care,7.0,6,LRNK,PPRJ,,0.136,-0.20199999999999999,2018
+BCML,May 4,BayCom Corp,Finance,22.0,2,DAVD,FIGP,,0.099,0.045,2018
+INSP,May 3,Inspire Medical Systems Inc.,Health-Care,16.0,6,BAML,GS,,0.508,0.561,2018
+UBX,May 3,Unity Biotechnology Inc.,Health-Care,17.0,5,CITI,GS,MS,0.168,-0.021,2018
+DOCU,Apr 27,DocuSign Inc.,Technology,29.0,21,JPM,MS,,0.755,0.37,2018
+GSHD,Apr 27,Goosehead Insurance Inc.,Finance,10.0,8,BAML,JPM,,0.27,0.575,2018
+SMAR,Apr 27,Smartsheet Inc.,Technology,15.0,11,JPM,JEFF,MS,0.79,0.3,2018
+LASR,Apr 26,nLIGHT Inc.,Technology,16.0,6,RAYJ,Stifel,,0.6509999999999999,0.684,2018
+CDAY,Apr 26,Ceridian HCM Holding Inc.,Technology,22.0,21,GS,JPM,,0.647,0.419,2018
+SURF,Apr 19,Surface Oncology Inc.,Health-Care,15.0,7,COWN,,GS,0.5720000000000001,-0.111,2018
+MOR,Apr 19,MorphoSys AG,Health-Care,25.0,8,GS,JPM,,0.012,0.057,2018
+EAF,Apr 19,GrafTech International Ltd.,Energy,15.0,35,JPM,CS,,0.371,-0.037000000000000005,2018
+AGMH,Apr 18,AGM Group Holdings Inc.,Technology,5.0,1,NONE,,,0.223,0.26,2018
+ZUO,Apr 12,Zuora Inc.,Technology,14.0,11,ALLN,GS,JEFF,1.19,0.429,2018
+SPOT,Apr 3,Spotify Technology S.A.,Consumer-Services,165.9,55,,,,0.5479999999999999,-0.102,2018
+IQ,Mar 29,iQIYI Inc.,Consumer-Services,18.0,125,BAML,CS,GS,0.638,-0.136,2018
+GNPX,Mar 29,Genprex Inc.,Health-Care,5.0,1,NONE,,,0.115,-0.06,2018
+FIXX,Mar 28,Homology Medicines Inc.,Health-Care,16.0,9,BAML,COWN,,0.32899999999999996,0.166,2018
+BILI,Mar 28,Bilibili Inc.,Technology,11.5,42,BAML,JPM,MS,0.569,-0.023,2018
+OPBK,Mar 28,OP Bancorp,Finance,11.0,2,KBW,,,0.8759999999999999,0.113,2018
+GHG,Mar 27,GreenTree Hospitality Group Ltd.,Consumer-Services,14.0,10,BAML,MS,UBS,0.40299999999999997,-0.071,2018
+DBX,Mar 23,Dropbox Inc.,Technology,21.0,36,BAML,GS,JPM,1.554,0.35600000000000004,2018
+STG,Mar 23,Sunlands Online Education Group,Consumer-Services,11.5,13,CS,GS,JPM,0.532,-0.035,2018
+ZS,Mar 16,Zscaler Inc.,Technology,16.0,12,GS,MS,,1.4080000000000001,1.063,2018
+AIHS,Mar 19,Senmiao Technology Limited,Finance,4.0,3,VWTR,,,0.078,0.413,2018
+RCUS,Mar 15,Arcus Biosciences Inc.,Health-Care,15.0,8,CITI,GS,LRNK,0.7,0.133,2018
+BWB,Mar 14,Bridgewater Bancshares Inc.,Finance,11.8,6,DAVD,,,0.402,0.07400000000000001,2018
+BTAI,Mar 8,BioXcel Therapeutics Inc.,Health-Care,11.0,59,BRCL,BMO,UBS,0.032,0.003,2018
+FAMI,Feb 16,FARMMI INC.,Consumer-Non-Durables,4.0,1,VWTR,,,0.062,0.545,2018
+MOTS,Feb 14,Motus GI Holdings Inc.,Health-Care,5.0,3,OPPN,PPRJ,,0.18600000000000003,-0.124,2018
+CDLX,Feb 9,Cardlytics Inc.,Technology,13.0,5,BAML,JPM,,0.573,0.027999999999999997,2018
+EOLS,Feb 8,Evolus Inc.,Health-Care,12.0,5,CNTR,MIZU,,0.262,-0.042,2018
+MUDSU,Feb 8,Mudrick Capital Acquisition Corporation,Finance,10.0,20,CNTR,,,0.13,0.0,2018
+VCTR,Feb 8,Victory Capital Holdings Inc.,Finance,13.0,11,BAML,JPM,MS,0.322,-0.10800000000000001,2018
+WHD,Feb 8,Cactus Inc.,Energy,19.0,23,CITI,CS,,0.65,0.066,2018
+CEPU,Feb 2,Central Puerto S.A.,Public-Utilities,16.5,20,BAML,JPM,,0.312,0.073,2018
+CAAP,Feb 1,Corporacion America Airports SA,Transportation,17.0,28,OPPN,,,0.364,-0.035,2018
+OSS,Feb 1,One Stop Systems Inc.,Technology,5.0,3,ROTH,,,0.37200000000000005,-0.024,2018
+SLGL,Feb 1,Sol-Gel Technologies Ltd.,Health-Care,12.0,6,JEFF,BMO,,0.39,0.13699999999999998,2018
+VICI,Feb 1,VICI Properties Inc.,Consumer-Services,20.0,60,BAML,GS,MS,0.40700000000000003,0.009000000000000001,2018
+AGS,Jan 26,PlayAGS Inc.,Consumer-Durables,16.0,10,CS,DB,,0.525,0.156,2018
+SLDB,Jan 26,Solid Biosciences Inc.,Health-Care,16.0,7,GS,JPM,LRNK,0.423,0.414,2018
+EYEN,Jan 25,Eyenovia Inc.,Health-Care,10.0,2,LDNT,ROTH,,0.392,-0.008,2018
+GTES,Jan 25,Gates Industrial Corporation plc,Technology,19.0,38,CITI,MS,UBS,0.516,-0.026000000000000002,2018
+PAGS,Jan 24,PagSeguro Digital Ltd.,Technology,21.5,105,GS,MS,,0.54,0.358,2018
+NINE,Jan 19,Nine Energy Service Inc.,Energy,23.0,7,GS,JPM,WLFG,0.883,0.135,2018
+ADT,Jan 19,ADT Inc.,Consumer-Services,14.0,105,GS,MS,,0.649,-0.115,2018
+LBRT,Jan 12,Liberty Oilfield Services Inc.,Energy,17.0,12,GS,MS,WLFG,0.821,0.27899999999999997,2018
+CUE,Jan 10,Cue Biopharma Inc.,Health-Care,7.5,8,FLTI,MDBC,,0.04,0.551,2018
+MSFT,Jan 10,Microsoft Corporation,Technology,7.5,8,FLTI,MDBC,,0.04,0.551,2018
+AMTB,Dec 19,Mercantil Bank Holding Corporation,Finance,13.0,6,KBW,RAYJ,,0.08800000000000001,0.0,2018
+LEGH,Dec 14,Legacy Housing Corporation,Basic-Industries,12.0,4,CHRD,,,0.696,0.002,2018
+QFIN,Dec 14,360 Finance Inc,Finance,16.5,3,,FBR,,0.193,0.0,2018
+SAMAU,Dec 11,Schultze Special Purpose Acquisition Corp,Finance,10.0,13,BTIG,ERLY,,0.193,-0.005,2018
+DMAC,Dec 7,DiaMedica Therapeutics Inc,Health-Care,10.0,4,CHLM,,,0.27399999999999997,-0.69,2018
+MRNA,Dec 7,Moderna Inc,Health-Care,23.0,26,GS,JPM,MS,0.494,-0.191,2018
+MOGU,Dec 6,MOGU Inc,Miscellaneous,14.0,4,CRNS,CS,MS,0.716,0.0,2018
+MDRR,Nov 28,Medalist Diversified REIT Inc,Consumer-Services,10.0,240,MXIM,,,0.08900000000000001,-0.06,2018
+TLSA,Nov 20,Tiziana Life Sciences plc,Health-Care,9.9,442,LDLW,,,0.039,-0.157,2018
+TC,Nov 20,TuanChe Limited,Miscellaneous,7.8,2,,,,0.078,0.004,2018
+PINS,Apr 18,Pinterest Inc.,Choose Sector,19.0,75,GS,JPM,ALLN,1.161,0.284,2019
+BYND,May 2,Beyond Meat Inc.,Consumer Non-Durables,25.0,9,GS,JPM,CS,2.4019999999999997,1.63,2019
+UBER,May 10,Uber Technologies Inc.,Transportation,45.0,180,MS,GS,BAML,1.035,-0.076,2019
+KRTX,Jun 28,Karuna Therapeutics Inc.,Health-Care,16.0,5,GS,CITI,WLFG,0.488,0.251,2019
+DOYU,Jul 17,DouYu International Holdings Limited,Technology,11.5,67,MS,JPM,BAML,0.484,0.0,2019
+PHR,Jul 18,Phreesia Inc.,Finance,18.0,9,JPM,WLFG,WB,0.86,0.39299999999999996,2019
+ORCC,Jul 18,Owl Rock Capital Corp.,Finance,15.3,10,CS,DB,JMPS,0.326,0.012,2019
+MIRM,Jul 18,Mirum Pharmaceuticals Inc.,Health-Care,15.0,5,CITI,EVCR,GGNH,0.295,-0.11900000000000001,2019
+GMAB,Jul 18,Genmab A/S,Health-Care,17.8,28,BAML,MS,JEFF,0.207,0.013999999999999999,2019
+FULC,Jul 18,Fulcrum Therapeutics Inc.,Health-Care,16.0,4,MS,BAML,LRNK,0.276,-0.156,2019
+AMK,Jul 18,AssetMark Financial Holdings Inc.,Finance,22.0,12,JPM,CS,GS,0.836,0.22899999999999998,2019
+IFS,Jul 19,Intercorp Financial Services Inc.,Finance,46.0,9,BAML,JPM,,0.272,0.022000000000000002,2019
+AFYA,Jul 19,Afya Limited,Consumer-Services,19.0,13,BAML,GS,UBS,0.535,0.255,2019
+NOVA,Jul 25,Sunnova Energy International Inc.,Consumer-Services,12.0,14,BAML,JPM,GS,0.324,-0.063,2019
+HCAT,Jul 25,Health Catalyst Inc.,Technology,26.0,7,GS,JPM,WB,0.8690000000000001,0.507,2019
+CSTL,Jul 25,Castle Biosciences Inc.,Health-Care,16.0,4,LRNK,BARD,,0.539,0.33799999999999997,2019
+VIST,Jul 26,Vista Oil & Gas S.A.B. de C.V.,Energy,9.3,10,CITI,CS,,0.25,-0.016,2019
+BHAT,Jul 26,Blue Hat Interactive Entertainment Technology,Consumer-Non-Durables,4.0,2,VWTR,,,0.8759999999999999,0.145,2019
+BORR,Jul 31,Borr Drilling Limited,Energy,9.3,5,GS,DNBM,,0.146,0.051,2019
+SNDL,Aug 1,Sundial Growers Inc.,Health-Care,13.0,11,COWN,BMO,BRCL,0.847,-0.348,2019
+KRUS,Aug 1,Kura Sushi USA Inc.,Consumer-Non-Durables,14.0,2,BMO,STPH,,0.639,0.401,2019
+DT,Aug 1,Dynatrace Holdings LLC,Technology,16.0,35,GS,JPM,CITI,0.003,0.031,2019
+INMD,Aug 8,InMode Ltd.,Health-Care,14.0,5,BRCL,UBS,CNCD,0.71,-0.031,2019
+CFB,Aug 15,CrossFirst Bankshares Inc.,Finance,14.5,7,KBW,RAYJ,STPH,0.114,0.012,2019
+JFU,Aug 15,9F Inc.,Finance,9.5,8,CS,,,0.276,0.027000000000000003,2019
+SDC,Sep 12,SmileDirectClub Inc.,Health-Care,23.0,58,JPM,CITI,BAML,0.816,-0.249,2019
+TXG,Sep 12,10x Genomics Inc.,Health-Care,39.0,10,JPM,GS,BAML,0.733,0.353,2019
+SWTX,Sep 13,SpringWorks Therapeutics Inc.,Health-Care,18.0,9,JPM,GS,COWN,0.382,0.325,2019
+STSA,Sep 13,Satsuma Pharmaceuticals Inc.,Health-Care,15.0,5,,,,0.25,0.127,2019
+NET,Sep 13,Cloudflare Inc.,Technology,15.0,35,GS,MS,JPM,1.0270000000000001,0.2,2019
+ALRS,Sep 13,Alerus Financial Corporation,Finance,21.0,2,RAYJ,DAVD,,0.204,0.048,2019
+IGMS,Sep 18,IGM Biosciences Inc.,Health-Care,16.0,10,JEFF,PPRJ,Stifel,0.16,0.519,2019
+NVST,Sep 18,Envista Holdings Corporation,Health-Care,22.0,26,JPM,GS,MS,0.37799999999999995,0.27,2019
+PING,Sep 19,Ping Identity Holding Corp.,Technology,15.0,12,GS,BAML,RBC,0.919,0.341,2019
+DDOG,Sep 19,Datadog Inc.,Technology,27.0,24,MS,GS,JPM,0.9179999999999999,0.391,2019
+PTON,Sep 26,Peloton Interactive Inc.,Consumer Durables,29.0,40,GS,JPM,,1.176,-0.11199999999999999,2019
+OPRT,Sep 26,Oportun Financial Corporation,Finance,15.0,6,BRCL,JPM,JEFF,0.272,0.078,2019
+MCBS,Oct 3,MetroCity Bankshares Inc.,Finance,13.5,1,KBW,RAYJ,Stifel,0.163,-0.001,2019
+FREQ,Oct 3,Frequency Therapeutics Inc.,Health-Care,14.0,6,JPM,GS,COWN,0.0,-1.0,2019
+APRE,Oct 3,Aprea Therapeutics Inc.,Health-Care,15.0,5,JPM,MS,RBC,0.319,0.36700000000000005,2019
+BNTX,Oct 10,BioNTech SE,Health-Care,15.0,10,JPM,BAML,UBS,0.281,-0.051,2019
+VIR,Oct 11,Vir Biotechnology Inc.,Health-Care,20.0,7,GS,JPM,COWN,0.429,-0.299,2019
+HBT,Oct 11,HBT Financial Inc.,Finance,16.0,8,KBW,JPM,,0.452,-0.028999999999999998,2019
+IPHA,Oct 17,Innate Pharma SA,Health-Care,5.5,12,CITI,EVCR,,0.066,0.1,2019
+BRBR,Oct 17,BellRing Brands Inc.,Consumer-Non-Durables,14.0,34,MS,CITI,JPM,0.257,0.179,2019
+BRP,Oct 24,BRP Group Inc.,Finance,14.0,16,JPM,BAML,,0.409,0.16899999999999998,2019
+TFFP,Oct 25,TFF Pharmaceuticals Inc.,Health-Care,5.0,4,NTNL,,,0.106,0.013999999999999999,2019
+PGNY,Oct 25,Progyny Inc.,Health-Care,13.0,10,JPM,GS,BAML,0.49700000000000005,0.226,2019
+PHAT,Oct 25,Phathom Pharmaceuticals Inc.,Health-Care,19.0,9,GS,JEFF,EVCR,0.09,0.295,2019
+HAPP,Oct 25,Happiness Biotech Group Limited,Health-Care,5.5,2,,,,0.32899999999999996,-0.182,2019
+CABA,Oct 25,Cabaletta Bio Inc.,Health-Care,11.0,6,MS,COWN,EVCR,0.14300000000000002,-0.091,2019
+AIH,Oct 25,Aesthetic Medical International Holdings Group Limited,Health-Care,12.0,2,MS,COWN,EVCR,0.31,-0.16399999999999998,2019
+RAPT,Oct 31,RAPT Therapeutics Inc.,Health-Care,12.0,3,BMO,WLFG,UBS,0.08199999999999999,0.083,2019
+OYST,Oct 31,Oyster Point Pharma Inc.,Health-Care,16.0,5,JPM,COWN,PPRJ,0.204,0.174,2019
+DUO,Nov 1,Fangdd Network Group Ltd.,Finance,13.0,6,MS,CITI,UBS,0.138,0.0,2019
+QK,Nov 5,Q&K International Group Limited,Finance,17.0,2,MS,,,0.139,0.038,2019
+SI,Nov 7,Silvergate Capital Corporation,Finance,12.0,3,BRCL,KBW,,0.27699999999999997,0.043,2019
+GRTX,Nov 7,Galera Therapeutics Inc.,Health-Care,12.0,5,BAML,CITI,CS,0.263,0.0,2019
+CNTG,Nov 7,Centogene B.V.,Health-Care,14.0,4,LRNK,EVCR,,0.23199999999999998,-0.10800000000000001,2019
+TELA,Nov 8,TELA Bio Inc.,Health-Care,13.0,4,JEFF,PPRJ,,0.318,0.027000000000000003,2019
+MOHO,Nov 8,ECMOHO Ltd.,Consumer-Services,10.0,4,UBS,,,0.084,0.01,2019
+CNSP,Nov 8,CNS Pharmaceuticals Inc.,Health-Care,4.0,2,,,,0.405,0.14300000000000002,2019
+KRKR,Nov 8,36Kr Holdings Inc.,Finance,14.5,1,CS,,,0.34700000000000003,-0.099,2019
+ETNB,Nov 11,89bio Inc.,Health-Care,16.0,5,BAML,LRNK,RBC,0.046,0.3,2019
+YAYO,Nov 13,YayYo Inc.,Technology,4.0,2,AGIS,WPRK,,0.188,-0.113,2019
+SITM,Nov 21,SiTime Corporation,Capital-Goods,13.0,4,BRCL,Stifel,,0.24,0.435,2019
+CAN,Nov 21,Canaan Inc.,Capital-Goods,9.0,10,CITI,CRNS,,0.40700000000000003,-0.001,2019
+LMPX,Dec 5,LMP Automotive Holdings Inc.,Capital-Goods,5.0,2,TEq,,,0.358,0.07200000000000001,2019
+ONEM,Dec 31,1Life Healthcare Inc.,Health-Care,14.0,17,JPM,MS,,0.474,0.5760000000000001,2019
+INDO,Dec 19,Indonesia Energy Corp Ltd.,Energy,11.0,1,AGIS,,,0.066,-0.027000000000000003,2019
+MNPR,Dec 19,Monopar Therapeutics Inc.,Health-Care,8.0,1,JT,,,0.494,2.313,2019
+OCFT,Dec 13,OneConnect Financial TechnologyCo. Ltd.,Technology,10.0,31,MS,GS,JPM,0.174,0.0,2019
+SPT,Dec 13,Sprout Social Inc.,Technology,17.0,8,GS,MS,,0.617,-0.024,2019
+BILL,Dec 12,Bill.com Holdings Inc.,Technology,22.0,9,GS,BAML,JEFF,0.97,0.614,2019
+EH,Dec 12,EHang Holdings Ltd.,Transportation,12.5,3,MS,,,0.23399999999999999,-0.001,2019
+XP,Dec 11,XP Inc.,Finance,27.0,72,GS,JPM,MS,0.478,0.276,2019
+GRIL,Feb 13,Muscle Maker Inc.,Consumer-Services,5.0,1,AXND,,,0.17800000000000002,-0.228,2020
+VEL,Jan 17,Velocity Financial LLC,Finance,13.0,7,WLFG,CITI,JMPS,0.47100000000000003,0.039,2020
+LIZI,Jan 17,LIZHI INC.,Technology,11.0,4,CITI,,,0.8959999999999999,0.057,2020
+IMAB,Jan 17,I-MAB,Health-Care,14.0,7,JEFF,CITI,,0.518,-0.107,2020
+ANVS,Jan 29,Annovis Bio Inc.,Health-Care,6.0,2,TEq,,,1.694,0.598,2020
+BDTX,Jan 30,Black Diamond Therapeutics Inc.,Health-Care,19.0,10,JPM,JEFF,COWN,0.506,1.078,2020
+ANPC,Jan 30,AnPac Bio-Medical Science Co. Ltd.,Health-Care,12.0,1,WPRK,WBSH,UnSec,0.23800000000000002,-0.063,2020
+REYN,Jan 31,Reynolds Consumer Products Inc.,Consumer-Non-Durables,26.0,47,CS,GS,JPM,0.556,0.098,2020
+ARQT,Jan 31,Arcutis Biotherapeutics Inc.,Health-Care,17.0,9,GS,COWN,GGNH,0.313,0.282,2020
+SDGR,Feb 6,Schrodinger Inc.,Health-Care,17.0,11,MS,BAML,JEFF,0.642,0.685,2020
+BEAM,Feb 6,Beam Therapeutics Inc.,Health-Care,17.0,10,JPM,JEFF,BRCL,0.5539999999999999,0.10300000000000001,2020
+ONEW,Feb 7,OneWater Marine Inc.,Consumer-Durables,12.0,4,RAYJ,BARD,SNTR,0.31,0.262,2020
+NREF,Feb 7,NexPoint Real Estate Finance Inc.,Finance,19.0,5,RAYJ,KBW,BARD,0.23,-0.011000000000000001,2020
+RVMD,Feb 11,Revolution Medicines Inc.,Health-Care,17.0,14,JPM,COWN,GGNH,0.523,0.7,2020
+HUIZ,Feb 12,Huize Holding Ltd.,Finance,10.5,5,CITI,,,0.419,-0.048,2020
+ZCMD,Feb 24,ZHONGCHAO Inc.,Consumer-Services,4.0,3,NONE,,,0.078,0.008,2020
+PASG,Feb 28,Passage BIO Inc.,Health-Care,18.0,12,JPM,GS,COWN,0.413,0.233,2020
+GFL,Mar 3,GFL Environmental Holdings Inc.,Basic-Industries,19.0,75,JPM,BMO,GS,0.192,-0.11599999999999999,2020
+IMRA,Mar 12,IMARA Inc.,Health-Care,16.0,4,MS,CITI,LRNK,0.09699999999999999,-0.063,2020
+WIMI,Apr 1,WiMi Hologram Cloud Inc.,Technology,5.5,4,MXIM,,,0.33799999999999997,0.0,2020
+ZNTL,Apr 3,Zentalis Pharmaceuticals LLC,Health-Care,18.0,9,MS,JEFF,GGNH,0.20800000000000002,0.289,2020
+KROS,Apr 8,Keros Therapeutics Inc.,Health-Care,16.0,6,JEFF,LRNK,,0.177,0.255,2020
+ORIC,Apr 24,ORIC Pharmaceuticals Inc.,Health-Care,16.0,7,JPM,CITI,JEFF,0.493,0.611,2020
+LYRA,May 1,Lyra Therapeutics Inc.,Health-Care,16.0,3,BAML,JEFF,WB,0.49700000000000005,0.16,2020
+GAN,May 5,GAN Limited,Technology,8.5,6,,,,0.95,0.5589999999999999,2020
+KC,May 8,Kingsoft Cloud Holdings Limited,Technology,23.8,17,JPM,UBS,CS,0.85,0.0,2020
+CLEU,May 8,China Liberal Education Holdings Limited,Consumer-Durables,6.0,1,BOTD,,,0.151,-0.183,2020
+AYLA,May 8,Ayala Pharmaceuticals Inc.,Health-Care,15.0,3,CITI,JEFF,,0.47100000000000003,0.002,2020
+ADCT,May 15,ADC Therapeutics SA,Health-Care,19.0,12,MS,BAML,COWN,0.067,0.579,2020
+SLQT,May 21,SelectQuote Inc.,Finance,20.0,28,CS,MS,EVCR,0.7140000000000001,0.35,2020
+NARI,May 22,Inari Medical Inc.,Health-Care,19.0,8,CITI,JPM,,0.828,1.237,2020
+PLRX,Jun 3,Pliant Therapeutics Inc.,Health-Care,16.0,9,CITI,COWN,SNDL,0.474,0.331,2020
+WMG,Jun 3,Warner Music Group Corp.,Consumer-Services,25.0,77,MS,CS,GS,0.45399999999999996,0.205,2020
+ZI,Jun 4,ZoomInfo Technologies Inc.,Technology,44.5,21,JPM,MS,BRCL,1.179,-0.23600000000000002,2020
+FOUR,Jun 5,Shift4 Payments Inc.,Finance,23.0,15,CITI,CS,GS,0.8140000000000001,0.45799999999999996,2020
+AMTI,Jun 5,Applied Molecular Transport Inc.,Health-Care,14.0,11,BAML,JEFF,LRNK,0.316,0.284,2020
+AZEK,Jun 12,AZEK Company Inc.,Basic-Industries,19.0,31,BRCL,BAML,GS,0.0,-1.0,2020
+VRM,Jun 9,Vroom Inc.,Energy,22.0,21,GS,BAML,ALLN,0.7659999999999999,1.177,2020
+RNA,Jun 12,Avidity Biosciences Inc.,Health-Care,18.0,14,COWN,CS,WLFG,0.40299999999999997,0.583,2020
+RPRX,Jun 16,Royalty Pharma plc,Health-Care,28.0,77,JPM,BAML,GS,0.35600000000000004,0.589,2020
+RPTX,Jun 19,Repare Therapeutics inc.,Health-Care,20.0,11,MS,GS,COWN,0.43700000000000006,0.54,2020
+GTH,Jun 19,Genetron Holdings Limited,Health-Care,16.0,16,CS,CICC,,0.768,0.0,2020
+FMTX,Jun 19,Forma Therapeutics Holdings Inc.,Health-Care,20.0,13,JEFF,LRNK,CS,0.113,0.95,2020
+FUSN,Jun 26,Fusion Pharmaceuticals Inc.,Health-Care,17.0,12,MS,JEFF,COWN,0.413,0.0,2020
+EBON,Jun 26,Ebang International Holdings Inc.,Technology,5.2,19,,,,0.036000000000000004,-0.044000000000000004,2020
+ACI,Jun 26,Albertsons Companies Inc.,Consumer-Non-Durables,16.0,50,BAML,GS,JPM,0.746,-0.034,2020
+AKTS,Jun 26,Akoustis Technologies Inc,Public-Utilities,17.0,12,BAML,COWN,SNDL,2.983,-0.091,2020
+API,Jun 26,Agora Inc.,Technology,20.0,17,MS,BAML,,0.44,1.525,2020
+DNB,Jul 1,Dun & Bradstreet Holdings Inc.,Consumer-Durables,22.0,78,GS,BAML,JPM,0.474,0.152,2020
+LMND,Jul 2,Lemonade Inc.,Finance,29.0,11,GS,MS,ALLN,1.67,1.393,2020
+ACCD,Jul 2,Accolade Inc.,Finance,22.0,10,GS,MS,BAML,0.851,0.35,2020
+PYPD,Jun 26,PolyPid Ltd.,Health-Care,16.0,3,BRCL,BMO,,0.711,0.188,2020
+BLCT,Jul 8,BlueCity Holdings Limited,Technology,16.0,5,,RFL,,0.977,0.46399999999999997,2020
+QH,Jul 10,Quhuo Limited,Finance,10.0,3,ROTH,,,1.0070000000000001,0.27699999999999997,2020
+PSTX,Jul 10,Poseida Therapeutics Inc.,Health-Care,5.0,2,SPRT,WPRK,,3.176,2.07,2020
+NKTX,Jul 10,Nkarta Inc.,Health-Care,18.0,14,COWN,EVCR,Stifel,0.094,1.661,2020
+NCNO,Jul 14,nCino Inc.,Technology,31.0,8,BAML,BRCL,KEYB,1.306,1.955,2020
+GOCO,Jul 15,GoHealth Inc.,Finance,21.0,43,GS,BAML,MS,0.922,-0.073,2020
+TIG,Jul 16,Trean Insurance Group Inc.,Finance,15.0,10,JPM,EVCR,WB,0.7120000000000001,0.034,2020
+RLAY,Jul 16,Relay Therapeutics Inc.,Health-Care,20.0,20,JPM,COWN,GGNH,0.355,0.753,2020
+BLI,Jul 17,Berkeley Lights Inc.,Health-Care,22.0,8,JPM,MS,COWN,0.556,1.975,2020
+ALXO,Jul 17,ALX Oncology Holdings Inc.,Health-Care,19.0,8,JEFF,CS,CNTR,0.188,0.579,2020
+JAMF,Jul 22,Jamf Holding Corp.,Technology,26.0,18,GS,JPM,BAML,1.245,0.508,2020
+EDTK,Jul 23,Skillful Craftsman Education Technology Ltd.,Consumer-Services,5.0,3,BNCH,AXOM,,0.7909999999999999,-0.05,2020
+MEG,Jul 23,Montrose Environmental Group Inc.,Consumer-Services,15.0,10,BAML,WB,,0.504,0.467,2020
+GOED,Jul 31,1847 Goedeker Inc.,Consumer-Durables,9.0,1,TEq,,,0.767,-0.011000000000000001,2020
+FTHM,Jul 31,Fathom Holdings Inc.,Finance,10.0,3,ROTH,,,0.588,0.003,2020
+VSTA,Jul 31,Vasta Platform Limited,Consumer-Services,19.0,18,GS,BAML,,0.596,-0.008,2020
+VITL,Jul 31,Vital Farms Inc.,Consumer-Non-Durables,22.0,9,GS,MS,CS,0.634,0.603,2020
+ALVR,Jul 30,AlloVir Inc.,Health-Care,17.0,16,MS,JPM,LRNK,0.025,0.465,2020
+LI,Jul 30,Li Auto Inc.,Consumer-Durables,11.5,95,GS,MS,UBS,0.20600000000000002,0.391,2020
+VERX,Jul 29,Vertex Inc.,Technology,19.0,21,GS,MS,,0.759,0.259,2020
+ANNX,Jul 24,Annexon Inc.,Health-Care,17.0,14,JPM,BAML,COWN,0.332,0.045,2020
+INZY,Jul 24,Inozyme Pharma Inc.,Health-Care,17.0,14,BAML,COWN,PPRJ,0.11800000000000001,0.032,2020
+ITOS,Jul 24,iTeos Therapeutics Inc.,Health-Care,19.0,10,JPM,LRNK,,0.222,0.003,2020
+NRIX,Jul 24,Nurix Therapeutics Inc.,Health-Care,19.0,11,JPM,SNDL,Stifel,0.214,0.003,2020
+RXT,Aug 5,Rackspace Technology Inc.,Technology,21.0,31,GS,CITI,JPM,0.8290000000000001,-0.22,2020
+BIGC,Aug 5,BigCommerce Holdings Inc.,Technology,24.0,9,MS,BRCL,KEYB,1.2990000000000002,2.011,2020
+RKT,Aug 6,Rocket Companies Inc.,Finance,18.0,100,GS,MS,JPM,0.524,0.07200000000000001,2020
+OSH,Aug 6,Oak Street Health Inc.,Health-Care,21.0,15,JPM,GS,MS,0.28300000000000003,0.7240000000000001,2020
+AFIB,Aug 6,Acutus Medical Inc.,Health-Care,18.0,8,JPM,BAML,WB,0.0,0.0,2020
+IBEX,Aug 7,IBEX Ltd.,Technology,19.0,4,CITI,RBC,BARD,0.563,-0.18899999999999997,2020
+FRLN,Aug 7,Freeline Therapeutics Holdings plc,Health-Care,18.0,8,JPM,MS,EVCR,0.315,0.0,2020
+NTST,Aug 13,NETSTREIT Corp.,Finance,18.0,12,WLFG,BAML,CITI,0.349,-0.013999999999999999,2020
+BEKE,Aug 13,KE Holdings Inc.,Finance,20.0,106,GS,MS,JPM,0.467,0.872,2020
+DCT,Aug 14,Duck Creek Technologies Inc.,Technology,27.0,15,GS,JPM,BAML,0.8759999999999999,0.48100000000000004,2020
+CVAC,Aug 14,CureVac B.V.,Health-Care,16.0,13,BAML,JEFF,CS,1.78,2.494,2020
+INBX,Aug 19,Inhibrx Inc.,Health-Care,17.0,7,JEFF,EVCR,CS,0.064,0.215,2020
+HRMY,Aug 19,Harmony Biosciences Holdings Inc.,Health-Care,37.0,24,GS,JEFF,PPRJ,0.024,-0.025,2020
+NNOX,Aug 21,Nano-X Imaging Ltd.,Health-Care,18.0,9,CNTR,CIBC,,1.104,0.171,2020
+KYMR,Aug 21,Kymera Therapeutics Inc.,Health-Care,20.0,8,MS,BAML,COWN,0.445,0.6629999999999999,2020
+XPEV,Aug 27,XPeng Inc.,Consumer-Non-Durables,15.0,99,CS,JPM,BAML,0.825,0.415,2020
+HCDI,Aug 28,Harbor Custom Development Inc.,Basic-Industries,6.0,1,TEq,,,1.0590000000000002,0.25,2020
+AUVI,Aug 31,Applied UV Inc.,Consumer-Durables,5.0,1,NONE,,,7.562,1.32,2020
+SUMO,Sep 17,Sumo Logic Inc.,Technology,22.0,14,MS,JPM,RBC,1.13,0.222,2020
+PTVE,Sep 17,Pactiv Evergreen Inc.,Consumer-Non-Durables,14.0,41,CS,CITI,BAML,0.35700000000000004,-0.21899999999999997,2020
+BNL,Sep 17,Broadstone Net Lease Inc.,Consumer-Services,17.0,33,JPM,GS,BMO,0.243,-0.049,2020
+AMWL,Sep 17,American Well Corp.,Health-Care,18.0,41,MS,GS,UBS,0.665,0.282,2020
+VTRU,Sep 18,Vitru Ltd.,Consumer-Services,16.0,6,GS,BAML,MS,0.27699999999999997,0.0,2020
+U,Sep 18,Unity Software Inc.,Technology,25.0,52,GS,CS,BAML,0.397,1.734,2020
+CMPS,Aug 18,COMPASS Pathways plc,Health-Care,17.0,7,COWN,EVCR,,0.4,0.706,2020
+ATHA,Sep 18,Athira Pharma Inc.,Health-Care,17.0,12,GS,JEFF,Stifel,0.268,0.006,2020
+LSF,Sep 22,Laird Superfood Inc.,Consumer-Non-Durables,22.0,2,CNCD,CHLM,,0.747,0.855,2020
+GDRX,Sep 23,GoodRx Holdings Inc.,Technology,33.0,34,MS,GS,JPM,0.369,-0.568,2020
+BSY,Sep 23,Bentley Systems Incorporated,Technology,22.0,10,GS,BAML,RBC,0.738,0.522,2020
+TSHA,Sep 24,Taysha Gene Therapies Inc.,Health-Care,20.0,7,GS,MS,JEFF,0.32899999999999996,0.203,2020
+VIAO,Sep 25,VIA optronics AG,Capital-Goods,15.0,6,Berenberg,,,0.643,-0.321,2020
+PRLD,Sep 25,Prelude Therapeutics Incorporated,Health-Care,19.0,8,MS,GS,BAML,0.341,0.379,2020
+PMVP,Sep 25,PMV Pharmaceuticals Inc.,Health-Care,18.0,11,GS,BAML,COWN,0.27,1.084,2020
+GLSI,Sep 25,Greenwich LifeSciences Inc.,Health-Care,5.8,1,AGIS,,,0.365,-0.13,2020
+GRAY,Sep 25,Graybug Vision Inc.,Health-Care,16.0,5,LRNK,SNDL,,0.34600000000000003,0.031,2020
+AMST,Sep 25,Amesite Operating Company,Technology,5.0,3,LDLW,,,0.705,0.044000000000000004,2020
+LUNG,Oct 1,Pulmonx Corp.,Health-Care,19.0,10,BAML,MS,,0.529,1.069,2020
+YALA,Sep 30,Yalla Group Limited,Technology,7.5,18,MS,,,0.71,-0.067,2020
+PLTR,Sep 30,Palantir Technologies Inc.,Technology,7.3,257,,,,1.305,0.31,2020
+CD,Sep 30,Chindata Group Holdings Limited,Technology,13.5,40,MS,CITI,,0.653,0.20199999999999999,2020
+BQ,Sep 30,Boqii Holding Limited,Consumer-Services,10.0,7,ROTH,,,0.9229999999999999,-0.28,2020
+THRY,Oct 1,Thryv Holdings Inc.,Consumer-Services,10.2,26,IBNK,,,0.0,0.08800000000000001,2020
+AVO,Oct 1,Mission Produce Inc.,Consumer-Non-Durables,12.0,8,BAML,JPM,CITI,0.138,0.037000000000000005,2020
+LXEH,Oct 1,Lixiang Education Holding Co. Ltd.,Consumer-Services,9.3,3,,,,0.027000000000000003,-0.18899999999999997,2020
+ONCR,Oct 2,Oncorus Inc.,Health-Care,15.0,5,JEFF,EVCR,PPRJ,0.126,0.067,2020
+IMNM,Oct 2,IMMUNOME INC.,Health-Care,12.0,3,LDNT,CHRD,,0.157,0.121,2020
+CCCC,Oct 2,C4 Therapeutics Inc.,Health-Care,19.0,9,JEFF,EVCR,BMO,0.203,0.342,2020
+ASO,Oct 2,Academy Sports + Outdoors Inc.,Consumer-Services,13.0,15,CS,JPM,BAML,0.563,-0.001,2020
+FUBO,Oct 8,fuboTV Inc. (formerly FaceBank Group Inc.),Consumer-Services,10.0,18,EVCR,,,0.588,0.026000000000000002,2020
+AZYO,Oct 8,Aziyo Biologics Inc.,Health-Care,17.0,2,PPRJ,COWN,,0.705,-0.147,2020
+SPRB,Oct 9,Spruce Biosciences Inc.,Health-Care,15.0,6,COWN,CS,RBC,0.42700000000000005,0.133,2020
+KRON,Oct 9,Kronos Bio Inc.,Health-Care,19.0,13,GS,JEFF,COWN,0.284,0.425,2020
+IH,Oct 9,iHuman Inc.,Consumer-Services,12.0,7,CS,CITI,,0.654,0.33299999999999996,2020
+CDAK,Oct 14,Codiak BioSciences Inc.,Health-Care,15.0,5,GS,EVCR,WB,0.413,-0.192,2020
+MNSO,Oct 15,MINISO Group Holding Limited,Consumer-Services,20.0,30,GS,BAML,,0.7140000000000001,0.044000000000000004,2020
+ARRY,Oct 15,ARRAY TECHNOLOGIES INC.,Capital-Goods,22.0,47,GS,JPM,GGNH,0.715,0.657,2020
+TARS,Oct 16,TARSUS PHARMACEUTICALS INC.,Health-Care,16.0,5,BAML,JEFF,RAYJ,0.228,0.28600000000000003,2020
+PRAX,Oct 16,PRAXIS PRECISION MEDICINES INC.,Health-Care,19.0,10,COWN,EVCR,WBSH,0.43200000000000005,0.46299999999999997,2020
+KRBP,Oct 16,Kiromic Biopharma Inc.,Health-Care,12.0,1,TEq,,,0.36700000000000005,-0.042,2020
+EAR,Oct 16,Eargo Inc.,Health-Care,18.0,7,JPM,BAML,,0.8340000000000001,0.871,2020
+ALGS,Oct 16,Aligos Therapeutics Inc.,Health-Care,15.0,10,JPM,JEFF,PPRJ,0.276,-0.01,2020
+YGMZ,Oct 21,MingZhu Logistics Holdings Limited,Consumer-Services,4.0,3,VWTR,,,0.235,0.063,2020
+GHLD,Oct 22,Guild Holdings Company,Finance,15.0,6,WLFG,BAML,JPM,0.36700000000000005,0.0,2020
+BLSA,Oct 22,BCLS Acquisition Corp.,Finance,10.0,12,GS,JEFF,,0.08,0.099,2020
+ABCM,Oct 22,Abcam plc,Health-Care,17.5,8,MS,BAML,WB,0.276,0.129,2020
+FHTX,Oct 23,Foghorn Therapeutics Inc.,Health-Care,16.0,7,GS,MS,COWN,0.379,0.133,2020
+ROOT,Oct 28,ROOT INC.,Finance,27.0,26,GS,MS,,0.593,0.0,2020
+MAX,Oct 28,MediaAlpha Inc.,Finance,19.0,9,JPM,CITI,CS,0.59,0.677,2020
+GATO,Oct 28,Gatos Silver Inc.,Basic-Industries,7.0,21,BMO,GS,RBC,0.156,-0.057,2020
+BDSX,Oct 28,Biodesix Inc.,Health-Care,18.0,4,MS,WB,,0.654,-0.307,2020
+LESL,Oct 29,Leslie’s Inc.,Consumer-Services,17.0,40,GS,MS,BAML,0.534,0.276,2020
+GLTO,Oct 29,Galecto Inc.,Health-Care,15.0,5,BAML,LRNK,CS,0.23399999999999999,0.0,2020
+ALGM,Oct 29,Allegro MicroSystems Inc.,Technology,14.0,25,BRCL,CS,WLFG,0.444,0.264,2020
+SQZ,Oct 30,SQZ Biotechnologies Company,Health-Care,16.0,4,BAML,EVCR,Stifel,0.192,-0.172,2020
+LU,Sep 30,Lufax Holding Ltd,Finance,13.5,175,,,,0.192,-0.048,2020
+AVIR,Oct 30,Atea Pharmaceuticals Inc.,Health-Care,24.0,12,JPM,MS,EVCR,0.28600000000000003,0.264,2020
+YSG,Nov 19,Yatsen Holding Limited,Consumer-Services,10.5,58,GS,MS,CICC,0.609,0.752,2020
+OLMA,Nov 19,Olema Pharmaceuticals Inc.,Health-Care,19.0,11,JPM,JEFF,COWN,0.139,1.579,2020
+NGMS,Nov 19,NeoGames S.A.,Consumer-Services,17.0,4,Stifel,,,0.573,0.28600000000000003,2020
+SHC,Nov 20,Sotera Health Company,Health-Care,23.0,46,JPM,CS,GS,0.41100000000000003,0.091,2020
+MRVI,Nov 20,Maravai LifeSciences Holdings Inc.,Health-Care,27.0,60,MS,JEFF,GS,0.337,0.106,2020
+VMAR,Nov 24,Vision Marine Technologies Inc.,Consumer-Services,10.0,2,TEq,,,1.704,0.444,2020
+OZON,Nov 24,Ozon Holdings PLC,Consumer-Services,30.0,33,MS,GS,CITI,0.0,-1.0,2020
+KNTE,Dec 3,Kinnate BioPharma Inc.,Health-Care,20.0,12,GS,LRNK,PPRJ,0.053,1.173,2020
+SBTX,Dec 4,Silverback Therapeutics Inc.,Health-Care,21.0,11,GS,LRNK,Stifel,0.31,0.19,2020
+SGTX,Dec 4,Sigilon Therapeutics Inc.,Health-Care,18.0,7,MS,JEFF,BRCL,0.39799999999999996,0.932,2020
+SEER,Dec 4,Seer Inc.,Health-Care,19.0,9,JPM,MS,BAML,0.369,1.972,2020
+YQ,Dec 4,17 Education & Technology Group Inc.,Consumer-Services,10.5,27,GS,MS,BAML,0.473,0.006999999999999999,2020
+ABNB,Dec 10,Airbnb Inc.,Choose Sector,68.0,51,MS,GS,,1.365,1.128,2020
+DASH,Dec 9,DoorDash Inc.,Finance,102.0,33,GS,JPM,,0.769,0.858,2020
+AI,Dec 9,C3.ai Inc.,Technology,42.0,15,MS,JPM,BAML,1.6,1.202,2020
+HYFM,Dec 10,Hydrofarm Holdings Group Inc.,Basic-Industries,20.0,8,JPM,Stifel,DB,0.765,1.6,2020
+VVOS,Dec 11,Vivos Therapeutics Inc.,Health-Care,6.0,3,ROTH,,,1.3769999999999998,0.498,2020
+CERT,Dec 11,Certara Inc.,Technology,23.0,29,JEFF,MS,BAML,0.693,0.6559999999999999,2020
+MDWT,Dec 17,Midwest Holding Inc.,Finance,70.0,1,SNDL,,,0.255,-0.18600000000000003,2020
+MASS,Dec 18,908 Devices Inc.,Health-Care,20.0,6,COWN,LRNK,Stifel,0.649,1.45,2020
+IKT,Dec 23,Inhibikase Therapeutics Inc.,Health-Care,10.0,1,TEq,,,2.497,-0.01,2020
+ABCL,Dec 11,AbCellera Biologics Inc.,Health-Care,20.0,24,CS,Stifel,BMO,0.38299999999999995,1.945,2020
+VIRI,Dec 17,Virios Therapeutics LLC,Health-Care,10.0,3,TEq,,,5.307,0.6709999999999999,2020
+BCAB,Dec 16,BioAtla Inc.,Health-Care,18.0,10,JPM,JEFF,CS,0.387,0.723,2020
+WISH,Dec 16,ContextLogic Inc. (Wish),Consumer-Services,24.0,46,GS,JPM,BAML,0.0,-1.0,2020
+UPST,Dec 16,Upstart Holdings Inc.,Finance,20.0,12,GS,BAML,CITI,1.122,0.474,2020
+OCG,Dec 15,Oriental Culture Holding LTD.,Consumer-Services,4.0,5,VWTR,,,0.264,0.5,2020
+FDMT,Dec 11,4D Molecular Therapeutic Inc.,Health-Care,23.0,8,GS,BAML,EVCR,0.435,0.7609999999999999,2020
+MRM,Dec 29,MEDIROM Healthcare Technologies Inc.,Consumer-Services,15.0,800,MXIM,,,0.847,0.006999999999999999,2020
+POSH,Jan 14,Poshmark Inc.,Consumer Durables,42.0,6.0,MS,GS,BRCL,1.486,1.4169999999999998,2021
+GRCL,Jan 8,Gracell Biotechnologies Inc.,Health-Care,19.0,11.0,CITI,JEFF,WLFG,0.502,0.319,2021
+CGEM,Jan 8,Cullinan Oncology LLC,Health-Care,29.9,21.0,MS,LRNK,EVCR,0.193,0.0,2021
+QLI,Jan 14,Qilian International Holding Group Limited,Health-Care,5.0,5.0,UnSec,,,0.0,-1.0,2021
+KUKE,Jan 12,Kuke Music Holding Limited,Consumer-Services,10.0,5.0,DB,TB,,0.591,0.01,2021
+MSGM,Jan 13,Motorsport Games US LLC,Technology,20.0,3.0,CNCD,BNCH,,1.2590000000000001,0.75,2021
+AFRM,Jan 13,Affirm Holdings Inc.,Finance,49.0,97.0,MS,GS,ALLN,0.259,0.9670000000000001,2021
+WOOF,Jan 14,Petco Health and Wellness Company Inc.,Consumer-Services,18.0,48.0,GS,BAML,,1.0,0.633,2021
+PLTK,Jan 15,Playtika Holding Corp.,Technology,27.0,69.0,MS,CS,CITI,0.128,0.2,2021
+DRVN,Jan 15,Driven Brands Holdings Inc.,Transportation,22.0,31.0,MS,BAML,GS,0.075,0.301,2021
+MYTE,Jan 21,MYT Netherlands Parent B.V.,Finance,26.0,15.0,MS,JPM,,0.7959999999999999,0.192,2021
+DFH,Jan 21,Dream Finders Homes Inc.,Consumer-Services,13.0,9.0,BAML,RBC,BTIG,0.635,0.612,2021
+RLX,Jan 22,RLX Technology Inc.,Consumer-Non-Durables,12.0,116.0,CITI,,,0.408,-0.75,2021
+PAX,Jan 22,Patria Investments Ltd.,Finance,17.0,30.0,JPM,BAML,CS,0.513,0.23600000000000002,2021
+MNTK,Jan 22,Montauk Renewables Inc.,Public-Utilities,8.5,3.0,ROTH,,,0.872,0.38,2021
+HUDI,Jan 22,Huadi International Group Co. Ltd.,Basic-Industries,8.0,3.0,RFL,,,0.47,-0.109,2021
+EZGO,Jan 26,EZGO Technologies Ltd.,Consumer-Durables,4.0,2.0,VWTR,,,2.261,3.528,2021
+TIRX,Jan 27,TIAN RUIXIANG Holdings Ltd,Finance,4.0,3.0,NONE,,,0.1,3.025,2021
+SHLS,Jan 27,Shoals Technologies Group Inc.,Capital-Goods,25.0,77.0,GS,JPM,GGNH,0.096,0.32,2021
+ZIM,Jan 28,ZIM Integrated Shipping Services Ltd.,Transportation,15.0,14.0,CITI,GS,BRCL,0.441,-0.233,2021
+VINP,Jan 28,Vinci Partners Investments Ltd.,Finance,18.0,13.0,JPM,GS,,0.43,-0.061,2021
+XM,Jan 28,Qualtrics International Inc.,Technology,30.0,51.0,MS,JPM,,0.49,0.517,2021
+AGFY,Jan 28,Agrify Corporation,Consumer-Non-Durables,8.0,2.0,MXIM,ROTH,,1.261,0.593,2021
+TRIN,Jan 29,Trinity Capital Inc.,Finance,14.0,7.0,KBW,WLFG,UBS,0.191,0.071,2021
+HMPT,Jan 29,Home Point Capital Inc.,Finance,13.0,7.0,UBS,CS,JPM,0.856,-0.129,2021
+TIXT,Feb 3,TELUS International (Cda) Inc.,Technology,25.0,37.0,JPM,MS,,0.408,0.21600000000000003,2021
+ONTF,Feb 3,ON24 Inc.,Technology,50.0,8.0,GS,JPM,KEYB,0.889,0.41600000000000004,2021
+SNSE,Feb 4,Sensei Biotherapeutics Inc.,Health-Care,19.0,7.0,CITI,PPRJ,OPPN,0.527,-0.005,2021
+SANA,Feb 4,Sana Biotechnology Inc.,Health-Care,25.0,23.0,MS,GS,JPM,0.37799999999999995,0.40399999999999997,2021
+LABP,Feb 4,Landos Biopharma Inc.,Health-Care,16.0,6.0,JPM,JEFF,,0.45399999999999996,-0.25,2021
+ATC,Feb 4,Atotech Limited,Basic-Industries,17.0,29.0,CITI,CS,BAML,0.307,0.132,2021
+VOR,Feb 5,Vor Biopharma Inc.,Health-Care,18.0,9.0,GS,EVCR,BRCL,0.33899999999999997,1.083,2021
+TERN,Feb 5,Terns Pharmaceuticals Inc.,Health-Care,17.0,7.0,JPM,GS,COWN,0.402,0.08199999999999999,2021
+PHVS,Feb 5,Pharvaris B.V.,Health-Care,20.0,8.0,MS,BAML,LRNK,0.46,0.45,2021
+LHDX,Feb 5,Lucira Health Inc.,Health-Care,17.0,9.0,BAML,WB,,0.40700000000000003,0.469,2021
+IMCR,Feb 5,Immunocore Holdings Limited,Health-Care,26.0,9.0,GS,JPM,JEFF,0.33399999999999996,0.662,2021
+EVAX,Feb 5,Evaxion Biotech A/S,Health-Care,10.0,3.0,OPPN,,,0.0,-1.0,2021
+CNEY,Feb 5,CN Energy Group Inc.,Capital-Goods,4.0,5.0,NONE,,,0.37,0.435,2021
+BOLT,Feb 5,Bolt Biotherapeutics Inc.,Health-Care,20.0,11.0,MS,Stifel,GGNH,0.601,0.608,2021
+ANGN,Feb 5,Angion Biomedica Corp.,Health-Care,16.0,5.0,COWN,Stifel,,0.33299999999999996,0.064,2021
+BAOS,Feb 8,Baosheng Media Group Holdings Limited,Consumer-Services,5.0,6.0,UnSec,,,0.47,0.772,2021
+SDH,Feb 9,Global Internet of People Inc.,Consumer-Services,4.0,6.0,VWTR,NTNL,,0.258,0.165,2021
+RAAS,Feb 9,Cloopen Group Holding Limited,Technology,16.0,20.0,GS,CITI,CICC,1.268,2.0,2021
+ADAG,Feb 9,Adagene Inc.,Health-Care,19.0,7.0,GS,MS,JEFF,0.6990000000000001,0.578,2021
+DSP,Feb 10,Viant Technology Inc.,Technology,25.0,10.0,BAML,UBS,,0.177,1.28,2021
+VLON,Feb 10,Vallon Pharmaceuticals Inc.,Health-Care,8.0,1.0,TEq,,,0.22399999999999998,-0.025,2021
+BPTS,Feb 10,Biophytis S.A.,Health-Care,16.8,1.0,HCW,,,0.94,-0.015,2021
+SGFY,Feb 11,Signify Health Inc.,Health-Care,24.0,23.0,GS,JPM,BRCL,0.523,0.315,2021
+LDI,Feb 11,loanDepot Inc.,Finance,14.0,3.0,GS,BAML,CS,2.458,1.249,2021
+BMBL,Feb 11,Bumble Inc.,Technology,43.0,50.0,GS,CITI,MS,0.861,0.635,2021
+BVS,Feb 11,Bioventus Inc.,Health-Care,13.0,8.0,MS,JPM,GS,0.434,0.478,2021
+UGRO,Feb 12,urban-gro Inc.,Capital-Goods,10.0,5.0,TEq,,,0.607,0.23,2021
+TLIS,Feb 12,Talis Biomedical Corporation,Health-Care,16.0,13.0,JPM,BAML,PPRJ,0.228,0.738,2021
+NEXI,Feb 12,NexImmune Inc.,Health-Care,17.0,6.0,BRCL,CNTR,RAYJ,0.535,0.49,2021
+LGVN,Feb 12,Longeveron LLC,Health-Care,10.0,2.0,KCM,,,1.048,-0.259,2021
+DBTX,Feb 12,Decibel Therapeutics Inc.,Health-Care,18.0,7.0,CITI,BMO,BRCL,0.5479999999999999,0.002,2021
+VRPX,Feb 17,Virpax Pharmaceuticals Inc.,Health-Care,10.0,1.0,TEq,,,1.038,-0.34700000000000003,2021
+ABGI,Feb 17,ABG Acquisition Corp. I,Finance,10.0,13.0,JEFF,,,0.353,0.034,2021
+BCTX,Feb 24,BriaCell Therapeutics Corp.,Health-Care,4.3,5.0,TEq,,,0.433,-0.08199999999999999,2021
+ARYD,Feb 26,ARYA Sciences Acquisition Corp IV,Finance,10.0,13.0,GS,JEFF,,0.16699999999999998,0.113,2021
+OSCR,Mar 3,Oscar Health Inc.,Health-Care,39.0,37.0,GS,MS,ALLN,0.556,-0.10800000000000001,2021
+KVSA,Mar 4,Khosla Ventures Acquisition Co.,Finance,10.0,30.0,GS,PPRJ,,0.281,0.025,2021
+INNV,Mar 4,InnovAge Holding Corp.,Health-Care,21.0,16.0,JPM,BRCL,GS,0.535,0.152,2021
+LHAA,Mar 5,Lerer Hippeau Acquisition Corp.,Finance,10.0,20.0,BRCL,,,0.14400000000000002,0.002,2021
+SVFB,Mar 9,SVF Investment Corp. 2,Finance,10.0,28.0,CITI,UBS,DB,0.195,0.033,2021
+VAQC,Mar 10,Vector Acquisition Corporation II,Finance,10.0,45.0,DB,BAML,,0.26899999999999996,0.0,2021
+RBLX,Mar 10,Roblox Corporation,Technology,45.0,198.0,GS,MS,,0.484,0.544,2021
+FHS,Mar 11,First High-School Education Group Co. Ltd.,Consumer-Services,10.0,7.0,BNCH,,MXIM,0.439,-0.12,2021
+RXDX,Mar 12,Prometheus Biosciences Inc.,Health-Care,19.0,10.0,CS,Stifel,GGNH,0.392,0.331,2021
+MITC,Mar 12,MeaTech 3D Ltd.,Consumer-Non-Durables,10.3,2.0,HCW,,,0.45299999999999996,-0.028999999999999998,2021
+JOAN,Mar 12,JOANN Inc.,Capital-Goods,12.0,10.0,BAML,CS,GGNH,0.488,0.021,2021
+HAYW,Mar 12,Hayward Holdings Inc.,Consumer-Durables,17.0,40.0,BAML,GS,NMRA,0.264,0.0,2021
+SNCY,Mar 17,Sun Country Airlines Holdings Inc.,Consumer-Services,24.0,9.0,BRCL,MS,DB,0.6990000000000001,0.516,2021
+OLO,Mar 17,Olo Inc.,Technology,25.0,18.0,GS,JPM,RBC,0.815,0.39,2021
+JWEL,Mar 17,Jowell Global Ltd.,Consumer-Services,7.0,3.0,NONE,,,0.43700000000000006,0.244,2021
+TUYA,Mar 18,Tuya Inc.,Technology,21.0,43.0,MS,BAML,CICC,0.618,0.19,2021
+RACB,Mar 18,Research Alliance Corp. II,Finance,10.0,13.0,JEFF,,,0.08900000000000001,0.021,2021
+GANX,Mar 18,Gain Therapeutics Inc.,Health-Care,11.0,3.0,BTIG,OPPN,,0.664,0.018000000000000002,2021
+NAPA,Mar 18,Duckhorn Portfolio Inc.,Consumer-Non-Durables,15.0,20.0,JPM,CS,JEFF,0.593,0.145,2021
+TIL,Mar 19,Instil Bio Inc.,Health-Care,20.0,18.0,MS,JEFF,COWN,0.24600000000000002,0.322,2021
+FNCH,Mar 19,Finch Therapeutics Group Inc.,Health-Care,17.0,7.0,BAML,JEFF,EVCR,0.281,0.254,2021
+CNTB,Mar 19,Connect Biopharma Holdings Ltd.,Health-Care,17.0,11.0,JEFF,PPRJ,CICC,0.284,0.08800000000000001,2021
+AFCG,Mar 19,AFC Gamma Inc.,Finance,19.0,6.0,JMPS,LDNT,,0.222,0.21100000000000002,2021
+UPC,Mar 23,Universe Pharmaceuticals INC,Health-Care,5.0,5.0,UnSec,,,1.0,-0.05,2021
+MOVE,Mar 23,Movano Inc.,Health-Care,5.0,8.0,NTNL,,,0.19,0.32,2021
+DGNU,Mar 23,Dragoneer Growth Opportunities Corp. III,Finance,10.0,40.0,CITI,GS,JPM,0.327,0.0,2021
+KVSC,Mar 24,Khosla Ventures Acquisition Co. III,Finance,10.0,50.0,GS,CITI,,0.127,-0.025,2021
+DOCN,Mar 24,DigitalOcean Holdings Inc.,Technology,47.0,16.0,MS,GS,JPM,0.5479999999999999,-0.096,2021
+ACVA,Mar 24,ACV Auctions Inc.,Miscellaneous,25.0,16.0,GS,JPM,CITI,0.6829999999999999,0.25,2021
+VZIO,Mar 25,Vizio Holding Corp.,Consumer-Non-Durables,21.0,12.0,JPM,BAML,WLFG,0.306,-0.012,2021
+SEMR,Mar 25,SEMrush Holdings Inc.,Technology,14.0,10.0,GS,JPM,KEYB,0.585,-0.19899999999999998,2021
+OLK,Mar 25,Olink Holding AB,Health-Care,20.0,17.0,GS,MS,SVB,0.044000000000000004,0.61,2021
+LVTX,Mar 25,LAVA Therapeutics BV,Health-Care,15.0,6.0,JPM,JEFF,SVB,0.069,-0.16699999999999998,2021
+DSEY,Mar 25,Diversey Holdings Ltd.,Miscellaneous,15.0,46.0,CITI,MS,BRCL,0.35,-0.001,2021
+CRCT,Mar 25,Cricut Inc.,Capital-Goods,20.0,15.0,GS,MS,CITI,0.135,-0.1,2021
+ZH,Mar 26,Zhihu Inc.,Miscellaneous,9.5,55.0,CS,GS,JPM,0.18100000000000002,-0.166,2021
+TDUP,Mar 26,ThredUp Inc.,Technology,14.0,12.0,GS,MS,BRCL,0.127,1.2429999999999999,2021
+IKNA,Mar 26,Ikena Oncology Inc. (formerly KYN Therapeutics),Health-Care,16.0,7.0,JEFF,COWN,CS,0.321,1.0,2021
+HYW,Mar 26,Hywin Holdings Ltd.,Finance,10.0,3.0,NONE,AXND,VCL,0.711,-0.01,2021
+EWTX,Mar 26,Edgewise Therapeutics Inc.,Health-Care,16.0,11.0,JPM,GS,SVB,0.059000000000000004,1.249,2021
+DSGN,Mar 26,Design Therapeutics Inc.,Health-Care,20.0,12.0,GS,SVB,PS,0.04,0.701,2021
+ALHC,Mar 26,Alignment Healthcare Inc.,Health-Care,18.0,27.0,GS,MS,JPM,0.055,0.055999999999999994,2021
+COUR,Mar 31,Coursera Inc.,Technology,33.0,15.0,MS,GS,CITI,0.66,0.364,2021
+ACHL,Mar 31,Achilles Therapeutics plc,Health-Care,18.0,9.0,JPM,BAML,PS,0.215,-0.081,2021
+EM,Apr 1,Smart Share Global Limited,Technology,8.5,17.0,GS,CITI,CRNS,0.498,0.005,2021
+KARO,Apr 1,Karooooo Ltd. (Cartrack),Technology,28.0,1.0,MS,BAML,WB,7.192,0.214,2021
+ULCC,Apr 1,Frontier Group Holdings Inc.,Transportation,19.0,30.0,CITI,BRCL,DB,0.34299999999999997,-0.008,2021
+COMP,Apr 1,Compass Inc.,Technology,18.0,25.0,GS,MS,BRCL,0.5429999999999999,0.11900000000000001,2021
+UTME,Apr 6,UTime Limited,Technology,4.0,3.0,BOTD,,,0.44799999999999995,8.75,2021
+VECT,Apr 9,VectivBio Holding AG,Health-Care,17.0,7.0,BAML,SVB,CS,0.46799999999999997,1.133,2021
+RPHM,Apr 9,Reneo Pharmaceuticals Inc.,Health-Care,15.0,6.0,JEFF,SVB,PS,0.297,-0.07,2021
+YTPG,Apr 14,TPG Pace Beneficial II Corp.,Finance,10.0,35.0,DB,JPM,MS,0.063,0.011000000000000001,2021
+COIN,Apr 14,Coinbase Global Inc.,Finance,381.0,114.0,GS,JPM,ALLN,0.706,-0.138,2021
+ALKT,Apr 14,Alkami Technology Inc.,Technology,30.0,6.0,GS,JPM,BRCL,0.956,0.433,2021
+TSP,Apr 15,TuSimple Holdings Inc.,Technology,40.0,33.0,MS,CITI,JPM,0.701,0.0,2021
+KRT,Apr 15,Karat Packaging Inc.,Consumer-Non-Durables,16.0,3.0,Stifel,WB,NTNL,0.49700000000000005,0.16,2021
+EBET,Apr 15,Esports Technologies Inc.,Consumer-Services,6.0,2.0,BOTD,,,2.553,5.07,2021
+APP,Apr 15,AppLovin Corporation,Technology,80.0,25.0,MS,JPM,KKR,0.45799999999999996,-0.185,2021
+AGL,Apr 15,agilon health inc.,Health-Care,23.0,46.0,JPM,GS,BAML,0.312,0.348,2021
+RXRX,Apr 16,Recursion Pharmaceuticals Inc.,Health-Care,18.0,24.0,GS,JPM,BAML,0.235,0.7390000000000001,2021
+BMEA,Apr 16,Biomea Fusion Inc.,Health-Care,17.0,9.0,JPM,JEFF,PS,0.39899999999999997,0.094,2021
+AKYA,Apr 16,Akoya Biosciences Inc.,Health-Care,20.0,6.0,JPM,MS,PS,0.578,0.303,2021
+IFBD,Apr 20,Infobird Co. Ltd,Technology,4.0,6.0,WPRK,,,0.615,0.185,2021
+PATH,Apr 21,UiPath Inc.,Technology,56.0,23.0,MS,JPM,BAML,0.986,0.23199999999999998,2021
+SKYT,Apr 21,SkyWater Technology Inc.,Technology,14.0,7.0,JEFF,COWN,PS,1.0290000000000001,0.239,2021
+DV,Apr 21,DoubleVerify Holdings Inc.,Technology,27.0,13.0,GS,JPM,BRCL,0.755,0.33299999999999996,2021
+ZY,Apr 22,Zymergen Inc.,Health-Care,31.0,16.0,JPM,GS,BAML,0.327,0.215,2021
+NPCE,Apr 22,NeuroPace Inc.,Health-Care,17.0,6.0,JPM,MS,,0.69,0.46799999999999997,2021
+KNBE,Apr 22,KnowBe4 Inc.,Technology,16.0,9.0,MS,GS,BAML,0.653,0.509,2021
+TMCI,Apr 23,Treace Medical Concepts Inc.,Health-Care,17.0,11.0,JPM,MS,,0.455,0.502,2021
+RAIN,Apr 23,Rain Therapeutics Inc.,Health-Care,17.0,7.0,GS,CITI,PS,0.601,-0.071,2021
+SWIM,Apr 23,Latham Group Inc.,Capital-Goods,19.0,20.0,BRCL,BAML,MS,0.40700000000000003,0.434,2021
+IMPL,Apr 23,Impel NeuroPharma Inc.,Health-Care,15.0,5.0,COWN,GGNH,,0.562,0.0,2021
+AGTI,Apr 23,Agiliti Inc.,Health-Care,14.0,26.0,CITI,JEFF,UBS,0.32899999999999996,0.171,2021
+FTCI,Apr 28,FTC Solar Inc.,Technology,13.0,19.0,BRCL,BAML,CS,0.445,0.09699999999999999,2021
+PRVA,Apr 29,Privia Health Group Inc.,Health-Care,23.0,19.0,GS,JPM,CS,0.518,0.511,2021
+EDR,Apr 29,Endeavor Group Holdings Inc.,Consumer-Services,24.0,21.0,MS,GS,JPM,0.7490000000000001,0.05,2021
+AVAH,Apr 29,Aveanna Healthcare Holdings Inc.,Health-Care,12.0,38.0,BRCL,JPM,BMO,0.317,-0.039,2021
+HOWL,Apr 30,Werewolf Therapeutics Inc.,Health-Care,16.0,7.0,JEFF,SVB,EVCR,0.45799999999999996,0.006,2021
+VACC,Apr 30,Vaccitech plc,Health-Care,17.0,6.0,MS,JEFF,BRCL,0.5379999999999999,-0.171,2021
+RCAT,Apr 30,Red Cat Holdings Inc.,Technology,4.0,4.0,TEq,,,0.23,0.01,2021
+IACC,Apr 30,ION Acquisition Corp 3 Ltd.,Finance,10.0,22.0,MS,GS,,0.20600000000000002,0.0,2021
+HNST,May 5,The Honest Company Inc.,Consumer-Non-Durables,16.0,25.0,MS,JPM,JEFF,0.581,0.43799999999999994,2021
+FSBC,May 5,Five Star Bancorp,Finance,20.0,5.0,KBW,,,0.41700000000000004,0.213,2021
+VALN,May 6,Valneva SE,Health-Care,26.4,3.0,GS,JEFF,GGNH,0.162,0.073,2021
+WDH,May 7,Waterdrop Inc.,Finance,12.0,30.0,GS,MS,BAML,0.33299999999999996,-0.192,2021
+TALS,May 7,Talaris Therapeutics Inc.,Health-Care,17.0,8.0,MS,SVB,EVCR,0.33399999999999996,-0.044000000000000004,2021
+OG,May 7,Onion Global Limited,Consumer-Non-Durables,7.3,9.0,,,,0.26,-0.034,2021
+BWMN,May 7,Bowman Consulting Group Ltd.,Capital-Goods,14.0,3.0,DAVD,,,0.6679999999999999,0.0,2021
+ANEB,May 7,Anebulo Pharmaceuticals Inc.,Health-Care,7.0,3.0,BNCH,,,0.43799999999999994,0.013999999999999999,2021
+FLGC,May 11,Flora Growth Corp.,Health-Care,5.0,3.0,BOTD,,,1.093,-0.042,2021
+SMWB,May 12,SimilarWeb Ltd.,Technology,22.0,8.0,JPM,CITI,BRCL,0.708,-0.006,2021
+IPW,May 12,iPower Inc.,Consumer-Durables,5.0,3.0,DAVD,ROTH,TB,1.145,0.14800000000000002,2021
+GLBE,May 12,Global-E Online Ltd.,Technology,25.0,15.0,GS,MS,JEFF,0.6970000000000001,0.02,2021
+VERA,May 14,Vera Therapeutics Inc.,Health-Care,11.0,4.0,JEFF,COWN,EVCR,0.14800000000000002,0.045,2021
+SQSP,May 19,Squarespace Inc.,Technology,50.0,40.0,RAYJ,JMPS,KEYB,0.135,-0.127,2021
+PCOR,May 20,Procore Technologies Inc.,Technology,67.0,9.0,GS,JPM,BRCL,0.9209999999999999,0.313,2021
+OTLY,May 20,Oatly Group AB,Consumer-Services,17.0,84.0,MS,JPM,CS,0.512,0.188,2021
+FWAC,May 25,Fifth Wall Acquisition Corp. III,Finance,10.0,25.0,DB,GS,BAML,0.18600000000000003,0.0,2021
+ZIP,May 26,ZipRecruiter Inc.,Technology,20.0,86.0,GS,JPM,,0.192,0.055,2021
+PAY,May 26,Paymentus Holdings Inc.,Miscellaneous,21.0,10.0,GS,JPM,BAML,0.551,0.36200000000000004,2021
+FLYW,May 26,Flywire Corporation,Miscellaneous,24.0,10.0,GS,JPM,CITI,0.7390000000000001,0.46299999999999997,2021
+OMIC,May 27,Singular Genomics Systems Inc.,Health-Care,22.0,10.0,JPM,GS,BAML,0.466,0.16899999999999998,2021
+FIGS,May 27,FIGS Inc.,Consumer-Services,22.0,26.0,GS,MS,BRCL,0.495,0.365,2021
+DAWN,May 27,Day One Biopharmaceuticals Holding Company LLC,Health-Care,16.0,10.0,JPM,COWN,PS,0.196,0.618,2021
+CNTA,May 28,Centessa Pharmaceuticals plc,Health-Care,20.0,16.0,MS,GS,,0.23199999999999998,0.08800000000000001,2021
+DLO,Jun 3,DLocal Limited,Technology,21.0,29.0,JPM,GS,CITI,0.0,-1.0,2021
+MQ,Jun 9,Marqeta Inc.,Technology,27.0,45.0,GS,JPM,,0.648,0.13,2021
+ZETA,Jun 10,Zeta Global Holdings Corp.,Technology,10.0,21.0,GS,JPM,,0.491,-0.111,2021
+MNDY,Jun 10,monday.com Ltd.,Technology,155.0,3.0,GS,JPM,JEFF,0.643,0.154,2021
+LFST,Jun 10,LifeStance Health Group Inc.,Health-Care,18.0,40.0,MS,GS,JPM,0.41,0.217,2021
+DIBS,Jun 10,1stdibs.com Inc.,Consumer-Services,20.0,5.0,BAML,BRCL,ALLN,0.945,0.425,2021
+TASK,Jun 11,TaskUs Inc.,Technology,23.0,13.0,GS,JPM,BAML,0.561,0.35200000000000004,2021
+BZ,Jun 11,Kanzhun Ltd.,Technology,19.0,48.0,GS,MS,UBS,0.348,0.958,2021
+JANX,Jun 11,Janux Therapeutics Inc.,Health-Care,17.0,11.0,BAML,COWN,EVCR,0.209,0.479,2021
+ALZN,Jun 15,Alzamend Neuro Inc.,Health-Care,5.0,2.0,SPRT,,,0.204,1.018,2021
+WKME,Jun 16,WalkMe Ltd.,Technology,31.0,9.0,MS,GS,CITI,0.1,-0.07200000000000001,2021
+MOLN,Jun 16,MOLECULAR PARTNERS AG,Health-Care,21.3,3.0,JPM,SVB,COWN,0.267,-0.07,2021
+CNVY,Jun 16,Convey Holding Parent Inc.,Consumer-Services,14.0,13.0,BAML,GS,JPM,0.073,-0.09699999999999999,2021
+VERV,Jun 17,Verve Therapeutics Inc.,Health-Care,19.0,14.0,JPM,GGNH,WB,0.298,0.68,2021
+LYEL,Jun 17,Lyell Immunopharma Inc.,Health-Care,17.0,25.0,GS,BAML,,0.17600000000000002,-0.006,2021
+ISPC,Jun 17,iSpecimen Inc.,Health-Care,8.0,2.0,TEq,,,0.85,-0.106,2021
+AOMR,Jun 17,Angel Oak Mortgage Inc.,Finance,19.0,8.0,WLFG,BAML,MS,0.184,-0.018000000000000002,2021
+TRMR,Jun 18,Tremor International Ltd.,Technology,19.0,6.0,RBC,Stifel,JMPS,0.452,-0.09300000000000001,2021
+FEMY,Jun 18,Femasys Inc.,Health-Care,13.0,2.0,CHRD,JT,,0.46399999999999997,-0.025,2021
+CYT,Jun 18,Cyteir Therapeutics Inc.,Health-Care,18.0,7.0,JPM,MS,BAML,0.225,-0.061,2021
+DNAY,Jun 18,Codex DNA Inc.,Health-Care,0.0,6.0,JEFF,COWN,KEYB,0.556,0.0,2021
+IPSC,Jun 18,Century Therapeutics Inc.,Health-Care,20.0,10.0,JPM,BAML,SVB,0.23,0.142,2021
+ATA,Jun 18,ATAI Life Sciences B.V.,Health-Care,15.0,15.0,CS,CITI,COWN,0.585,0.297,2021
+AMAM,Jun 18,Ambrx Biopharma Inc.,Health-Care,18.0,7.0,GS,BAML,COWN,0.214,-0.053,2021
+RERE,Jun 18,AiHuiShou International Co. Ltd.,Consumer-Services,14.0,16.0,GS,BAML,CRNS,0.35600000000000004,0.22899999999999998,2021
+YMM,Jun 22,Full Truck Alliance Co. Ltd.,Technology,19.0,82.0,MS,CICC,GS,0.44799999999999995,0.132,2021
+CXM,Jun 23,Sprinklr Inc.,Technology,16.0,16.0,MS,JPM,CITI,0.973,0.1,2021
+FA,Jun 23,First Advantage Corp.,Miscellaneous,15.0,25.0,BRCL,BAML,JPM,0.33299999999999996,0.313,2021
+MITAU,Jun 23,Coliseum Acquisition Corp.,Finance,10.0,15.0,Stifel,,,0.16,-0.01,2021
+GLUE,Jun 24,Monte Rosa Therapeutics Inc.,Health-Care,19.0,11.0,JPM,COWN,PS,0.33399999999999996,0.115,2021
+MIRO,Jun 24,Miromatrix Medical Inc.,Health-Care,9.0,4.0,CHLM,,,0.741,0.693,2021
+GRVI,Jun 24,GROVE INC.,Consumer-Services,5.0,2.0,KCM,,,2.5989999999999998,0.12,2021
+DOCS,Jun 24,Doximity Inc.,Technology,26.0,23.0,MS,GS,JPM,0.214,1.153,2021
+CFLT,Jun 24,Confluent Inc.,Technology,36.0,23.0,MS,JPM,GS,0.522,0.251,2021
+BHG,Jun 24,Bright Health Group Inc.,Health-Care,18.0,51.0,JPM,GS,MS,0.253,-0.076,2021
+BON,Jun 24,Bon Natural Life Limited,Capital-Goods,5.0,2.0,NWBR,TB,,2.4459999999999997,0.44,2021
+MCW,Jun 25,Mister Car Wash Inc.,Consumer Services,15.0,37.0,BAML,MS,GS,0.46399999999999997,0.353,2021
+MF,Jun 25,Missfresh Limited,Consumer-Services,13.0,21.0,JPM,CITI,CICC,0.0,-0.154,2021
+GRPH,Jun 25,Graphite Bio Inc.,Health-Care,17.0,14.0,MS,BAML,COWN,0.27899999999999997,0.08800000000000001,2021
+GHRS,Jun 25,GH Research PLC,Health-Care,16.0,10.0,COWN,Stifel,,0.165,0.203,2021
+ELEV,Jun 25,Elevation Oncology Inc.,Health-Care,16.0,6.0,JPM,COWN,SVB,0.35700000000000004,-0.285,2021
+TKNO,Jun 25,Alpha Teknova Inc.,Health-Care,16.0,6.0,COWN,WB,,0.596,0.563,2021
+ACXP,Jun 25,Acurx Pharmaceuticals LLC,Health-Care,6.0,2.0,AXND,NONE,,5.672000000000001,0.315,2021
+DDL,Jun 29,Dingdong (Cayman) Limited,Consumer-Services,23.5,3.0,MS,BAML,CS,0.6679999999999999,0.001,2021
+XMTR,Jun 30,Xometry Inc.,Miscellaneous,44.0,6.0,GS,JPM,UBS,0.6709999999999999,0.986,2021
+DNAD,Jun 30,Social Capital Suvretta Holdings Corp. IV,Finance,10.0,22.0,MS,,,0.17300000000000001,0.01,2021
+DNAC,Jun 30,Social Capital Suvretta Holdings Corp. III,Finance,10.0,22.0,MS,,,0.128,0.011000000000000001,2021
+DNAB,Jun 30,Social Capital Suvretta Holdings Corp. II,Finance,10.0,22.0,MS,,,0.17800000000000002,0.012,2021
+DNAA,Jun 30,Social Capital Suvretta Holdings Corp. I,Finance,10.0,22.0,MS,,,0.17300000000000001,0.011000000000000001,2021
+S,Jun 30,SentinelOne Inc.,Technology,35.0,35.0,MS,GS,BAML,0.588,0.214,2021
+CPOP,Jun 30,Pop Culture Group Co. Ltd,Consumer-Services,6.0,6.0,NONE,,,0.5770000000000001,4.05,2021
+LZ,Jun 30,LegalZoom.com Inc,Technology,28.0,19.0,JPM,MS,BRCL,0.653,0.35200000000000004,2021
+IAS,Jun 30,Integral Ad Science Holding LLC,Technology,18.0,15.0,MS,JEFF,EVCR,0.561,0.14300000000000002,2021
+INTA,Jun 30,Intapp Inc.,Technology,26.0,10.0,JPM,BAML,CS,0.47100000000000003,0.077,2021
+CVRX,Jun 30,CVRx Inc.,Health-Care,18.0,7.0,JPM,PS,WB,0.079,0.44799999999999995,2021
+YOU,Jun 30,Clear Secure Inc.,Technology,31.0,13.0,GS,JPM,WLFG,0.6829999999999999,0.29,2021
+AVTE,Jun 30,Aerovate Therapeutics Inc.,Health-Care,14.0,8.0,JEFF,COWN,EVCR,0.13,0.631,2021
+CURV,Jul 1,Torrid Holdings Inc.,Consumer-Non-Durables,21.0,11.0,MS,BAML,GS,0.542,0.15,2021
+VRAR,Jul 1,The Glimpse Group Inc.,Technology,7.0,1.0,KCM,,,4.425,1.5230000000000001,2021
+DNUT,Jul 1,Krispy Kreme Inc.,Consumer-Non-Durables,17.0,29.0,JPM,MS,BAML,1.391,0.235,2021
+EVCM,Jul 1,EverCommerce Inc.,Technology,17.0,19.0,GS,JPM,RBC,0.534,0.035,2021
+WAVE,Jul 1,Eco Wave Power Global AB,Public-Utilities,8.0,1.0,A.G.P.,,,0.643,0.35600000000000004,2021
+HEPS,Jul 1,D-MARKET Electronic Services & Trading (Hepsiburada),Consumer-Durables,12.0,56.0,MS,JPM,GS,0.247,0.11900000000000001,2021
+ABOS,Jul 1,Acumen Pharmaceuticals Inc.,Health-Care,16.0,10.0,BAML,CS,Stifel,0.225,0.256,2021
+NYXH,Jul 2,NYXOAH SA,Health-Care,30.0,2.0,PS,Stifel,CNTR,0.064,0.004,2021
+MITQ,Jul 8,Moving iMage Technologies Inc.,Consumer-Services,3.0,4.0,BOTD,,,0.59,7.0,2021
+ALCC,Jul 8,AltC Acquisition Corp. (formerly Churchill Capital Corp. VIII),Finance,10.0,45.0,CITI,JPM,GS,0.335,-0.002,2021
+RNAZ,Jul 9,Transcode Therapeutics Inc.,Health-Care,4.0,6.0,TEq,,,1.371,0.32299999999999995,2021
+SNTG,Jul 9,Sentage Holdings Inc.,Finance,5.0,4.0,NONE,,,0.195,5.978,2021
+ARYE,Jul 13,ARYA Sciences Acquisition Corp V,Finance,10.0,13.0,JEFF,GS,,0.131,0.005,2021
+SGHT,Jul 15,Sight Sciences Inc.,Health-Care,24.0,10.0,MS,BAML,CITI,0.584,0.396,2021
+SERA,Jul 15,Sera Prognostics INC.,Health-Care,16.0,4.0,CITI,COWN,WB,0.703,-0.256,2021
+RPID,Jul 15,Rapid Micro Biosystems Inc.,Health-Care,20.0,7.0,JPM,MS,COWN,0.462,0.07,2021
+PECO,Jul 15,Phillips Edison & Company Inc.,Finance,28.0,17.0,MS,BAML,JPM,0.395,-0.006,2021
+MCG,Jul 15,Membership Collective Group Inc.,Consumer-Services,14.0,30.0,JPM,MS,BAML,0.289,-0.096,2021
+FXLV,Jul 15,F45 Training Holdings Inc.,Consumer-Services,16.0,20.0,GS,JPM,,0.479,0.013000000000000001,2021
+TCRX,Jul 16,TScan Therapeutics Inc.,Health-Care,15.0,6.0,MS,JEFF,COWN,0.289,-0.3,2021
+STVN,Jul 16,Stevanato Group S.p.A.,Health-Care,21.0,32.0,MS,BAML,JEFF,0.392,-0.063,2021
+RGC,Jul 16,Regencell Bioscience Holdings Limited,Health-Care,9.5,2.0,MXIM,,,0.415,0.105,2021
+IMGO,Jul 16,Imago BioSciences Inc.,Health-Care,16.0,8.0,JEFF,COWN,Stifel,0.36200000000000004,0.018000000000000002,2021
+ERAS,Jul 16,Erasca Inc.,Health-Care,16.0,18.0,JPM,MS,BAML,0.23600000000000002,0.08900000000000001,2021
+BRDG,Jul 16,Bridge Investment Group Holdings Inc.,Finance,16.0,18.0,MS,JPM,CITI,0.452,-0.022000000000000002,2021
+BLND,Jul 16,Blend Labs Inc.,Technology,18.0,20.0,GS,ALLN,WLFG,0.506,0.161,2021
+HCWB,Jul 20,HCW Biologics Inc.,Health-Care,8.0,7.0,,,,0.461,-0.213,2021
+VTEX,Jul 21,VTEX,Technology,19.0,19.0,JPM,GS,MS,0.55,0.16699999999999998,2021
+VEEE,Jul 21,Twin Vee PowerCats Co.,Consumer-Services,7.5,6.0,TEq,,,1.943,0.0,2021
+PYCR,Jul 21,Paycor HCM Inc.,Technology,23.0,18.0,GS,JPM,JEFF,0.573,0.133,2021
+KLTR,Jul 21,Kaltura Inc.,Technology,10.0,15.0,GS,BAML,WLFG,0.436,0.2,2021
+LAW,Jul 21,CS Disco Inc.,Technology,32.0,7.0,JPM,BAML,CITI,0.705,0.281,2021
+ZVIA,Jul 22,Zevia PBC,Consumer-Non-Durables,14.0,10.0,GS,BAML,MS,0.436,-0.025,2021
+ZENV,Jul 22,Zenvia Inc.,Technology,13.0,11.0,GS,MS,BRDS,0.47200000000000003,-0.215,2021
+RYAN,Jul 22,Ryan Specialty Group Holdings Inc.,Finance,23.5,56.0,JPM,BRCL,GS,0.27899999999999997,0.17,2021
+INST,Jul 22,Instructure Holdings Inc.,Technology,20.0,12.0,MS,JPM,CITI,0.23600000000000002,0.049,2021
+BASE,Jul 22,Couchbase Inc.,Technology,0.0,,MS,GS,,0.0,0.0,2021
+ABSI,Jul 22,AbSci Corp.,Health-Care,16.0,12.0,JPM,BAML,CS,0.204,0.349,2021
+XPOF,Jul 23,Xponential Fitness Inc.,Consumer-Services,12.0,10.0,BAML,JEFF,MS,0.40299999999999997,0.021,2021
+SOPH,Jul 23,Sophia Genetics SA.,Health-Care,18.0,13.0,JPM,MS,COWN,0.198,-0.069,2021
+OB,Jul 23,Outbrain Inc.,Technology,20.0,8.0,CITI,JEFF,BRCL,0.493,0.0,2021
+GAMB,Jul 23,Gambling.com Group Limited,Consumer-Services,0.0,,JEFF,Stifel,TS,0.0,0.0,2021
+CTKB,Jul 23,Cytek BioSciences Inc.,Health-Care,17.0,16.0,MS,GS,PPRJ,0.18899999999999997,0.10400000000000001,2021
+CADL,Jul 27,Candel Therapeutics Inc.,Health-Care,8.0,9.0,JEFF,CS,BMO,0.253,-0.125,2021
+PWSC,Jul 28,PowerSchool Holdings Inc.,Technology,18.0,39.0,GS,BRCL,CS,0.16699999999999998,-0.013000000000000001,2021
+MLNK,Jul 28,MeridianLink Inc.,Technology,26.0,13.0,BAML,CS,BRCL,0.42700000000000005,-0.054000000000000006,2021
+DUOL,Jul 28,Duolingo Inc.,Technology,102.0,5.0,GS,ALLN,,0.5660000000000001,0.316,2021
+DALS,Jul 28,DA32 Life Science Tech Acquisition Corp.,Finance,10.0,20.0,JPM,COWN,,0.19399999999999998,-0.016,2021
+COOK,Jul 29,Traeger Inc. (TGPX Holdings I LLC),Basic-Industries,18.0,23.0,MS,JEFF,BARD,0.58,0.222,2021
+HOOD,Jul 29,Robinhood Markets Inc.,Finance,38.0,55.0,GS,JPM,BRCL,1.8630000000000002,-0.084,2021
+RSKD,Jul 29,Riskified Ltd.,Technology,21.0,17.0,GS,JPM,CS,0.601,0.23800000000000002,2021
+RLYB,Jul 29,Rallybio Corp.,Health-Care,13.0,6.0,JEFF,COWN,EVCR,0.10800000000000001,0.085,2021
+NUVL,Jul 29,Nuvalent Inc.,Health-Care,17.0,9.0,JPM,COWN,PPRJ,0.239,0.10300000000000001,2021
+ICVX,Jul 29,Icosavax Inc.,Health-Care,15.0,12.0,JEFF,COWN,EVCR,0.259,1.331,2021
+TNYA,Jul 30,Tenaya Therapeutics Inc.,Health-Care,15.0,12.0,MS,COWN,PS,0.171,0.023,2021
+RXST,Jul 30,RxSight Inc.,Health-Care,16.0,7.0,JPM,BAML,SVB,0.348,0.0,2021
+RANI,Jul 30,Rani Therapeutics Holdings Inc.,Health-Care,11.0,6.0,BAML,Stifel,CNTR,0.146,0.0,2021
+OMGA,Jul 30,Omega Therapeutics Inc.,Health-Care,17.0,7.0,GS,JEFF,PS,0.158,-0.059000000000000004,2021
+INAB,Jul 30,IN8bio Inc.,Health-Care,10.0,4.0,,,,0.379,0.0,2021
+IMRX,Jul 30,Immuneering Corp.,Health-Care,15.0,7.0,MS,JEFF,COWN,0.126,0.17300000000000001,2021
+DOLE,Jul 30,Dole plc,Consumer-Non-Durables,16.0,25.0,GS,DB,BAML,0.33399999999999996,-0.094,2021
+WEBR,Aug 5,Weber Inc.,Basic-Industries,14.0,17.0,GS,BAML,JPM,0.534,0.179,2021
+OBT,Aug 5,Orange County Bancorp Inc.,Finance,33.5,1.0,PS,STPH,,0.273,0.018000000000000002,2021
+EWCZ,Aug 5,European Wax Center Inc.,Consumer-Services,17.0,10.0,MS,BAML,JEFF,0.431,0.258,2021
+ADGI,Aug 6,Adagio Therapeutics Inc.,Health-Care,17.0,18.0,MS,JEFF,Stifel,0.17800000000000002,0.228,2021
+ELYM,Aug 10,Eliem Therapeutics Inc.,Health-Care,12.5,6.0,SVB,EVCR,Stifel,0.23800000000000002,0.272,2021
+SSBK,Aug 12,Southern States Bancshares Inc.,Finance,19.0,2.0,KBW,TS,,0.368,0.040999999999999995,2021
+AUID,Aug 24,IPSIDY Inc.,Technology,7.0,1.0,BOTD,,,0.18600000000000003,0.057,2021
+TYRA,Sep 15,Tyra Biosciences Inc.,Health-Care,16.0,10.0,BAML,JEFF,COWN,0.139,0.625,2021
+BTCY,Aug 26,Biotricity Inc.,Health-Care,3.0,5.0,HCW,,,0.315,-0.03,2021
+SRAD,Sep 14,Sportradar Group AG,Technology,27.0,19.0,JPM,MS,CITI,674705.2629999999,-0.07200000000000001,2021
+FCUV,Aug 31,Focus Universal Inc.,Technology,5.0,2.0,BOTD,,,0.716,0.02,2021
+DDI,Aug 31,DoubleDown Interactive Co. Ltd.,Technology,18.0,6.0,,,,0.606,-0.013999999999999999,2021
+TWKS,Sep 15,Thoughtworks Holding Inc. (Turing Holding),Technology,21.0,36.0,GS,JPM,CS,0.335,0.4,2021
+PRCT,Sep 15,PROCEPT BioRobotics Corporation,Health-Care,25.0,6.0,BAML,GS,,0.669,0.6779999999999999,2021
+ONON,Sep 15,On Holding AG,Miscellaneous,24.0,31.0,GS,MS,JPM,0.44299999999999995,0.45799999999999996,2021
+EZFL,Sep 15,EzFill Holdings Inc.,Energy,4.0,6.0,TEq,,,2.064,0.135,2021
+BROS,Sep 15,Dutch Bros Inc.,Consumer-Non-Durables,23.0,21.0,BAML,JPM,JEFF,0.742,0.595,2021
+DICE,Sep 15,DICE Therapeutics Inc.,Health-Care,17.0,12.0,BAML,SVB,EVCR,0.122,1.17,2021
+DH,Sep 15,Definitive Healthcare Corp.,Technology,27.0,15.0,GS,JPM,MS,0.503,0.603,2021
+AEHAU,Sep 15,Aesther Healthcare Acquisition Corp.,Finance,10.0,10.0,EF,,,0.0,-1.0,2021
+FORG,Sep 16,ForgeRock Inc.,Technology,25.0,11.0,MS,JPM,DB,0.953,0.46,2021
+ACT,Sep 16,Enact Holdings Inc. (formerly Genworth Mortgage Holdings Inc.),Finance,19.0,13.0,GS,JPM,BAML,0.257,0.078,2021
+VBNK,Sep 22,VersaBank,Finance,10.0,5.0,RAYJ,,,0.1,0.05,2021
+TOST,Sep 22,Toast Inc.,Technology,40.0,21.0,GS,MS,JPM,0.653,0.563,2021
+FRSH,Sep 22,Freshworks Inc.,Technology,36.0,28.0,MS,JPM,BAML,0.688,0.321,2021
+AKA,Sep 22,a.k.a. Brands Holding Corp.,Consumer-Non-Durables,11.0,10.0,BAML,CS,JEFF,0.74,-0.092,2021
+STER,Sep 23,Sterling Check Corp.,Technology,23.0,14.0,GS,JPM,MS,0.51,0.17,2021
+SOVO,Sep 23,Sovos Brands Inc.,Consumer-Non-Durables,12.0,23.0,JT,GS,BAML,0.33899999999999997,0.127,2021
+RELY,Sep 23,Remitly Global Inc.,Technology,43.0,12.0,GS,JPM,BRCL,0.804,0.127,2021
+ESMT,Sep 23,ENGAGESMART Inc.,Technology,26.0,14.0,JPM,GS,BAML,0.0,-1.0,2021
+BRLT,Sep 23,Brilliant Earth Group Inc.,Basic-Industries,12.0,8.0,JPM,CS,JEFF,0.955,0.42700000000000005,2021
+ARBK,Sep 23,Argo Blockchain Plc,Technology,15.0,7.0,JEFF,BRCL,CNCD,1.256,0.11699999999999999,2021
+HLTH,Sep 24,CUE Health Inc.,Health-Care,16.0,12.0,GS,MS,COWN,0.878,0.25,2021
+CWAN,Sep 24,Clearwater Analytics Holdings Inc.,Technology,18.0,30.0,GS,JPM,MS,0.395,0.409,2021
+AMPL,Sep 28,Amplitude Inc.,Technology,50.0,35.0,MS,BAML,CITI,0.326,0.096,2021
+WRBY,Sep 29,Warby Parker Inc.,Consumer Services,40.0,77.0,GS,MS,ALLN,0.069,0.326,2021
+HCVIU,Sep 29,Hennessy Capital Investment Corp. VI,Finance,10.0,30.0,BRCL,CITI,,0.348,-0.001,2021
+OLPX,Sep 30,Olaplex Holdings Inc.,Consumer-Services,21.0,73.0,GS,JPM,MS,0.499,0.16699999999999998,2021
+TDCX,Oct 1,TDCX Inc.,Technology,18.0,19.0,GS,CS,,0.386,0.059000000000000004,2021
+FWRG,Oct 1,First Watch Restaurant Group Inc.,Consumer-Non-Durables,18.0,9.0,BAML,GS,JEFF,0.368,0.22899999999999998,2021
+EXAI,Oct 1,Exscientia plc,Health-Care,22.0,13.0,GS,MS,BAML,0.434,0.23199999999999998,2021
+VLCN,Oct 6,Volcon Inc.,Transportation,5.5,3.0,AGIS,,,2.371,0.975,2021
+THRX,Oct 7,THESEUS Pharmaceuticals Inc.,Health-Care,16.0,10.0,JEFF,SVB,CNTR,0.389,0.161,2021
+LTH,Oct 7,Life Time Group Holdings Inc.,Consumer-Services,18.0,39.0,GS,MS,BAML,0.312,-0.013999999999999999,2021
+PYXS,Oct 8,Pyxis Oncology Inc.,Health-Care,16.0,10.0,BAML,JEFF,CS,0.405,-0.175,2021
+ISO,Oct 8,IsoPlexis Corp.,Health-Care,15.0,8.0,MS,COWN,EVCR,0.47,-0.23199999999999998,2021
+CGTX,Oct 8,Cognition Therapeutics Inc.,Health-Care,12.0,3.0,,OPPN,,0.75,0.064,2021
+HCTI,Oct 13,Healthcare Triangle Inc.,Technology,4.0,3.0,EF,,,3.097,-0.10300000000000001,2021
+AVDX,Oct 13,AvidXchange Holdings Inc.,Technology,25.0,26.0,GS,JPM,BAML,0.523,-0.002,2021
+LUCD,Oct 14,Lucid Diagnostics Inc.,Health-Care,14.0,5.0,CNTR,CNCD,,1.003,-0.16,2021
+IHS,Oct 14,IHS Holding Limited,Basic-Industries,21.0,18.0,GS,JPM,CITI,0.595,-0.19,2021
+GTLB,Oct 14,GitLab Inc.,Technology,77.0,10.0,GS,JPM,BAML,0.47600000000000003,0.494,2021
+FNA,Oct 15,Paragon 28 Inc.,Health-Care,16.0,7.0,BAML,PPRJ,,0.557,0.136,2021
+INKT,Oct 15,MiNK Therapeutics Inc.,Health-Care,12.0,3.0,EVCR,WB,,0.215,0.0,2021
+SDIG,Oct 20,Stronghold Digital Mining Inc.,Technology,19.0,6.0,,COWN,Tudor,1.327,0.521,2021
+CYN,Oct 20,Cyngn Inc.,Technology,7.5,3.0,AGIS,,,0.48200000000000004,-0.013000000000000001,2021
+CNTX,Oct 20,Context Therapeutics Inc.,Health-Care,5.0,5.0,TEq,,,2.237,0.02,2021
+VTYX,Oct 20,Ventyx Biosciences Inc.,Health-Care,16.0,9.0,JEFF,EVCR,PPRJ,0.179,0.314,2021
+COCO,Oct 21,The Vita Coco Company Inc.,Consumer-Non-Durables,15.0,11.0,GS,BAML,CS,0.84,-0.099,2021
+RWAY,Oct 21,Runway Growth Finance Corp.,Finance,14.6,6.0,JPM,MS,WLFG,0.382,-0.11599999999999999,2021
+PTLO,Oct 21,Portillo’s Inc.,Consumer-Services,20.0,20.0,JEFF,MS,BAML,0.831,0.455,2021
+PX,Oct 21,P10 Inc.,Finance,12.0,20.0,MS,JPM,BRCL,0.304,0.006999999999999999,2021
+ENFN,Oct 21,Enfusion Inc.,Technology,17.0,18.0,MS,GS,BAML,0.705,0.165,2021
+XLO,Oct 22,Xilio Therapeutics Inc.,Health-Care,16.0,7.0,MS,COWN,GGNH,0.192,0.0,2021
+UTRS,Oct 22,Minerva Surgical Inc.,Health-Care,12.0,6.0,JPM,PS,UBS,0.568,-0.25,2021
+ARIS,Oct 22,Aris Water Solutions Inc.,Energy,13.0,17.0,GS,CITI,JPM,0.24,0.1,2021
+AUGX,Oct 26,Augmedix Inc.,Technology,4.0,10.0,WB,,,0.152,-0.125,2021
+RENT,Oct 27,Rent the Runway Inc.,Consumer-Services,21.0,17.0,GS,MS,BRCL,0.54,-0.081,2021
+MRAI,Oct 27,MARPAI Inc.,Finance,4.0,6.0,TEq,,,1.642,0.188,2021
+INFA,Oct 27,Informatica Inc.,Technology,29.0,29.0,GS,JPM,CITI,0.363,0.0,2021
+AIP,Oct 27,Arteris Inc.,Technology,14.0,5.0,JEFF,COWN,BMO,0.37200000000000005,0.3,2021
+DTC,Oct 28,Solo Brands Inc.,Consumer-Services,17.0,12.0,BAML,JPM,JEFF,0.812,0.036000000000000004,2021
+GFS,Oct 28,GLOBALFOUNDRIES Inc.,Technology,47.0,55.0,MS,BAML,JPM,0.33899999999999997,-0.013000000000000001,2021
+FLNC,Oct 28,Fluence Energy Inc.,Energy,28.0,31.0,JPM,MS,BRCL,0.08900000000000001,0.27,2021
+UDMY,Oct 29,Udemy Inc.,Consumer-Services,29.0,14.0,MS,JPM,CITI,0.524,-0.052000000000000005,2021
+SONX,Oct 29,Sonendo Inc.,Health-Care,12.0,7.0,BAML,GS,PS,0.413,-0.233,2021
+HRT,Oct 29,HireRight Holdings Corp.,Miscellaneous,19.0,22.0,CS,GS,BRCL,0.4,-0.092,2021
+TRDA,Oct 29,Entrada Therapeutics Inc.,Health-Care,20.0,9.0,CS,GS,BRCL,0.11800000000000001,0.198,2021
+AURA,Oct 29,Aura Biosciences Inc.,Health-Care,14.0,5.0,COWN,SVB,EVCR,0.29100000000000004,0.057,2021
+AIRS,Oct 29,Airsculpt Technologies Inc.,Health-Care,11.0,7.0,MS,PS,SVB,0.7929999999999999,0.445,2021
+LIAN,Nov 1,LianBio,Health-Care,16.0,20.0,GS,JEFF,BAML,0.12,-0.14400000000000002,2021
+BIRD,Nov 3,Allbirds Inc.,Basic Industries,15.0,20.0,MS,JPM,BAML,1.8969999999999998,0.9259999999999999,2021
+SHCAU,Nov 4,Spindletop Health Acquisition Corp.,Finance,10.0,20.0,BRCL,Stifel,,0.905,0.006,2021
+NRDS,Nov 4,NerdWallet Inc.,Technology,18.0,7.0,MS,KEYB,BAML,1.9669999999999999,0.5720000000000001,2021
+MDXH,Nov 4,MDxHEALTH SA,Health-Care,12.0,3.0,PS,OPPN,BTIG,0.23199999999999998,0.0,2021
+EVO,Nov 4,Evotec SE,Health-Care,21.8,20.0,BAML,MS,CITI,0.205,0.011000000000000001,2021
+CDRE,Nov 4,Cadre Holdings Inc.,Basic-Industries,13.0,6.0,Stifel,RAYJ,,0.27899999999999997,0.17600000000000002,2021
+ARHS,Nov 4,Arhaus Inc.,Consumer-Services,13.0,12.0,BAML,JEFF,MS,0.449,-0.015,2021
+RGF,Nov 5,The Real Good Food Company Inc.,Consumer-Services,12.0,5.0,JEFF,WB,TS,0.5589999999999999,-0.046,2021
+MYNZ,Nov 5,MAINZ BIOMED B.V.,Health-Care,5.0,2.0,BOTD,,,2.6039999999999996,0.998,2021
+IOBT,Nov 5,IO Biotech Inc.,Health-Care,14.0,7.0,MS,JEFF,COWN,0.24600000000000002,0.11800000000000001,2021
+CIAN,Nov 5,Cian PLC,Technology,16.0,18.0,MS,GS,JPM,0.297,0.10099999999999999,2021
+TCBX,Nov 9,Third Coast Banchares Inc.,Finance,25.0,3.0,STPH,PS,DB,0.29100000000000004,0.0,2021
+SOPA,Nov 9,Society Pass Inc.,Technology,9.0,2.0,MXIM,,,1.178,4.367,2021
+HTZ,Nov 9,Hertz Global Holdings Inc,Consumer-Services,29.0,44.0,GS,JPM,MS,0.612,-0.098,2021
+RIVN,Nov 10,Rivian Automotive Inc.,Consumer-Services,78.0,153.0,MS,GS,JPM,0.6779999999999999,0.29100000000000004,2021
+EXFY,Nov 10,Expensify Inc.,Technology,27.0,9.0,JPM,CITI,BAML,1.095,0.521,2021
+CINT,Nov 10,CI&T Inc.,Miscellaneous,15.0,13.0,GS,CITI,JPM,0.616,0.20800000000000002,2021
+WBEV,Nov 11,Winc Inc.,Consumer-Services,13.0,1.0,SPRT,RS,,0.853,-0.055999999999999994,2021
+WEAV,Nov 11,Weave Communications Inc.,Technology,24.0,5.0,GS,BAML,CITI,0.695,-0.217,2021
+VAXX,Nov 11,Vaxxinity Inc.,Health-Care,13.0,6.0,BAML,JEFF,EVCR,0.626,0.273,2021
+TIVC,Nov 11,TIVIC Health Systems Inc.,Health-Care,5.0,2.0,TEq,,,0.953,0.038,2021
+LVLU,Nov 11,Lulu’s Fashion Lounge Holdings Inc.,Consumer-Services,16.0,5.0,GS,BAML,JEFF,0.47600000000000003,-0.184,2021
+PIK,Nov 11,Kidpik Corp.,Consumer-Services,8.5,2.0,EF,,,0.856,0.0,2021
+BLZE,Nov 11,BACKBLAZE Inc.,Technology,16.0,6.0,OPPN,WB,RAYJ,1.207,0.244,2021
+MYNA,Nov 12,Mynaric AG,Technology,16.5,4.0,CS,JEFF,CNCD,0.408,0.16699999999999998,2021
+DERM,Nov 12,Journey Medical Corporation,Health-Care,10.0,3.0,,,,1.099,-0.05,2021
+ENCPU,Nov 16,Energem Corp.,Finance,10.0,10.0,EF,,,1.075,0.012,2021
+USER,Nov 17,USERTESTING INC.,Technology,14.0,10.0,MS,JPM,,0.578,0.001,2021
+SEV,Nov 17,SONO Group N.V.,Capital-Goods,15.0,10.0,Berenberg,CHLM,,5.438,1.547,2021
+IREN,Nov 17,Iris Energy Limited,Finance,28.0,8.0,JPM,CNCD,CITI,0.701,-0.127,2021
+BRZE,Nov 17,Braze Inc.,Technology,65.0,8.0,GS,JPM,BRCL,0.68,0.43700000000000006,2021
+SG,Nov 18,Sweetgreen Inc.,Consumer-Services,28.0,13.0,GS,JPM,ALLN,0.884,0.768,2021
+LITM,Nov 19,Snow Lake Resources Ltd.,Basic-Industries,7.5,3.0,TEq,,,7.59,0.733,2021
+FINW,Nov 19,FinWise Bancorp,Finance,10.5,3.0,PS,,,0.446,0.212,2021
+CRECU,Nov 19,Crescera Capital Acquisition Corp.,Finance,10.0,17.0,UBS,,,1.035,0.003,2021
+BIOSU,Dec 3,Bioplus Acquisition Corp.,Finance,10.0,20.0,CNTR,,,0.7140000000000001,0.001,2021
+REFI,Dec 8,Chicago Atlantic Real Estate Finance Inc.,Finance,16.0,6.0,JMPS,CMPS,OPPN,0.2,-0.006999999999999999,2021
+NU,Dec 9,Nu Holdings Ltd.,Finance,9.0,289.0,MS,GS,CITI,0.312,0.14800000000000002,2021
+HCP,Dec 9,HashiCorp Inc.,Technology,80.0,15.0,MS,GS,JPM,0.846,0.065,2021
+SIDU,Dec 14,Sidus Space Inc.,Technology,5.0,3.0,BOTD,,,0.883,1.4380000000000002,2021
+VINE,Dec 14,Fresh Vine Wine Inc.,Consumer-Non-Durables,10.0,2.0,BOTD,,,0.5670000000000001,-0.295,2021
+IOT,Dec 15,Samsara Inc.,Technology,23.0,35.0,MS,GS,JPM,0.36200000000000004,0.07400000000000001,2021
+GNTA,Dec 15,Genenta Science S.p.A.,Health-Care,11.5,2.0,ROTH,MXIM,,0.20800000000000002,-0.043,2021
+IMMX,Dec 16,Immix Biopharma Inc.,Health-Care,5.0,4.0,TEq,,,0.48,-0.266,2021
+BNOX,Dec 16,Bionomics Limited,Health-Care,12.4,1.0,,WB,CNTR,0.113,0.193,2021
+CHG,Aug 12,"CorpHousing Group, Inc.",Consumer Services,4.0,3.0,MXIM,,,2.406,-0.075,2022
+CINC,Jan 7,CinCor Pharma Inc.,Health-Care,16.0,12.0,MS,JEFF,EVCR,0.23199999999999998,0.0,2022
+AMLX,Jan 7,Amylyx Pharmaceuticals Inc.,Health-Care,19.0,10.0,GS,LRNK,EVCR,0.21600000000000003,-0.049,2022
+HILS,Jan 12,Hillstream Biopharma Inc.,Health-Care,4.0,3.0,TEq,,,2.003,-0.13,2022
+VIGL,Jan 7,Vigil Neuroscience Inc.,Health-Care,14.0,7.0,MS,JEFF,Stifel,0.316,-0.096,2022
+HOUR,Jan 7,Hour Loop Inc.,Consumer-Services,4.0,1.0,EF,,,33.458,0.998,2022
+TPG,Jan 12,TPG Inc.,Finance,29.5,33.0,JPM,GS,MS,0.44,0.153,2022
+TKLF,Jan 14,Yoshitsu Co. Ltd,Consumer-Non-Durables,5.0,2.0,UnSec,,,1.4269999999999998,5.4,2022
+CISO,Jan 14,Cerberus Cyber Sentinel Corp.,Technology,5.0,2.0,BOTD,,,2.406,0.084,2022
+CRDO,Jan 27,Credo Technology Group Holding Ltd.,Technology,10.0,20.0,GS,BAML,COWN,0.26899999999999996,0.165,2022
+SSIC,Feb 4,Silver Spike Investment Corp.,Finance,14.0,6.0,Stifel,PPRJ,,0.043,0.0,2022
+NVCT,Feb 4,Nuvectis Pharma Inc.,Health-Care,5.0,3.0,HCW,,,0.462,-0.35,2022
+ACLX,Feb 4,ARCELLX Inc.,Health-Care,15.0,8.0,BAML,SVB,BRCL,0.132,0.12,2022
+SKYX,Feb 10,Sky Technologies Corp. (SQL Technologies Corp.),Technology,14.0,1.0,BNCH,,,0.647,-0.154,2022
+HTCR,Feb 10,Heartcore Enterprises Inc.,Technology,5.0,3.0,BOTD,,,1.123,-0.01,2022
+AREN,Feb 11,The Arena Group (aka theMaven Inc.),Technology,8.3,3.0,,,,0.638,0.0,2022
+MDV,Feb 11,Modiv Inc.,Finance,25.0,,,,,0.0,1.69,2022
+VIVK,Feb 14,Vivakor Inc.,Public-Utilities,5.0,1.0,EF,,,0.669,-0.07,2022
+MHUA,Feb 16,Meihua International Medical Technologies Co. Ltd,Health-Care,10.0,3.0,PNC,SS,,0.374,0.292,2022
+BWV,Feb 18,Blue Water Vaccines Inc.,Health-Care,9.0,2.0,BOTD,,,0.06,5.377999999999999,2022
+MGLD,Mar 10,The Marygold Companies Inc. (aka Concierge Technologies Inc.),Finance,2.0,1.0,MXIM,,,6.124,0.695,2022
+AKAN,Mar 15,Akanda Corp.,Health-Care,4.0,4.0,BOTD,,,0.33899999999999997,1.625,2022
+ANTX,Mar 25,AN2 Therapeutics Inc.,Health-Care,15.0,4.0,COWN,SVB,EVCR,0.302,0.027000000000000003,2022
+XPON,Apr 1,Expion360 Inc.,Basic Industries,7.0,2.0,AXND,,,4.909,0.133,2022
+GNS,Apr 12,Genius Group Limited,Consumer Services,6.0,3.0,BOTD,,,0.366,4.083,2022
+EE,Apr 13,Excelerate Energy Inc.,Energy,24.0,16.0,BRCL,JPM,MS,0.7440000000000001,0.11900000000000001,2022
+APLD,Apr 13,Applied Blockchain Inc.,Technology,5.0,8.0,,NDHM,CHLM,0.39,-0.03,2022
+JCSE,Apr 22,JE Cleantech Holdings Limited,Miscellaneous,4.0,3.0,VWTR,,,0.32,3.75,2022
+TNON,Apr 27,Tenon Medical Inc.,Health Care,5.0,3.0,BNCH,VCL,,0.275,3.5,2022
+OST,Apr 27,Ostin Technology Group Co. Ltd.,Capital Goods,4.0,3.0,PNC,SS,,0.635,8.915,2022
+HLVX,Apr 29,HilleVax Inc.,Health Care,17.0,11.0,JPM,SVB,Stifel,0.19899999999999998,0.12300000000000001,2022
+BLTE,Apr 29,Belite Bio Inc.,Health Care,6.0,6.0,BNCH,,,0.5710000000000001,0.765,2022
+AUST,May 4,Austin Gold Corp.,Basic Industries,4.0,3.0,ROTH,,,2.443,0.09300000000000001,2022
+BLCO,May 6,Bausch + Lomb Corp.,Health Care,18.0,35.0,MS,GS,CITI,0.428,0.111,2022
+HNVR,May 11,"Hanover Bancorp, Inc./NY",Finance,21.0,1.0,STPH,PPRJ,,0.316,0.005,2022
+PFHC,May 13,ProFrac Holding Corp.,Energy,18.0,16.0,JPM,PS,MS,0.395,0.006,2022
+ASNS,May 13,"Actelis Networks, Inc.",Consumer Durables,4.0,3.0,BOTD,,,1.032,-0.4,2022
+VEDU,May 17,Visionary Education Technology Holdings Group Inc.,Consumer Services,4.0,4.0,,,,0.092,5.25,2022
+OKYO,May 17,"OKYO Pharma, Ltd.",Health Care,4.0,0.0,TEq,,,3.469,-0.095,2022
+BGXX,May 17,Bright Green Corp.,Health Care,16.0,158.0,EF,,,0.002,0.579,2022
+MICS,May 24,"The Singing Machine Company, Inc.",Consumer Durables,4.0,1.0,AGIS,,,1.138,-0.313,2022
+PEV,Jun 8,Phoenix Motor Inc.,Basic Industries,7.5,2.0,PNC,,,0.914,-0.45899999999999996,2022
+LYT,Jun 15,Lytus Technologies Holdings Pvt. Ltd.,Consumer Services,4.8,2.0,SCS,PCS,,0.237,2.5810000000000004,2022
+CNXA,Jun 15,Connexa Sports Technologies Inc.,Consumer Services,4.0,1.0,NLND,SCS,,0.49,-0.508,2022
+GSUN,Jun 22,Golden Sun Education Group Limited,Consumer Services,4.0,4.0,NONE,,,0.115,3.075,2022
+IE,Jun 28,Ivanhoe Electric Inc.,Basic Industries,11.8,14.0,BMO,JEFF,JPM,0.36200000000000004,-0.081,2022
+ILAG,Jul 13,Intelligent Living Application Group Inc.,Consumer Durables,4.0,5.0,NONE,,,1.4040000000000001,0.53,2022
+HKD,Jul 15,"AMTD Digital, Inc.",Finance,7.8,16.0,,,,0.05,2.5639999999999996,2022
+WETG,Jul 19,WeTrade Group Inc.,Consumer Services,4.0,10.0,UnSec,,,0.027000000000000003,4.038,2022
+VRAX,Jul 21,Virax Biolabs Group Limited,Health Care,5.0,1.0,BOTD,,,0.35700000000000004,2.64,2022
+MAIA,Jul 28,"MAIA Biotechnology, Inc.",Health Care,5.0,2.0,TEq,,,0.774,-0.10800000000000001,2022
+MGAM,Jul 29,Mobile Global eSports Inc. (MOGO),Consumer Services,4.0,1.0,WPRK,,,10.014,1.798,2022
+EFSH,Aug 3,1847 Holdings LLC,Miscellaneous,4.2,1.0,RFL,,,0.237,-0.107,2022
+MCVT,Aug 9,"Mill City Ventures III, Ltd.",Finance,4.0,1.0,AXND,,,0.436,0.08,2022
+TGL,Aug 11,Treasure Global Inc.,Consumer Services,4.0,2.0,EF,,,12.33,3.45,2022
+REBN,Aug 12,"Reborn Coffee, Inc.",Consumer Services,5.0,1.0,EF,,,3.24,-0.04,2022
+FRZA,Aug 12,"Forza X1, Inc.",Consumer Durables,5.0,3.0,TEq,,,6.348,0.498,2022
+GRFX,Aug 17,Graphex Group Limited (GGL),Basic Industries,2.5,4.0,EF,,,0.8009999999999999,-0.12,2022
+GCT,Aug 18,GigaCloud Technology Inc,Technology,12.3,2.0,AGIS,,,3.978,0.281,2022
+STBX,Aug 23,Starbox Group Holdings Ltd.,Consumer Services,4.0,5.0,NONE,,,4.421,2.85,2022
+PXMD,Aug 26,"PaxMedica, Inc.",Health Care,5.3,1.0,,RFL,,5.271,-0.065,2022
+JZ,Aug 26,Jianzhi Education Technology Group Company Ltd.,Consumer Services,5.0,5.0,UnSec,,,1.041,2.75,2022
+HPCO,Aug 30,"Hempacco Co., Inc.",Consumer Non-Durables,6.0,1.0,BOTD,,,4.522,0.297,2022
+ATXG,Aug 31,Addentax Group Corp.,Basic Industries,5.0,5.0,NONE,,,0.10300000000000001,130.268,2022
+YOSH,Sep 9,Yoshiharu Global Co.,Consumer Services,4.0,2.0,EF,,,7.148,0.043,2022
+LNKB,Sep 14,"LINKBANCORP, Inc.",Finance,7.5,4.0,STPH,PS,,0.17300000000000001,0.006999999999999999,2022
+THRD,Sep 15,"Third Harmonic Bio, Inc.",Health Care,17.0,10.0,MS,JEFF,COWN,0.192,0.158,2022
+CRBG,Sep 15,"Corebridge Financial, Inc. (SAFG Retirement Services)",Finance,21.0,80.0,JPM,MS,PS,0.062,-0.024,2022
+KNW,Sep 16,"Know Labs, Inc.",Health Care,2.0,3.0,BOTD,,,2.9560000000000004,0.05,2022
+LPTV,Sep 22,"Loop Media, Inc.",Miscellaneous,5.0,2.0,ROTH,,,0.456,-0.01,2022
+LASE,Sep 30,Laser Photonics Corp.,Basic Industries,5.0,3.0,AXND,,,2.334,-0.484,2022
+CTM,Oct 13,"Castellum, Inc.",Miscellaneous,2.0,1.0,EF,,,1.093,-0.4,2022
+PRME,Oct 20,"Prime Medicine, Inc.",Health Care,17.0,10.0,JPM,GS,MS,0.27,-0.096,2022
+MGAM,Oct 26,Mobile Global eSports Inc. (MOGO),Consumer Services,21.0,41.0,WPRK,,,0.0,0.345,2022
