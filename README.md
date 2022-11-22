@@ -25,10 +25,10 @@ These features were selected based on what features were used in previous studie
 
 # Models
 
-We have begun implementing the random forest model using Tensorflow.
+We have begun implementing the random forest model using Scikit-learn.
 
 # Libraries
 
 We are using the following libraries so far:
-  * TensorFlow - Used for training and classifying with our selected models as well as for analyzing the results
+  * Scikit-learn - Used for training and classifying with our selected models as well as for analyzing the results
   * Pandas - Used for general data handling, especially importing and combining data from csv files
