@@ -9,27 +9,46 @@ The Ticker data was gathered from a Ticker.com at the following link: https://ti
 
 The Bloomberg data was gathered from the Bloomberg database using the terminal in the business library
 
+Additional macroeconomic data was found on the St. Louis FED FRED database.
 
 # Features
 
 Currently we are planning to train our models using the following features:
-  * Offer and Opening price
-  * Price range
-  * Industry Sector
-  * Offer Size/Oustanding Shares
-  * Market Cap
-  * Underwriter/Underwriter ranking
-  * Venture Capital Backed
+* Sales - 1 Yr Growth
+* Profit Margin
+* Return on Assets
+* Offer Size (M)
+* Shares Outstanding (M)
+* Offer Price
+* Market Cap at Offer (M)
+* Cash Flow per Share
+* Instit Owner (% Shares Out)
+* Instit Owner (Shares Held)
+* Real GDP Per Capita
+* OECD Composite Leading Indicator
+* Interest Rate
+* Seasonally Adjusted Unemployment Rate
+* CPI Growth Rate
+* Industry Sector
+* Industry Group
+* Industry Subgroup
+* Underpriced (Label by which we are classifying data points)
 
-These features were selected based on what features were used in previous studies along with what data was available to us. We may add to or remove from this list depending on if we are able to find additional data, but this is our tentative list.
+These features were selected based on what features were used in previous studies along with what data was available to us.
 
 # Models
 
-We have begun implementing the random forest model using Scikit-learn.
+We have begun implementing our main random forest model using Scikit-learn. We have also implemented potential alternatives, such as a neural network, support vector machine, and gradient boosting model.
 
 # Libraries
 
 We are using the following libraries so far:
   * Scikit-learn - Used for training and classifying with our selected models as well as for analyzing the results
   * Pandas - Used for general data handling, especially importing and combining data from csv files
+
+# Components of the Project
+Is it easy to parse the source code?
+Is it clear what each component is contributing to the overall project?
+
+# How to install dependencies and build/run the project
 
