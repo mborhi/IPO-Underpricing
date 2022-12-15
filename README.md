@@ -38,11 +38,11 @@ These features were selected based on what features were used in previous studie
 
 # Models
 
-We have begun implementing our main random forest model using Scikit-learn. We have also implemented potential alternatives, such as a neural network, support vector machine, and gradient boosting model.
+We implemented our main random forest model using Scikit-learn. We have also implemented potential alternatives, such as a neural network, support vector machine, and gradient boosting model.
 
 # Libraries
 
-We are using the following libraries so far:
+We used the following libraries:
   * Scikit-learn - Used for training and classifying with our selected models as well as for analyzing the results
   * Pandas - Used for general data handling, especially importing and combining data from csv files
 
