@@ -47,8 +47,7 @@ We used the following libraries:
   * Pandas - Used for general data handling, especially importing and combining data from csv files
 
 # Components of the Project
-Is it easy to parse the source code?
-Is it clear what each component is contributing to the overall project?
+The implementation of our main Random Forest model can be found in the Jupyter notebook, 'random_forest_scikit.ipynb', in the 'Models' folder of the 'Random Forest' branch. As outlined in the notebook, this model was trained using the dataset in the 'data' folder titled 'clean_bloomberg_with_sectors_macro.csv'. This file combined all of the IPO-specific and macroeconomic data by ticker for each IPO.
 
 # How to install dependencies and build/run the project
 
