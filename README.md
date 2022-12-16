@@ -73,7 +73,7 @@ We train all our models using the following features:
 - Industry Subgroup
 - Underpriced (Classifying Feature)
 
-These features were selected based on the features used in previous research, along with the data that was publically available to us. We may add to or remove from this list depending on if we can find additional data, but this is our tentative list. Please reference our research paper for a definition of each feature.
+These features were selected based on the features used in previous research, along with the data that was publically available to us. Please reference our research paper for a definition of each feature.
 
 # Models
 We implemented four machine-learning models that were identified by previous research done in the field. We utilized the `sklearn` library to implement the random forest, gradient boosting classifier, and support vector machine. We used the `pytorch` library to implement a neural network. All of our models can be found in the [models](/models) folder.
