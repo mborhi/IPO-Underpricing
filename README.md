@@ -32,7 +32,7 @@ pip install -r requirements.txt
 For data collection and formatting we used `pandas` and `.csv` files. All of our data can be found in the [data](/data) folder and each source that needed to be cleaned has an independent ipython notebook in the [cleaning_scripts](/cleaning_scripts) folder. The following websites and applications are where we sourced our data for the project. 
 
 - **IPOScoop Data:** 
-  - Source: [IPOScoop.com](https://www.iposcoop.com/scoop-track-record-from-2000-to-present/)
+  - `Source:` [IPOScoop.com](https://www.iposcoop.com/scoop-track-record-from-2000-to-present/)
   - Notebook: [scoop-data.ipynb](/cleaning_scripts/scoop-data.ipynb) 
   - We converted the `.xls` file into a `.csv` file in the cleaning file. 
   - IPOs from `2000` to `2020`.
