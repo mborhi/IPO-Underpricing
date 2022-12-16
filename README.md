@@ -9,6 +9,8 @@ For our final project, we developed models to predict the underpricing of IPOs o
 - [Data Collection](#data-collection)
 - [Features](#features)
 - [Models](#models)
+  - [Random Forest Model Configuration](#random-forest-model-configuration)
+- [Final Paper](#final-project-paper)
 - [References](#references)
 
 # Installation 
