@@ -106,6 +106,9 @@ To achieve a 76% accuracy for the random forest model, we first anaylized severa
 
 After analysis, the `max_depth` of the tree turned out to be the determining factor in a model's accuracy. The full process can be found in the [test_random_forest_model_config.ipynb](/models/test_random_forest_model_config.ipynb). 
 
+# Final Project Paper
+  For more information view our [project paper](/B351_Main_Project_Final_Paper.pdf). It goes into much greater detail about our problem space, algorithms, methods, and results.
+
 # References
 
 ### Research Papers
