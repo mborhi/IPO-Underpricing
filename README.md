@@ -79,7 +79,7 @@ These features were selected based on the features used in previous research, al
 We implemented four machine-learning models that were identified by previous research done in the field. We utilized the `sklearn` library to implement the random forest, gradient boosting classifier, and support vector machine. We used the `pytorch` library to implement a neural network. All of our models can be found in the [models](/models) folder.
 
 - **Random Forest:**
-  - Notebook: [random_forest_bloomberg.ipynb](/models/random_forest_bloomberg.ipynb)
+  - Notebook: [random_forest_scikit.ipynb](/models/random_forest_scikit.ipynb)
   - Accuracy: 76%
   - Implemented using the `sklearn` function `RandomForestClassifier`
 - **Gradient Boosting Classifier:**
@@ -94,6 +94,17 @@ We implemented four machine-learning models that were identified by previous res
   - Notebook: [neural_network.ipynb](/models/neural_network.ipynb)
   - Accuracy: 70.2%
   - Implemented using `pytorch` library
+
+
+## Random Forest Model Configuration
+To achieve a 76% accuracy for the random forest model, we first anaylized several of the model's parameters. Specifically, examined the results of every combination of the features listed below:
+
+* _estimators_ - The number of trees in the forest 
+* _criterion_ -  The function to measure the quality of a split
+* _max_depth_ - The maximum allowed depth for trees
+* _max_features_ - The number of features to consider in each tree
+
+After analysis, the `max_depth` of the tree turned out to be the determining factor in a model's accuracy. The full process can be found in the [test_random_forest_model_config.ipynb](/models/test_random_forest_model_config.ipynb). 
 
 # References
 
