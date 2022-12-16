@@ -80,19 +80,27 @@ We implemented four machine-learning models that were identified by previous res
 
 - **Random Forest:**
   - Notebook: [random_forest_scikit.ipynb](/models/random_forest_scikit.ipynb)
-  - Accuracy: 76%
+  - Overall Accuracy: 76%
+    - Underpriced Accuracy: 92.8%
+    - Overpriced Accuracy: 16.6%
   - Implemented using the `sklearn` function `RandomForestClassifier`
 - **Gradient Boosting Classifier:**
   - Notebook: [gradient_boosting.ipynb](/models/gradient_boosting.ipynb)
-  - Accuracy: 75.3%
+  - Overall Accuracy: 75.3%
+    - Underpriced Accuracy: 94.9%
+    - Overpriced Accuracy: 12.1%
   - Implemented using the `sklearn` function `GradientBoostingClassifier`
 - **Support Vector Machine:**
   - Notebook: [svm.ipynb](/models/svm.ipynb)
-  - Accuracy: 73.9%
+  - Overall Accuracy: 73.9%
+    - Underpriced Accuracy: 100%
+    - Overpriced Accuracy: 0%
   - Implemented using the `sklearn` function `svm`
 - **Neural Network:**
   - Notebook: [neural_network.ipynb](/models/neural_network.ipynb)
-  - Accuracy: 70.2%
+  - Overall Accuracy: 70.2%
+    - Underpriced Accuracy: 88.8%
+    - Overpriced Accuracy: 16.2%
   - Implemented using `pytorch` library
 
 
