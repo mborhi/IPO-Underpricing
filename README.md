@@ -13,7 +13,7 @@ For our final project, we developed models to predict the underpricing of IPOs o
 
 # Installation 
 
-## Libraries 
+### Libraries 
 The libraries we used include:
 - `scikit_learn:` Used for training and classifying with our selected models as well as for analyzing the results.
 - `pandas:` Used for general data handling, especially importing and combining data from csv files.
@@ -22,7 +22,7 @@ The libraries we used include:
 - `seaborn:` Visualization.
 - `ipython:` Development environment.
 
-## Dependencies
+### Dependencies
 To install all of our project dependencies run:
 ```
 pip install -r requirements.txt
@@ -71,7 +71,7 @@ We train all our models using the following features:
 - Industry Sector
 - Industry Group
 - Industry Subgroup
-- Underpriced (Label by which we are classifying data points)
+- Underpriced (Classifying Feature)
 
 These features were selected based on the features used in previous research, along with the data that was publically available to us. We may add to or remove from this list depending on if we can find additional data, but this is our tentative list. Please reference our research paper for a definition of each feature.
 
@@ -97,7 +97,7 @@ We implemented four machine-learning models that were identified by previous res
 
 # References
 
-## Research Papers
+### Research Papers
 - [Predicting IPO underperformance using machine learning](https://www.researchgate.net/publication/356616690_Predicting_IPO_underperformance_using_machine_learning) by Rachit Agrawal
 
 - [Textual Information and IPO Underpricing: A Machine Learning approach](https://mpra.ub.uni-muenchen.de/103813/1/MPRA_paper_103813.pdf) by Apostolos Katsafados et al.
@@ -106,7 +106,7 @@ We implemented four machine-learning models that were identified by previous res
 
 - [Proceedings of the 2021 3rd International Conference on Economic Management and Cultural Industry](https://www.atlantis-press.com/proceedings/icemci-21/125965936) by Kelai Wang
 
-## FRED Data
+### FRED Data
 - [International Monetary Fund, Interest Rates, Discount Rate for United States](https://fred.stlouisfed.org/series/INTDSRUSM193N)
 
 - [Organization for Economic Co-operation and Development, Consumer Price Index: Total All Items for the United States](https://fred.stlouisfed.org/series/CPALTT01USM657N)
